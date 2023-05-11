@@ -1,0 +1,815 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Whole-genome characterization of myoepithelial carcinomas of the soft tissue </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/8/7/a006227" />
+      <meta content="/cshmcs/8/7/a006227.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Whole-genome characterization of myoepithelial carcinomas of the soft tissue"
+            name="DC.Title" />
+      <meta content="10.1101/mcs.a006227" name="DC.Identifier" />
+      <meta content="2022-12-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Joanna Cyrta" name="DC.Contributor" />
+      <meta content="Joel Rosiene" name="DC.Contributor" />
+      <meta content="Rohan Bareja" name="DC.Contributor" />
+      <meta content="Sarah Kudman" name="DC.Contributor" />
+      <meta content="Wael Al Zoughbi" name="DC.Contributor" />
+      <meta content="Samaneh Motanagh" name="DC.Contributor" />
+      <meta content="David C. Wilkes" name="DC.Contributor" />
+      <meta content="Kenneth Eng" name="DC.Contributor" />
+      <meta content="Tuo Zhang" name="DC.Contributor" />
+      <meta content="Evan Sticca" name="DC.Contributor" />
+      <meta content="Susan Mathew" name="DC.Contributor" />
+      <meta content="Mark A. Rubin" name="DC.Contributor" />
+      <meta content="Andrea Sboner" name="DC.Contributor" />
+      <meta content="Olivier Elemento" name="DC.Contributor" />
+      <meta content="Brian P. Rubin" name="DC.Contributor" />
+      <meta content="Marcin Imielinski" name="DC.Contributor" />
+      <meta content="Juan Miguel Mosquera" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Joanna Cyrta" />
+      <meta name="citation_author_orcid" content="0000-0002-0216-5330" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Joel Rosiene" />
+      <meta name="citation_author_orcid" content="0000-0002-8610-370X" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="3SUNY Downstate College of Medicine, Brooklyn, New York 11203, USA;" />
+      <meta name="citation_author" content="Rohan Bareja" />
+      <meta name="citation_author_orcid" content="0000-0002-0635-7743" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Sarah Kudman" />
+      <meta name="citation_author_orcid" content="0000-0001-9884-7346" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Wael Al Zoughbi" />
+      <meta name="citation_author_orcid" content="0000-0002-0684-1180" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Samaneh Motanagh" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="David C. Wilkes" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Kenneth Eng" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Tuo Zhang" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Evan Sticca" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Susan Mathew" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Mark A. Rubin" />
+      <meta name="citation_author_orcid" content="0000-0002-8321-9950" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Andrea Sboner" />
+      <meta name="citation_author_orcid" content="0000-0001-6915-3070" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Olivier Elemento" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="4Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author" content="Brian P. Rubin" />
+      <meta name="citation_author_institution"
+            content="5Department of Pathology, Cleveland Clinic, Cleveland, Ohio 44195, USA;" />
+      <meta name="citation_author" content="Marcin Imielinski" />
+      <meta name="citation_author_orcid" content="0000-0002-2211-4741" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="6New York Genome Center, New York, New York 10013, USA" />
+      <meta name="citation_author" content="Juan Miguel Mosquera" />
+      <meta name="citation_author_orcid" content="0000-0003-4666-6476" />
+      <meta name="citation_author_institution"
+            content="1Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="2Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New York 10021, USA;" />
+      <meta name="citation_author_institution"
+            content="6New York Genome Center, New York, New York 10013, USA" />
+      <meta content="Whole-genome characterization of myoepithelial carcinomas of the soft tissue"
+            name="citation_title" />
+      <meta content="12/01/2022" name="citation_date" />
+      <meta content="8" name="citation_volume" />
+      <meta content="7" name="citation_issue" />
+      <meta content="a006227" name="citation_firstpage" />
+      <meta content="8/7/a006227" name="citation_id" />
+      <meta content="8/7/a006227" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;8/7/a006227" name="citation_mjid" />
+      <meta content="10.1101/mcs.a006227" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006227.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006227.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006227.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/8/7.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006227"
+            name="citation_public_url" />
+      <meta content="36577525" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH REPORT" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/8/7/a006223.short" rel="prev" />
+      <link href="/content/8/7/a006235.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d146361835e1">var callbackToken='567956C92C1D71F';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57292&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cancercareers.org%2Fprofiles%2Fsign_up"
+                        target="_blank"><img class="adborder0" title="AACR"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/6790561747647926/cshmcs/2206012Q_AACR23AM_CarFair-UpWin_468x60_1.jpg?ad=57292&amp;adview=true"
+                             alt="AACR" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Whole-genome characterization of myoepithelial carcinomas of the soft tissue</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Joanna+Cyrta&amp;sortspec=date&amp;submit=Submit">Joanna Cyrta</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">7</a><span class="xref-sep">,</span><a id="xref-fn-3-1" class="xref-fn" href="#fn-3">9</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Joel+Rosiene&amp;sortspec=date&amp;submit=Submit">Joel Rosiene</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-fn-3-2" class="xref-fn" href="#fn-3">9</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Rohan+Bareja&amp;sortspec=date&amp;submit=Submit">Rohan Bareja</a></span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sarah+Kudman&amp;sortspec=date&amp;submit=Submit">Sarah Kudman</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-4" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Wael+Al+Zoughbi&amp;sortspec=date&amp;submit=Submit">Wael Al Zoughbi</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-5" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Samaneh+Motanagh&amp;sortspec=date&amp;submit=Submit">Samaneh Motanagh</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-6" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=David+C.+Wilkes&amp;sortspec=date&amp;submit=Submit">David C. Wilkes</a></span><a id="xref-aff-2-7" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kenneth+Eng&amp;sortspec=date&amp;submit=Submit">Kenneth Eng</a></span><a id="xref-aff-2-8" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-2" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Tuo+Zhang&amp;sortspec=date&amp;submit=Submit">Tuo Zhang</a></span><a id="xref-aff-2-9" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-3" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Evan+Sticca&amp;sortspec=date&amp;submit=Submit">Evan Sticca</a></span><a id="xref-aff-2-10" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-4" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Susan+Mathew&amp;sortspec=date&amp;submit=Submit">Susan Mathew</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Mark+A.+Rubin&amp;sortspec=date&amp;submit=Submit">Mark A. Rubin</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-11" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-2-1" class="xref-fn" href="#fn-2">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Andrea+Sboner&amp;sortspec=date&amp;submit=Submit">Andrea Sboner</a></span><a id="xref-aff-1-7" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-12" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-5" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Olivier+Elemento&amp;sortspec=date&amp;submit=Submit">Olivier Elemento</a></span><a id="xref-aff-1-8" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-13" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-4-6" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-15" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Brian+P.+Rubin&amp;sortspec=date&amp;submit=Submit">Brian P. Rubin</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-16" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Marcin+Imielinski&amp;sortspec=date&amp;submit=Submit">Marcin Imielinski</a></span><a id="xref-aff-1-9" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-14" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a><span class="xref-sep">,</span><a id="xref-fn-4-1" class="xref-fn" href="#fn-4">10</a> and 
+                     </li>
+                     <li class="last" id="contrib-17"><span class="name"><a class="name-search"
+                              href="/search?author1=Juan+Miguel+Mosquera&amp;sortspec=date&amp;submit=Submit">Juan Miguel Mosquera</a></span><a id="xref-aff-1-10" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-15" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-6-2" class="xref-aff" href="#aff-6">6</a><span class="xref-sep">,</span><a id="xref-fn-4-2" class="xref-fn" href="#fn-4">10</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, New York 10021, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Caryl and Israel Englander Institute for Precision Medicine, Weill Cornell Medicine and New York Presbyterian, New York, New
+                           York 10021, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>SUNY Downstate College of Medicine, Brooklyn, New York 11203, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Institute for Computational Biomedicine, Weill Cornell Medicine, New York, New York 10021, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Department of Pathology, Cleveland Clinic, Cleveland, Ohio 44195, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>New York Genome Center, New York, New York 10013, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">jmm9018{at}med.cornell.edu</span></span>; <span class="em-link"><span class="em-addr">mski{at}mskilab.org</span></span></li>
+                  </ol>
+                  <ol class="fn-track">
+                     <li class="fn-equal" id="fn-3">
+                        <p id="p-3"><a class="rev-xref" href="#xref-fn-3-1">↵</a><span class="fn-label">9</span> These authors contributed equally to this work.
+                        </p>
+                     </li>
+                  </ol>
+                  <ul class="author-notes">
+                     <li class="fn-present-address" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">7</span> Present address: Department of Pathology, Institut Curie, PSL University, 75005 Paris, France
+                        </p>
+                     </li>
+                     <li class="fn-present-address" id="fn-2">
+                        <p id="p-2"><a class="rev-xref" href="#xref-fn-2-1">↵</a><span class="fn-label">8</span> Present address: Department for BioMedical Research, University of Bern, 3008, Bern, Switzerland
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-6">Myoepithelial carcinomas (MECs) of soft tissue are rare and aggressive tumors affecting young adults and children, but their
+                     molecular landscape has not been comprehensively explored through genome sequencing. Here, we present the whole-exome sequencing
+                     (WES), whole-genome sequencing (WGS), and RNA sequencing findings of two MECs. Patients 1 and 2 (P1, P2), both male, were
+                     diagnosed at 27 and 37 yr of age, respectively, with shoulder (P1) and inguinal (P2) soft tissue tumors. Both patients developed
+                     metastatic disease, and P2 died of disease. P1 tumor showed a rhabdoid cytomorphology and a complete loss of INI1 (SMARCB1)
+                     expression, associated with a homozygous <em>SMARCB1</em> deletion. The tumor from P2 showed a clear cell/small cell morphology, retained INI1 expression and strong S100 positivity.
+                     By WES and WGS, tumors from both patients displayed low tumor mutation burdens, and no targetable alterations in cancer genes
+                     were detected. P2's tumor harbored an <em>EWSR1::KLF15</em> rearrangement, whereas the tumor from P1 showed a novel <em>ASCC2::GGNBP2</em> fusion. WGS evidenced a complex genomic event involving mainly Chromosomes 17 and 22 in the tumor from P1, which was consistent
+                     with chromoplexy. These findings are consistent with previous reports of <em>EWSR1</em> rearrangements (50% of cases) in MECs and provide a genetic basis for the loss of SMARCB1 protein expression observed through
+                     immunohistochemistry in 10% of 40% of MEC cases. The lack of additional driver mutations in these tumors supports the hypothesis
+                     that these alterations are the key molecular events in MEC evolution. Furthermore, the presence of complex structural variant
+                     patterns, invisible to WES, highlights the novel biological insights that can be gained through the application of WGS to
+                     rare cancers.
+                  </p>
+               </div>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=myoepithelial+carcinoma&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">myoepithelial carcinoma</a></span></li>
+               </ul>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-4">
+                        <p id="p-4"><a class="rev-xref" href="#xref-fn-4-1">↵</a><span class="fn-label">10</span> These authors share senior authorship.
+                        </p>
+                     </li>
+                     <li class="fn-supplementary-material" id="fn-6">
+                        <p id="p-51">[Supplemental material is available for this article.]</p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-06-18"><span class="received-label">Received </span>June 18, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-10-28"><span class="accepted-label">Accepted </span>October 28, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2022 Cyrta et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-5">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/8/7/a006223.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/8/7/a006235.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/8/7.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/mcs.a006227" class="slug-doi">10.1101/mcs.a006227
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    8: 
+                                    </span><span class="slug-pages">
+                                    a006227
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2022 Cyrta et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/8/7/a006227.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/8/7/a006227.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/8/7/a006227/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+REPORT&amp;sortspec=date&amp;submit=Submit">RESEARCH REPORT</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B8%2F7%2Fa006227&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006227">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=8/7/a006227&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006227">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=8/7/a006227&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006227">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;8/7/a006227" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a006227&amp;citation=Cyrta%20et%20al.%208%20%287%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B8%2F7%2Fa006227&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=36577525&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B8%2F7%2Fa006227">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;8/7/a006227"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/8/7/a006227?cited-by=yes&amp;legid=cshmcs;8/7/a006227#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F8%2F7%2Fa006227&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ACyrta%20author%3AJ.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Cyrta, J.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AMosquera%20author%3AJ.M.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Mosquera, J. M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36577525&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Cyrta%20J&amp;link_type=AUTHORSEARCH">Articles by  Cyrta, J.</a></li>
+                        <li><a href="/external-ref?access_num=Mosquera%20JM&amp;link_type=AUTHORSEARCH">Articles by  Mosquera, J. M.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36577525"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Cyrta, J.<a class="orcid-link" href="http://orcid.org/0000-0002-0216-5330">http://orcid.org/0000-0002-0216-5330</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Rosiene, J.<a class="orcid-link" href="http://orcid.org/0000-0002-8610-370X">http://orcid.org/0000-0002-8610-370X</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Bareja, R.<a class="orcid-link" href="http://orcid.org/0000-0002-0635-7743">http://orcid.org/0000-0002-0635-7743</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Kudman, S.<a class="orcid-link" href="http://orcid.org/0000-0001-9884-7346">http://orcid.org/0000-0001-9884-7346</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Al Zoughbi, W.<a class="orcid-link" href="http://orcid.org/0000-0002-0684-1180">http://orcid.org/0000-0002-0684-1180</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Rubin, M. A.<a class="orcid-link" href="http://orcid.org/0000-0002-8321-9950">http://orcid.org/0000-0002-8321-9950</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Sboner, A.<a class="orcid-link" href="http://orcid.org/0000-0001-6915-3070">http://orcid.org/0000-0001-6915-3070</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Imielinski, M.<a class="orcid-link" href="http://orcid.org/0000-0002-2211-4741">http://orcid.org/0000-0002-2211-4741</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Mosquera, J. M.<a class="orcid-link" href="http://orcid.org/0000-0003-4666-6476">http://orcid.org/0000-0003-4666-6476</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/8/7/a006227?related-urls=yes&amp;legid=cshmcs;8/7/a006227#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B8%2F7%2Fa006227&amp;current-view-path=/content/8/7/a006227"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006227&amp;title=Whole-genome%20characterization%20of%20myoepithelial%20carcinomas%20of%20the%20soft%20tissue+--+Cyrta%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006227&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57343&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fprofessionals%2Fmeetings%2Fmeetings-and-workshops-calendar%2F"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/6790561747647926/genesdev/2303063B_MCS_SciConf_160x800_1.jpg?ad=57343&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

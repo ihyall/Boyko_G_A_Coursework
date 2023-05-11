@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>Education and Mortality: Evidence from a Social Experiment - American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="bgHUFbdIOscDw2xgecV4-MfRmJgsi3O9T4tRIPks1ytde6JH4xgI8nezVFI-9SKK8ojp-UKyJcwt7mV1phmmHw==">
+    <meta name="Secure-Key" content="cEpJS2hodVZvQ3U5VGh3UU00QUJsOFN5NG9VcDBkY1I3LXhnOEtjS1ZGc2FfTzdHS0t8Z2VuZXJhbHxYM2xZVUUxMFdtVnBDU2tDUHlZeUJpaE1PUjU4RXhrNkVoUVJZQWt0T1RBeUZSY2FEQzVvSEE9PQ==">    <meta name="jerTk" value="">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38835597-1"></script>
+        <meta name="description" content="Education and Mortality: Evidence from a Social Experiment by Costas Meghir, Mårten Palme and Emilia Simeonova. Published in volume 10, issue 2, pages 234-56 of American Economic Journal: Applied Economics, April 2018, Abstract: We examine the effects on mortality and health due to a major Swedish...">
+<meta name="keywords" content="National Government Expenditures and Education, Health Behavior, Analysis of Education, Education: Government Policy">
+<meta name="citation_title" content="Education and Mortality: Evidence from a Social Experiment">
+<meta name="citation_publication_date" content="2018/4">
+<meta name="citation_journal_title" content="American Economic Journal: Applied Economics">
+<meta name="citation_issn" content="1945-7782">
+<meta name="citation_volume" content="10">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="234">
+<meta name="citation_lastpage" content="56">
+<meta name="citation_doi" content="10.1257/app.20150365">
+<meta name="citation_pdf_url" content="https://www.aeaweb.org/articles/pdf/doi/10.1257/app.20150365">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aeajournals">
+<meta name="twitter:title" content="Education and Mortality: Evidence from a Social Experiment">
+<meta name="twitter:description" content="(April 2018) - We examine the effects on mortality and health due to a major Swedish educational reform that increased the years of compulsory schooling. Using the gradual phase-in of the reform between 1949 and 1962 across municipalities, we estimate insignificant effects of the reform on mortality in the affected cohort. From the confidence intervals, we can rule out effects larger than 1&amp;ndash;1.4 months of increased life expectancy. We find no significant impacts on mortality for individuals of low socioeconomic status backgrounds, on deaths that are more likely to be affected by behavior, on hospitalizations, and consumption of prescribed drugs.">
+<meta name="twitter:image" content="https://www.aeaweb.org/journals/images/app">
+<meta name="citation_author" content="Meghir, Costas">
+<meta name="citation_author_institution" content="Yale U and IFS, London">
+<meta name="citation_author" content="Palme, Mårten">
+<meta name="citation_author_institution" content="Stockholm U">
+<meta name="citation_author" content="Simeonova, Emilia">
+<meta name="citation_author_institution" content="Johns Hopkins U">
+<link href="/assets/b1f13f1/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/ec52775/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/b1f13f1/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/214a2f4f/jquery.min.js"></script>
+<script src="/assets/264520fd/yii.js"></script>
+<script src="/js/ajaxPostProcessor.js"></script>
+<script src="/js/articles.js"></script>
+<script src="/assets/b1f13f1/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js"></script>
+<script src="/assets/ec52775/jquery-ui.js"></script>
+<script src="/assets/b1f13f1/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/4021672f/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/a9c22480/js/QueClientAsset-min.js"></script>
+<script src="/assets/ff14b9b/js/legal-cookie.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"SHZBNU1jMU53NUN2Wl9vRnZmc2RVcG4xZ0E5UlotX3RNSWRhb09TdU1lZ3BPYWg1UGd8cXVldWVjbGllbnR8UzFwdFZrNXRZa2NqTUZRVkJEb2dFeTRnT1FVL0NoVXVQZzBDYnkwYk56VXRHRHM3SnlJS0VBPT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="internal">
+    <div class="cookie-legal-banner">
+        <div class="cookie-content">
+            <div class="cookie-text-wrapper">
+                <h5 style="font-weight: bold !important; text-transform: none !important; font-size: 16px !important;">This website uses cookies.</h5>
+                <p class="cookie-text">By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our <a href="/privacypolicy">Privacy Policy</a>.</p>
+            </div>
+            <div class="cookie-button-wrapper">
+                <button class="button legal-cookie-accept-button">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        try{
+            $(document).ready(function() { try{ var lgCk = new LegalCookie(); }catch (e){}; });
+        }catch (e){};
+    </script>
+
+
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/b1f13f1/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/about-aea/committees">Committees</a>
+            </li>
+            <li>
+                <a href="/ethics">Ethics</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        /*var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();*/
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-38835597-1');
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+	<div class="breadcrumbs-wrapper"><div class="container"><ol class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/journals">Journals</a></li><li><a href="/journals/app">American Economic Journal: Applied Economics</a></li><li><a href="/issues/501#10.1257/app.20150365">April 2018</a></li><li class="is-active">Education and Mortality: Evidence from a Social Experiment</li></ol></div></div>	<main class="main-content " role="main"><div class="container"><style>
+
+.hoverOverRide:hover{
+
+    text-decoration:none;
+
+}
+
+</style>
+
+<script type='text/javascript' src='/js/articlesTracking.js'></script>
+
+
+
+<section class="primary article-detail journal-article">
+    <h1 class="title">Education and Mortality: Evidence from a Social Experiment</h1>
+    <ul class="attribution">
+            <li class='author' style='margin-bottom:0.5em; '>
+         Costas Meghir    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Mårten Palme    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Emilia Simeonova    </li>
+
+        
+		<div style='margin-top:25px;'>
+
+						
+			<a href='/issues/501' class='hoverOverRide'>
+				<li class='journal'>American Economic Journal: Applied Economics </li>
+			</a>
+
+			
+				<a href='/issues/501' class='hoverOverRide'>
+					<li class='journal'>vol. 10,
+					no. 2, 					April 2018</li>
+				</a>
+
+		</div>
+                <li class="pages">(pp. 234-56)</li>
+		
+    </ul>
+
+	
+    <section class='download'>
+        <a class="button" href="/articles/pdf/doi/10.1257/app.20150365">
+            Download Full Text PDF <br/>
+                    </a>
+    </section>
+
+	
+	
+    <div class="toggle-content-group">
+
+		   <ul class="toggle">
+				<li>
+					<a class="is-active" href="#article-information" style='text-decoration:none; cursor:default;'>Article Information</a>
+				</li>
+													<li>
+						<a href="#article-comments">Comments (<span id='commentCount'>1</span>)</a>
+					</li>
+							</ul>
+		
+		
+        <section class="article-information-group toggle-content is-visible" id="article-information">
+
+			
+							<section class="article-information abstract">
+					<h2>Abstract</h2>
+					We examine the effects on mortality and health due to a major Swedish educational reform that increased the years of compulsory schooling. Using the gradual phase-in of the reform between 1949 and 1962 across municipalities, we estimate insignificant effects of the reform on mortality in the affected cohort. From the confidence intervals, we can rule out effects larger than 1&ndash;1.4 months of increased life expectancy. We find no significant impacts on mortality for individuals of low socioeconomic status backgrounds, on deaths that are more likely to be affected by behavior, on hospitalizations, and consumption of prescribed drugs.				</section>
+			
+							<section class="article-information citation">
+					<h2>Citation</h2>
+					<cite>
+
+                        Meghir, Costas, Mårten Palme, and Emilia Simeonova.
+						<span class="year">2018.</span>
+
+						
+						
+							<span class="title">"Education and Mortality: Evidence from a Social Experiment."</span>
+						
+						<span class="journal">American Economic Journal: Applied Economics</span>,
+
+							  <span class="vol">
+					10 (2):
+					 234-56<span
+									  class="pages">.</span>
+				  </span>
+						<span class="doi">DOI: 10.1257/app.20150365</span>
+					</cite>
+
+					<form class="citation-export">
+												<div class="select input ">
+							<label>
+								<label>
+									<select id="export-dropdown" name="args[format]">
+										<option value="0">Choose Format:</option>
+										<option value="bib">BibTeX</option>
+										<option value="enw">EndNote</option>
+										<option value="txt">Refer/BibIX</option>
+										<option value="ris">RIS</option>
+										<option value="tab">Tab-Delimited</option>
+									</select>
+								</label>
+							</label>
+							<input type='hidden' name='args[doi]' value='10.1257/app.20150365'/>
+						</div>
+
+						<div id='previewCitationExport'></div>
+
+					</form>
+				</section>
+								
+					<section class='article-information additional-materials'>
+						
+							<h2>Additional Materials</h2>
+
+						
+						<ul id='additionalMaterials'>
+							<li>                    <a class='track-icpsr' target='_blank' href="http://doi.org/10.3886/E113655V1" doi="10.1257/app.20150365" accessType="Article View">
+                Replication Package                                                    (983.72 KB)
+                            </a>
+        </li><li>                    <a class=''  href="articles/attachments?retrieve=937w8bL85mtqjTsK22npQZdqoLKwXvNC" doi="10.1257/app.20150365" accessType="Article View">
+                Online Appendix                                                    (244.78 KB)
+                            </a>
+        </li><li>                    <a class=''  href="articles/attachments?retrieve=jxDjTiHUGDSy7R10RavQHVIWiIJ5SOK0" doi="10.1257/app.20150365" accessType="Article View">
+                Author Disclosure Statement(s)                                                    (294.60 KB)
+                            </a>
+        </li>
+						</ul>
+					</section>
+
+
+				
+									<section class='article-information jel-classification'>
+						<h2>JEL Classification</h2>
+						<ul class='jel-codes'>
+														<li>
+								<strong class='code'>H52</strong>
+								National Government Expenditures and Education
+															<li>
+								<strong class='code'>I12</strong>
+								Health Behavior
+															<li>
+								<strong class='code'>I21</strong>
+								Analysis of Education
+															<li>
+								<strong class='code'>I28</strong>
+								Education: Government Policy
+															</li>
+						</ul>
+					</section>
+				
+			</section>
+
+		
+		
+			<section class="comments toggle-content" id="article-comments">
+								
+		<section class='article-information'>
+
+			
+				
+				
+					<p class='journal' style='text-overflow: clip; overflow: hidden;'>Comparison of Meghir et al. (2018) and Lager and Torssander (2012)</p>
+
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by Robert Kaestner											</li>
+
+							
+				<li>Posted on 5/5/2018 9:22:42 AM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>In this comment, I compare the Meghir et al. (2018) study to a similar study by Lager and  Torssander (2012).<br />
+<br />
+Meghir et al. (2018) noted the following:<br />
+<br />
+“Compared to previous Swedish studies (such as Lager and Torssander 2012 and Spasojevi´c 2010) we use both regression discontinuity, and difference-in-differences, a much larger sample, a longer follow-up period, and a larger set of outcome variables”<br />
+<br />
+Sample and Follow-up:<br />
+<br />
+Costas Meghir, Mårten Palme, and Emilia Simeonova (2018):<br />
+<br />
+“We include all who were born in Sweden between 1940 and 1957 and who survived until the year they turn age 16. This sample resulted in 2,184,857 observations (1,115,426 males and 1,069,431 females).”<br />
+<br />
+The follow-up period stops in December 31, 2015, which means that the birth cohort born in 1940 is aged 75 when we stop observing them.<br />
+<br />
+Lager and Torssander (2012):<br />
+<br />
+“All Swedish children born between 1943 and 1955 in 900 of the 1,029 municipalities that introduced the new type of school for one of the cohorts born between 1944 and 1955 were eligible for our study (1,247,900 individuals).”<br />
+<br />
+“Primary outcome measures are all-cause and cause-specific mortality until the end of 2007”<br />
+<br />
+Outcomes:<br />
+<br />
+Costas Meghir, Mårten Palme, and Emilia Simeonova (2018):<br />
+ <br />
+“Our main outcome variable is mortality, which has the strong advantage that its reporting does not depend on individual behavior (as hospitalizations might, for example).”<br />
+<br />
+“We use two further sets of health measures as outcomes: data on number of nights in hospital care obtained from the national in-patient register and data on all prescribed drugs obtained from the national prescription register. The national in-patient register contains information on duration and ICD codes for all hospital stays in Swedish hospitals. It has national coverage since 1987, and we have data through December 31, 2014. The national prescription register includes quantities, measured in defined daily doses, and Anatomical Therapeutic Chemical (ATC) codes for all prescribed drugs in Sweden since 2005. We use data for the period until December 31, 2015.”<br />
+<br />
+Lager and Torssander (2012):<br />
+<br />
+“Primary outcome measures are all-cause and cause-specific mortality until the end of 2007”<br />
+<br />
+Methods:<br />
+<br />
+Costas Meghir, Mårten Palme, and Emilia Simeonova (2018):<br />
+<br />
+“We describe the association between mortality and education using a Cox proportional hazard model (see, e.g., Cox and Oakes 1984) as well as a linear probability model (LPM). With discrete duration data, the hazard function at the heart of the Cox model is interpreted as the conditional probability of dying in the next age interval given survival to that age.”<br />
+<br />
+“We also use a Cox proportional hazard model for the duration of life again based on the DiD assumption to identify the effect.”<br />
+<br />
+“An alternative approach is to identify the effect of the reform within municipalities based on a regression discontinuity design where we use the threshold date that determines in which year the child will start attending school— January 1 in Sweden. Anyone born on or after that date in the calendar year of the reform implementation is assigned to the reform. Before that date, they are assigned to the previous school year and, as a result, to the old schooling system. Ideally we would use a very narrow window around the discontinuity, comparing outcomes of people born just before the cutoff date and those born just after; however, this would lead to too small a sample. Instead of restricting the bandwidth, we use polynomials in the month-distance from the discontinuity (one before and one after) combined with dummy variables to control for month of birth effects”<br />
+<br />
+Lager and Torssander (2012):<br />
+<br />
+“Mortality risks are estimated with Cox proportional hazard regressions with age measured in months. Individuals enter the analyses at the census or in January 1, 1986 (right after the Educational Register data) in IV-analyses and analyses stratified by education level, and are censored at death, emigration, or at the end of follow-up (December 2007). We adjust for cohort and municipality effects by adding dummy-variables for each birth cohort and allowing different baseline hazards for each municipality, with SEs clustered at the municipal level. In formal tests of sex differences in the effect of the experiment (i.e., in analyzing whether there is a significant sex*experiment interaction), control is also added for possible sex differences in mortality trends (i.e., sex*birth cohort interactions). All instrumental variable analyses and the corresponding estimates of the effect of 1 observed year in education, also include control for cohort and municipality effects, with SEs clustered at the municipal level.”<br />
+<br />
+Results:<br />
+<br />
+Costas Meghir, Mårten Palme, and Emilia Simeonova (2018):<br />
+<br />
+“We find no significant effects of the reform on overall mortality, regardless of whether we use difference-in-differences models or a regression discontinuity approach. Indeed, our results indicate that the effect of the reform on mortality is 0 for the age window we consider with an upper limit of the 95 percent CI, suggesting an increase of life expectancy of at most 1.4 months.”<br />
+<br />
+Lager and Torssander (2012):<br />
+<br />
+“We found lower all-cause mortality risk in the experimental group after age 40 [hazard ratio (HR) = 0.96, 95% confidence interval (CI) 0.93–0.99] but not before (HR = 1.03, 95% CI 0.98–1.07) or during the whole follow-up (HR = 0.98, 95% CI 0.95–1.01). After age 40, the experimental group had lower mortality from overall cancer, lung cancer, and accidents. In addition, exposed women had lower mortality from ischemic heart disease, and exposed men lower mortality from overall external causes. In analyses stratified for final educational level, we found lower mortality in the experimental group within the strata that settled for compulsory schooling only (HR = 0.94, 95% CI 0.89–0.99) and compulsory schooling plus vocational training (HR = 0.92, 95% CI 0.88–0.97). Thus, the experimental group had lower mortality from causes known to be related to education. Lower mortality in the experimental group was also found among the least educated, a group that clearly benefited from the reform in terms of educational length. However, all estimates are small and there was no evident impact of the reform on all-cause mortality in all ages.”</div>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	 
+	<a style='margin-top:10px;' class='button' href='/login?return_path=/articles?id=10.1257%2Fapp.20150365'>Login to Comment</a>
+
+			</section>
+
+		
+        <section class="full-text toggle-content" id="article-full-text">
+
+        </section>
+		 </div> 
+</section>
+
+<aside class='secondary' role='complementary'>
+    </aside>
+
+<aside class="secondary" role="complementary">
+    <nav class="secondary-navigation" role="navigation">
+        <h2><a href="/journals">Journals</a></h2><ul><li><div class="nav-divider"></div></li><li><a href="/journals/aer"><em>American Economic Review</em></a></li><li><a href="/journals/aeri"><em>AER: Insights</em></a></li><li><a href="/journals/app"><em>AEJ: Applied Economics</em></a><ul><li><a href="/journals/app/about-app">About <em>AEJ: Applied</em></a></li><li><a href="/journals/app/forthcoming">Forthcoming Articles</a></li><li class="is-active"><a href="/journals/app/issues">Issues</a><ul></ul></li><li><a href="/journals/app/submissions">Submissions</a></li><li><a href="/journals/aej/styleguide">Guidelines for Accepted Articles</a></li><li><a href="/journals/app/reviewers">Reviewers</a></li><li><a href="/journals/app/contact-app">Contact <em>AEJ: Applied</em></a></li></ul></li><li><a href="/journals/pol"><em>AEJ: Economic Policy</em></a></li><li><a href="/journals/mac"><em>AEJ: Macroeconomics</em></a></li><li><a href="/journals/mic"><em>AEJ: Microeconomics</em></a></li><li><a href="/journals/jel"><em>Journal of Economic Literature</em></a></li><li><a href="/journals/jep"><em>Journal of Economic Perspectives</em></a></li><li><a href="/journals/pandp"><em>AEA Papers & Proceedings</em></a></li><li><div class="nav-divider"></div></li><li><a href="/journals/subscriptions">Subscriptions</a></li><li><a href="/about-aea/advertise/advertise-in-journals">Advertise in AEA Journals</a></li><li><a href="http://pubs.aeaweb.org/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens">Athens Subscriber Login</a></li><li><a href="/journals/subscriptions/backissues">Back Issues & SGML Metadata</a></li><li><a href="/journals/data">Data and Code</a></li><li><a href="/journals/get-journal-alerts">Journal Alerts</a></li><li><a href="/journals/jstor">JSTOR Access for AEA Members</a></li><li><a href="/journals/policies">Policies</a></li></ul>    </nav>
+    <section class="action-group">
+            </section>
+</aside>
+</div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+
+            <a href="/about-aea/committees">Committees</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+
+        <li>
+            <a href='https://twitter.com/AEAInformation' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAInformation</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2023 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>

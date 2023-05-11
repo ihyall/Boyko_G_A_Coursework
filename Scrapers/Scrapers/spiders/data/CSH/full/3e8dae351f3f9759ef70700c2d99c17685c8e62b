@@ -1,0 +1,640 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Screening of Chemical Libraries Using Xenopus Embryos and Tadpoles for Phenotypic Drug Discovery </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/2023/4/pdb.prot098269" />
+      <meta content="/protocols/2023/4/pdb.prot098269.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Screening of Chemical Libraries Using Xenopus Embryos and Tadpoles for Phenotypic Drug Discovery"
+            name="DC.Title" />
+      <meta content="10.1101/pdb.prot098269" name="DC.Identifier" />
+      <meta content="2023-04-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Mazhar Gull" name="DC.Contributor" />
+      <meta content="Stefan M. Schmitt" name="DC.Contributor" />
+      <meta content="Roland E. Kälin" name="DC.Contributor" />
+      <meta content="André W. Brändli" name="DC.Contributor" />
+      <meta content="130" name="citation_collection_id" />
+      <meta content="139" name="citation_collection_id" />
+      <meta content="143" name="citation_collection_id" />
+      <meta content="173" name="citation_collection_id" />
+      <meta content="191" name="citation_collection_id" />
+      <meta content="241" name="citation_collection_id" />
+      <meta content="243" name="citation_collection_id" />
+      <meta content="253" name="citation_collection_id" />
+      <meta content="265" name="citation_collection_id" />
+      <meta content="95248" name="citation_collection_id" />
+      <meta content="Cold Spring Harbor Protocols" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Protoc" name="citation_journal_abbrev" />
+      <meta content="1940-3402" name="citation_issn" />
+      <meta content="1559-6095" name="citation_issn" />
+      <meta name="citation_author" content="Mazhar Gull" />
+      <meta name="citation_author_institution"
+            content="1Walter-Brendel-Center of Experimental Medicine, University Hospital, Ludwig-Maximilians-University Munich, 81377 Munich, Germany" />
+      <meta name="citation_author" content="Stefan M. Schmitt" />
+      <meta name="citation_author_institution"
+            content="1Walter-Brendel-Center of Experimental Medicine, University Hospital, Ludwig-Maximilians-University Munich, 81377 Munich, Germany" />
+      <meta name="citation_author" content="Roland E. Kälin" />
+      <meta name="citation_author_institution"
+            content="1Walter-Brendel-Center of Experimental Medicine, University Hospital, Ludwig-Maximilians-University Munich, 81377 Munich, Germany" />
+      <meta name="citation_author" content="André W. Brändli" />
+      <meta name="citation_author_orcid" content="0000-0002-8932-3644" />
+      <meta name="citation_author_institution"
+            content="1Walter-Brendel-Center of Experimental Medicine, University Hospital, Ludwig-Maximilians-University Munich, 81377 Munich, Germany" />
+      <meta name="citation_author_email" content="abrandli@med.lmu.de" />
+      <meta content="Screening of Chemical Libraries Using Xenopus Embryos and Tadpoles for Phenotypic Drug Discovery"
+            name="citation_title" />
+      <meta content="04/01/2023" name="citation_date" />
+      <meta content="2023" name="citation_volume" />
+      <meta content="4" name="citation_issue" />
+      <meta content="pdb.prot098269" name="citation_firstpage" />
+      <meta content="2023/4/pdb.prot098269" name="citation_id" />
+      <meta content="2023/4/pdb.prot098269" name="citation_id_from_sass_path" />
+      <meta content="protocols;2023/4/pdb.prot098269" name="citation_mjid" />
+      <meta content="10.1101/pdb.prot098269" name="citation_doi" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/2023/4.cover.gif" name="issue_cover_image" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269"
+            name="citation_public_url" />
+      <meta content="36180216" name="citation_pmid" />
+      <meta name="citation_section" content="Protocol" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/2023/4/pdb.top098251.short" rel="prev" />
+      <link href="/content/2023/4/pdb.top107656.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d5283331e1">var callbackToken='5671110B2F4E447';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/local/js/hw-local-global.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a class="header-logo" href="/"><img title="Cold Spring Harbor Protocols" alt="Cold Spring Harbor Protocols"
+                    class="header-logo"
+                    width="387"
+                    height="83"
+                    src="/local/img/journal_logo.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/site/misc/subject.xhtml" title="SUBJECT CATEGORIES"><span>SUBJECT CATEGORIES</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/feedback" title="FEEDBACK"><span>FEEDBACK</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               		
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     				<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     				<input value="" title="Search Cold Spring Harbor Protocols" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     			
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div><input type="hidden" name="tocsectionid" class="search-section" value="protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="recipe" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="topic introduction" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="emerging model organisms" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="product protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="kit" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="information panel" /></form>
+               	
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57313&amp;adclick=true&amp;url=https%3A%2F%2Fproducts.advansta.com%2FWesternEaze-Chemi%2F"
+                        target="_blank"><img class="adborder0" title="WesternEase"
+                             src="//cshprotocols.cshlp.org/adsystem/graphics/3767517215579286/protocols/CSHL-Leader_WesternEaze-Chemi_468x60.gif?ad=57313&amp;adview=true"
+                             alt="WesternEase" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div xmlns="" class="section-name protocol">Protocol</div>
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Screening of Chemical Libraries Using <em>Xenopus</em> Embryos and Tadpoles for Phenotypic Drug Discovery
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Mazhar+Gull&amp;sortspec=date&amp;submit=Submit">Mazhar Gull</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">2</a><span class="xref-sep">,</span><a id="xref-fn-2-1" class="xref-fn" href="#fn-2">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Stefan+M.+Schmitt&amp;sortspec=date&amp;submit=Submit">Stefan M. Schmitt</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-3-1" class="xref-fn" href="#fn-3">3</a><span class="xref-sep">,</span><a id="xref-fn-4-1" class="xref-fn" href="#fn-4">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Roland+E.+K%C3%A4lin&amp;sortspec=date&amp;submit=Submit">Roland E. Kälin</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-3-2" class="xref-fn" href="#fn-3">4</a> and 
+                     </li>
+                     <li class="last" id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=Andr%C3%A9+W.+Br%C3%A4ndli&amp;sortspec=date&amp;submit=Submit">André W. Brändli</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-corresp-1-1" class="xref-corresp" href="#corresp-1">6</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Walter-Brendel-Center of Experimental Medicine, University Hospital, Ludwig-Maximilians-University Munich, 81377 Munich, Germany
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><a class="rev-xref" href="#xref-corresp-1-1">↵</a><span class="corresp-label">6</span>Correspondence: <span class="em-link"><span class="em-addr">abrandli{at}med.lmu.de</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-6">Phenotypic drug discovery assesses the effect of small molecules on the phenotype of cells, tissues, or whole organisms without
+                     a priori knowledge of the target or pathway. Using vertebrate embryos instead of cell-based assays has the advantage that
+                     the screening of small molecules occurs in the context of the complex biology and physiology of the whole organism. Fish and
+                     amphibians are the only classes of vertebrates with free-living larvae amenable to high-throughput drug screening in multiwell
+                     dishes. For both animal classes, particularly zebrafish and <em>Xenopus</em>, husbandry requirements are straightforward, embryos can be obtained in large numbers, and they develop ex utero so their
+                     development can be monitored easily with a dissecting microscope. At 350 million years, the evolutionary distance between
+                     amphibians and humans is significantly shorter than that between fish and humans, which is estimated at 450 million years.
+                     This increases the likelihood that drugs discovered by screening in amphibian embryos will be active in humans. Here, we describe
+                     the basic protocol for the medium- to high-throughput screening of chemical libraries using embryos of the African clawed
+                     frog <em>Xenopus laevis</em>. Bioactive compounds are identified by observing phenotypic changes in whole embryos and tadpoles. In addition to the discovery
+                     of compounds with novel bioactivities, the phenotypic screening protocol also allows for the identification of compounds with
+                     in vivo toxicity, eliminating early hits that are poor drug candidates. We also highlight important considerations for designing
+                     chemical screens, choosing chemical libraries, and performing secondary screens using whole mount in situ hybridization or
+                     immunostaining.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">2</span> Present address: Sartorius CellGenix GmbH, Freiburg, Germany
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-2">
+                        <p id="p-2"><a class="rev-xref" href="#xref-fn-2-1">↵</a><span class="fn-label">3</span> Present address: Merck KGaA, Darmstadt, Germany
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-3"><a class="rev-xref" href="#xref-fn-3-1">↵</a><span class="fn-label">4</span> Present address: Neurosurgical Research, Department of Neurosurgery, University Hospital, Ludwig-Maximilians-University Munich,
+                           Munich, Germany
+                        </p>
+                     </li>
+                     <li class="fn" id="fn-4">
+                        <p id="p-4"><a class="rev-xref" href="#xref-fn-4-1">↵</a><span class="fn-label">5</span> These authors contributed equally to this work.
+                        </p>
+                     </li>
+                     <li class="fn-other" id="fn-5">
+                        <p id="p-5">From the Xenopus collection, edited by Hazel L. Sive.</p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://cshprotocols.cshlp.org/site/misc/terms.xhtml">© 2023 Cold Spring Harbor Laboratory Press</a></li>
+               </ul><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/2023/4/pdb.top098251.short" title="Previous article"
+                  class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/2023/4/pdb.top107656.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/2023/4.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">September 30, 2022</span>,
+                                 doi:
+                                 <span title="10.1101/pdb.prot098269" class="slug-doi">10.1101/pdb.prot098269
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Protocols" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Protoc</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    2023: 
+                                    </span><span class="slug-pages">
+                                    pdb.prot098269-
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml"><span class="copyright-statement">
+                                    <nlm:ext-link xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                  xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  xmlns:hwp="http://schema.highwire.org/Journal"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://cshprotocols.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://cshprotocols.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Cold Spring Harbor Laboratory Press</nlm:ext-link></span></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span><span class="viewspecificaccesscheck protocols;2023/4/pdb.prot098269 abstract"></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/2023/4/pdb.prot098269.full" rel="view-full-text">Full Text</a><span class="viewspecificaccesscheck protocols;2023/4/pdb.prot098269 full"></span></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/2023/4/pdb.prot098269.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="viewspecificaccesscheck protocols;2023/4/pdb.prot098269 reprint"></span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2022/09/30/pdb.prot098269">pdb.prot098269v1</a></li>
+                                 <li class="current-li"><span>2023/4/pdb.prot098269</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <div xmlns="" class="section-name protocol">Protocol</div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=protocols%3B2023%2F4%2Fpdb.prot098269&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=2023/4/pdb.prot098269&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.abstract">Alert me if a correction is posted</a></li>
+                        <li class="similar-link"><a href="/search?qbe=protocols%3Bpdb.prot098269&amp;citation=Gull%20et%20al.%202023%20%284%29:%20pdb.prot098269&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=protocols%3B2023%2F4%2Fpdb.prot098269&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=36180216&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=protocols%3B2023%2F4%2Fpdb.prot098269">Download to citation manager</a></li>
+                        <li><a href="http://www.cshlpress.com/permission_form.tpl">
+                              				Permissions
+                              			</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-folder-col">
+                     <h4 class="cb-section-header"><span>Personal Folder</span></h4>
+                     <ol>
+                        <li><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=protocols%3B2023%2F4%2Fpdb.prot098269">Save to Personal Folders</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Updates/Comments</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/protocols;2023/4/pdb.prot098269"
+                              class="eletter-link eletter-submit-link">Submit Updates/Comments</a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Updates/Comments published</span></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=2023/4/pdb.prot098269&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.abstract">Alert me when Updates/Comments are published</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/2023/4/pdb.prot098269.abstract?cited-by=yes&amp;legid=protocols;2023/4/pdb.prot098269#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fprotocols%2F2023%2F4%2Fpdb.prot098269&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AGull%20author%3AM.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Gull, M.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ABr%C3%A4ndli%20author%3AA.W.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Brändli, A. W.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://cshprotocols.cshlp.org/content/2023/4/pdb.prot098269.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36180216&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Gull%20M&amp;link_type=AUTHORSEARCH">Articles by  Gull, M.</a></li>
+                        <li><a href="/external-ref?access_num=Br%C3%A4ndli%20AW&amp;link_type=AUTHORSEARCH">Articles by  Brändli, A. W.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Brändli, A. W.<a class="orcid-link" href="http://orcid.org/0000-0002-8932-3644">http://orcid.org/0000-0002-8932-3644</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-art-col">
+                     <h4 class="cb-section-header"><span>Subject Categories</span></h4>
+                     <ol>
+                        <li><a href="/cgi/collection/visualization">Visualization</a></li>
+                        <li><a href="/cgi/collection/high-throughput_analysis_general">High-Throughput Analysis, general</a></li>
+                        <li><a href="/cgi/collection/imaging_development">Imaging Development</a></li>
+                        <li><a href="/cgi/collection/xenopus">Xenopus</a></li>
+                        <li><a href="/cgi/collection/libraries">Libraries</a></li>
+                        <li><a href="/cgi/collection/xenopus_transgenics">Xenopus Transgenics</a></li>
+                        <li><a href="/cgi/collection/developmental_biology">Developmental Biology</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/2023/4/pdb.prot098269.abstract?related-urls=yes&amp;legid=protocols;2023/4/pdb.prot098269#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=protocols%3B2023%2F4%2Fpdb.prot098269&amp;current-view-path=/content/2023/4/pdb.prot098269.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.prot098269&amp;title=Screening%20of%20Chemical%20Libraries%20Using%20Xenopus%20Embryos%20and%20Tadpoles%20for%20Phenotypic%20Drug%20Discovery+--+Gull%20et%20al.%202023%20%284%29%3A%20pdb.prot098269+--+protocols&amp;doi=10.1101/pdb.prot098269&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 2023 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/2023/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/2023/4.cover-expansion">Scanning electron micrograph of a <em>D. melanogaster</em> antenna</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/site/misc/sample.xhtml" title="Featured Articles"><span>Featured Articles</span></a></li>
+                  <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                  <li><a href="/site/recipes/" title="Recipes"><span>Recipes</span></a></li>
+                  <li><a href="/content/by/year" title="Archive by Date"><span>Archive by Date</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="Alerts and RSS Feeds"><span>Alerts and RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="http://www.cshlpress.com/permission_form.tpl" title="Permissions"><span>Permissions</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57314&amp;adclick=true&amp;url=https%3A%2F%2Fproducts.advansta.com%2Fwestern-blot-blocking-buffer%2F"
+                     target="_blank"><img class="adborder0" title="Advansta"
+                          src="//cshprotocols.cshlp.org/adsystem/graphics/11060200828121158/protocols/CSHL-Tower-AdvanBlock-PF_160x800.gif?ad=57314&amp;adview=true"
+                          alt="Advansta" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:25px;">
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tbody>
+                     <tr>
+                        <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;padding-right:12px;vertical-align:top;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/feedback" title="Feedback"><span>Feedback</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.org" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press. </a><a href="/site/misc/terms.xhtml">Terms of Service.</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1940-3402</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1559-6095</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-4");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

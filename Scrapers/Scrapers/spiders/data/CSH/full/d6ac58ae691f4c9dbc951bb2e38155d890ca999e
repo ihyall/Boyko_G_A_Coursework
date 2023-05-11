@@ -1,0 +1,596 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Trypsin, the Major Proteolytic Enzyme for Blood Digestion in the Mosquito Midgut </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/2023/4/pdb.top107656" />
+      <meta content="/protocols/2023/4/pdb.top107656.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Trypsin, the Major Proteolytic Enzyme for Blood Digestion in the Mosquito Midgut"
+            name="DC.Title" />
+      <meta content="10.1101/pdb.top107656" name="DC.Identifier" />
+      <meta content="2023-04-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Andrew B. Nuss" name="DC.Contributor" />
+      <meta content="Monika Gulia-Nuss" name="DC.Contributor" />
+      <meta content="221" name="citation_collection_id" />
+      <meta content="253" name="citation_collection_id" />
+      <meta content="267" name="citation_collection_id" />
+      <meta content="95249" name="citation_collection_id" />
+      <meta content="Cold Spring Harbor Protocols" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Protoc" name="citation_journal_abbrev" />
+      <meta content="1940-3402" name="citation_issn" />
+      <meta content="1559-6095" name="citation_issn" />
+      <meta name="citation_author" content="Andrew B. Nuss" />
+      <meta name="citation_author_orcid" content="0000-0002-3764-2053" />
+      <meta name="citation_author_institution"
+            content="1Department of Biochemistry and Molecular Biology, Veterinary, and Rangeland Sciences, University of Nevada, Reno, Nevada 89557, USA" />
+      <meta name="citation_author_institution"
+            content="2Department of Agriculture, Veterinary, and Rangeland Sciences, University of Nevada, Reno, Nevada 89557, USA" />
+      <meta name="citation_author" content="Monika Gulia-Nuss" />
+      <meta name="citation_author_orcid" content="0000-0001-7095-1037" />
+      <meta name="citation_author_institution"
+            content="1Department of Biochemistry and Molecular Biology, Veterinary, and Rangeland Sciences, University of Nevada, Reno, Nevada 89557, USA" />
+      <meta name="citation_author_email" content="mgulianuss@unr.edu" />
+      <meta content="Trypsin, the Major Proteolytic Enzyme for Blood Digestion in the Mosquito Midgut"
+            name="citation_title" />
+      <meta content="04/01/2023" name="citation_date" />
+      <meta content="2023" name="citation_volume" />
+      <meta content="4" name="citation_issue" />
+      <meta content="pdb.top107656" name="citation_firstpage" />
+      <meta content="2023/4/pdb.top107656" name="citation_id" />
+      <meta content="2023/4/pdb.top107656" name="citation_id_from_sass_path" />
+      <meta content="protocols;2023/4/pdb.top107656" name="citation_mjid" />
+      <meta content="10.1101/pdb.top107656" name="citation_doi" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/2023/4.cover.gif" name="issue_cover_image" />
+      <meta content="http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656"
+            name="citation_public_url" />
+      <meta content="36787964" name="citation_pmid" />
+      <meta name="citation_section" content="Topic Introduction" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/2023/4/pdb.prot098269.short" rel="prev" />
+      <link href="/content/2023/4/pdb.top107685.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d5276294e1">var callbackToken='5671110B2F4E447';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/local/js/hw-local-global.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a class="header-logo" href="/"><img title="Cold Spring Harbor Protocols" alt="Cold Spring Harbor Protocols"
+                    class="header-logo"
+                    width="387"
+                    height="83"
+                    src="/local/img/journal_logo.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/site/misc/subject.xhtml" title="SUBJECT CATEGORIES"><span>SUBJECT CATEGORIES</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/feedback" title="FEEDBACK"><span>FEEDBACK</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               		
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     				<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     				<input value="" title="Search Cold Spring Harbor Protocols" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     			
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div><input type="hidden" name="tocsectionid" class="search-section" value="protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="recipe" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="topic introduction" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="emerging model organisms" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="product protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="kit" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="information panel" /></form>
+               	
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57168&amp;adclick=true&amp;url=https%3A%2F%2Fwww.blotcycler.com%2F"
+                        target="_blank"><img class="adborder0" title="BlotCycler"
+                             src="//cshprotocols.cshlp.org/adsystem/graphics/5507438827844173/genesdev/banner.gif?ad=57168&amp;adview=true"
+                             alt="BlotCycler" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div xmlns="" class="section-name topic-introduction">Topic Introduction</div>
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Trypsin, the Major Proteolytic Enzyme for Blood Digestion in the Mosquito Midgut</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Andrew+B.+Nuss&amp;sortspec=date&amp;submit=Submit">Andrew B. Nuss</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a> and 
+                     </li>
+                     <li class="last" id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=Monika+Gulia-Nuss&amp;sortspec=date&amp;submit=Submit">Monika Gulia-Nuss</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-corresp-1-1" class="xref-corresp" href="#corresp-1">3</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Biochemistry and Molecular Biology, Veterinary, and Rangeland Sciences, University of Nevada, Reno, Nevada 89557,
+                           USA
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Agriculture, Veterinary, and Rangeland Sciences, University of Nevada, Reno, Nevada 89557, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><a class="rev-xref" href="#xref-corresp-1-1">↵</a><span class="corresp-label">3</span>Correspondence: <span class="em-link"><span class="em-addr">mgulianuss{at}unr.edu</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">When a female mosquito takes a blood meal, proteolytic activity surges in the midgut. Trypsin-like serine proteases are the
+                     major endoproteolytic enzyme induced by feeding in mosquitoes. The mosquito midgut lacks trypsin activity before the blood
+                     meal, but in most anautogenous mosquitoes, trypsin activity increases continuously up to 30 h after feeding and subsequently
+                     returns to baseline levels by 60 h. Trypsin activity in mosquitoes is restricted entirely to the posterior midgut lumen, where
+                     blood is stored and digested. Trypsin enzyme activity can be quantitatively measured using the artificial <em>N</em>α-benzoyl-<em>DL</em>-arginine 4-nitroanilide hydrochloride substrate, a method described in our associated protocol.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-other" id="fn-1">
+                        <p id="p-1">From the Mosquitoes collection, edited by Laura B. Duvall and Benjamin J. Matthews.</p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://cshprotocols.cshlp.org/site/misc/terms.xhtml">© 2023 Cold Spring Harbor Laboratory Press</a></li>
+               </ul><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/2023/4/pdb.prot098269.short" title="Previous article"
+                  class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/2023/4/pdb.top107685.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/2023/4.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">February 14, 2023</span>,
+                                 doi:
+                                 <span title="10.1101/pdb.top107656" class="slug-doi">10.1101/pdb.top107656
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Protocols" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Protoc</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    2023: 
+                                    </span><span class="slug-pages">
+                                    pdb.top107656-
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml"><span class="copyright-statement">
+                                    <nlm:ext-link xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                  xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  xmlns:hwp="http://schema.highwire.org/Journal"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://cshprotocols.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://cshprotocols.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Cold Spring Harbor Laboratory Press</nlm:ext-link></span></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span><span class="viewspecificaccesscheck protocols;2023/4/pdb.top107656 abstract"></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/2023/4/pdb.top107656.full" rel="view-full-text">Full Text</a><span class="viewspecificaccesscheck protocols;2023/4/pdb.top107656 full"></span></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/2023/4/pdb.top107656.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="viewspecificaccesscheck protocols;2023/4/pdb.top107656 reprint"></span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2023/02/14/pdb.top107656">pdb.top107656v1</a></li>
+                                 <li class="current-li"><span>2023/4/pdb.top107656</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <div xmlns="" class="section-name topic-introduction">Topic Introduction</div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=protocols%3B2023%2F4%2Fpdb.top107656&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=2023/4/pdb.top107656&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.abstract">Alert me if a correction is posted</a></li>
+                        <li class="similar-link"><a href="/search?qbe=protocols%3Bpdb.top107656&amp;citation=Nuss%20and%20Gulia-Nuss%202023%20%284%29:%20pdb.top107656&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=protocols%3B2023%2F4%2Fpdb.top107656&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=36787964&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=protocols%3B2023%2F4%2Fpdb.top107656">Download to citation manager</a></li>
+                        <li><a href="http://www.cshlpress.com/permission_form.tpl">
+                              				Permissions
+                              			</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-folder-col">
+                     <h4 class="cb-section-header"><span>Personal Folder</span></h4>
+                     <ol>
+                        <li><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=protocols%3B2023%2F4%2Fpdb.top107656">Save to Personal Folders</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Updates/Comments</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/protocols;2023/4/pdb.top107656"
+                              class="eletter-link eletter-submit-link">Submit Updates/Comments</a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Updates/Comments published</span></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=2023/4/pdb.top107656&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2023/4/pdb.top107656.abstract">Alert me when Updates/Comments are published</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/2023/4/pdb.top107656.abstract?cited-by=yes&amp;legid=protocols;2023/4/pdb.top107656#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fprotocols%2F2023%2F4%2Fpdb.top107656&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ANuss%20author%3AA.B.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Nuss, A. B.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AGulia-Nuss%20author%3AM.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Gulia-Nuss, M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36787964&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Nuss%20AB&amp;link_type=AUTHORSEARCH">Articles by  Nuss, A. B.</a></li>
+                        <li><a href="/external-ref?access_num=Gulia-Nuss%20M&amp;link_type=AUTHORSEARCH">Articles by  Gulia-Nuss, M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Nuss, A. B.<a class="orcid-link" href="http://orcid.org/0000-0002-3764-2053">http://orcid.org/0000-0002-3764-2053</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Gulia-Nuss, M.<a class="orcid-link" href="http://orcid.org/0000-0001-7095-1037">http://orcid.org/0000-0001-7095-1037</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-art-col">
+                     <h4 class="cb-section-header"><span>Subject Categories</span></h4>
+                     <ol>
+                        <li><a href="/cgi/collection/proteins_and_proteomics_general">Proteins and Proteomics, general</a></li>
+                        <li><a href="/cgi/collection/mosquitoes">Mosquitoes</a></li>
+                        <li><a href="/cgi/collection/mosquitoes_collection">Mosquitoes: A Laboratory Manual</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/2023/4/pdb.top107656.abstract?related-urls=yes&amp;legid=protocols;2023/4/pdb.top107656#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=protocols%3B2023%2F4%2Fpdb.top107656&amp;current-view-path=/content/2023/4/pdb.top107656.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2023/4/pdb.top107656&amp;title=Trypsin%2C%20the%20Major%20Proteolytic%20Enzyme%20for%20Blood%20Digestion%20in%20the%20Mosquito%20Midgut+--+Nuss%20and%20Gulia-Nuss%202023%20%284%29%3A%20pdb.top107656+--+protocols&amp;doi=10.1101/pdb.top107656&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 2023 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/2023/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/2023/4.cover-expansion">Scanning electron micrograph of a <em>D. melanogaster</em> antenna</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/site/misc/sample.xhtml" title="Featured Articles"><span>Featured Articles</span></a></li>
+                  <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                  <li><a href="/site/recipes/" title="Recipes"><span>Recipes</span></a></li>
+                  <li><a href="/content/by/year" title="Archive by Date"><span>Archive by Date</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="Alerts and RSS Feeds"><span>Alerts and RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="http://www.cshlpress.com/permission_form.tpl" title="Permissions"><span>Permissions</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57314&amp;adclick=true&amp;url=https%3A%2F%2Fproducts.advansta.com%2Fwestern-blot-blocking-buffer%2F"
+                     target="_blank"><img class="adborder0" title="Advansta"
+                          src="//cshprotocols.cshlp.org/adsystem/graphics/28459416950770045/protocols/CSHL-Tower-AdvanBlock-PF_160x800.gif?ad=57314&amp;adview=true"
+                          alt="Advansta" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:25px;">
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tbody>
+                     <tr>
+                        <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;padding-right:12px;vertical-align:top;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/feedback" title="Feedback"><span>Feedback</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.org" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press. </a><a href="/site/misc/terms.xhtml">Terms of Service.</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1940-3402</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1559-6095</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-4");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

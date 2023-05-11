@@ -1,0 +1,80 @@
+2023-03-26 18:25:39 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+2023-03-26 18:25:39 [scrapy.extensions.telnet] INFO: Telnet Password: b6d6ddd59b14a32c
+2023-03-26 18:25:39 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-26 18:25:39 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-26 18:25:39 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-26 18:25:39 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-26 18:25:39 [scrapy.core.engine] INFO: Spider opened
+2023-03-26 18:25:39 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-26 18:25:39 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-26 18:25:40 [filelock] DEBUG: Attempting to acquire lock 2879444175456 on c:\users\ihy_a\pycharmprojects\pythonproject\projects\venv\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2023-03-26 18:25:40 [filelock] DEBUG: Lock 2879444175456 acquired on c:\users\ihy_a\pycharmprojects\pythonproject\projects\venv\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2023-03-26 18:25:40 [filelock] DEBUG: Attempting to release lock 2879444175456 on c:\users\ihy_a\pycharmprojects\pythonproject\projects\venv\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2023-03-26 18:25:40 [filelock] DEBUG: Lock 2879444175456 released on c:\users\ihy_a\pycharmprojects\pythonproject\projects\venv\lib\site-packages\tldextract\.suffix_cache/publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2023-03-26 18:25:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org> (referer: None)
+2023-03-26 18:25:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/jep> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/jep>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/app> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/app>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/aeri> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:42 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/aeri>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/mic> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/mic>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/pol> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/pol>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/aer> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/aer>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/jel> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/jel>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.aeaweb.org/journals/mac> (referer: https://www.aeaweb.org)
+2023-03-26 18:25:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.aeaweb.org/journals/mac>
+{'domain_id': None, 'name': None, 'description': None}
+2023-03-26 18:25:45 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-26 18:25:45 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2703,
+ 'downloader/request_count': 9,
+ 'downloader/request_method_count/GET': 9,
+ 'downloader/response_bytes': 251148,
+ 'downloader/response_count': 9,
+ 'downloader/response_status_count/200': 9,
+ 'elapsed_time_seconds': 6.493786,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 26, 15, 25, 45, 961647),
+ 'item_scraped_count': 8,
+ 'log_count/DEBUG': 22,
+ 'log_count/INFO': 10,
+ 'request_depth_max': 1,
+ 'response_received_count': 9,
+ 'scheduler/dequeued': 9,
+ 'scheduler/dequeued/memory': 9,
+ 'scheduler/enqueued': 9,
+ 'scheduler/enqueued/memory': 9,
+ 'start_time': datetime.datetime(2023, 3, 26, 15, 25, 39, 467861)}
+2023-03-26 18:25:45 [scrapy.core.engine] INFO: Spider closed (finished)

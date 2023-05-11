@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>Correspondence - American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="tTSZZdGPbmv5EYVCogXi-9juUW_y-QypXe_jCyOYBwKGTu83hd9cXo1hvXDlNbiJ7bcgDpzAWtg_itdefK12Ng==">
+    <meta name="Secure-Key" content="WXhZSHJlSmZCYnFnbDc4b2FKWGlQWG5IemJPUjg0NTM5NUFFQUxDTG1iNFhYbWhwWld8Z2VuZXJhbHxOelY1TkRaa1MwSm1SRXdGQmlBZUEwMS5RVTFISW4wYVdYc1VaRU13RFJaN1ppbEVBd1VCS3c9PQ==">    <meta name="jerTk" value="">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38835597-1"></script>
+        <meta name="description" content="Correspondence by Richard C. Leone, Bernard Wasow, Earl L. Grinols, David Mustard, William R. Eadington, William Walter Brown and Christina D. Romer. Published in volume 14, issue 1, pages 223-228 of Journal of Economic Perspectives, Winter 2000">
+<meta name="citation_title" content="Correspondence">
+<meta name="citation_publication_date" content="2000/03">
+<meta name="citation_fulltext_world_readable" content="">
+<meta name="citation_journal_title" content="Journal of Economic Perspectives">
+<meta name="citation_issn" content="0895-3309">
+<meta name="citation_volume" content="14">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="223">
+<meta name="citation_lastpage" content="228">
+<meta name="citation_doi" content="10.1257/jep.14.1.223">
+<meta name="citation_pdf_url" content="https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.14.1.223">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aeajournals">
+<meta name="twitter:title" content="Correspondence">
+<meta name="twitter:description" content="(Winter 2000)">
+<meta name="twitter:image" content="https://www.aeaweb.org/journals/images/jep">
+<meta name="citation_author" content="Leone, Richard C.">
+<meta name="citation_author_institution" content="The Century Foundation">
+<meta name="citation_author" content="Wasow, Bernard">
+<meta name="citation_author_institution" content="The Century Foundation">
+<meta name="citation_author" content="Grinols, Earl L.">
+<meta name="citation_author_institution" content="University of Illinois">
+<meta name="citation_author" content="Mustard, David">
+<meta name="citation_author_institution" content="University of Georgia">
+<meta name="citation_author" content="Eadington, William R.">
+<meta name="citation_author_institution" content="University of Nevada">
+<meta name="citation_author" content="Brown, William Walter">
+<meta name="citation_author_institution" content="California State University at Northridge">
+<meta name="citation_author" content="Romer, Christina D.">
+<meta name="citation_author_institution" content="University of California">
+<link href="/assets/b1f13f1/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/ec52775/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/b1f13f1/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/214a2f4f/jquery.min.js"></script>
+<script src="/assets/264520fd/yii.js"></script>
+<script src="/js/ajaxPostProcessor.js"></script>
+<script src="/js/articles.js"></script>
+<script src="/assets/b1f13f1/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js"></script>
+<script src="/assets/ec52775/jquery-ui.js"></script>
+<script src="/assets/b1f13f1/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/4021672f/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/a9c22480/js/QueClientAsset-min.js"></script>
+<script src="/assets/ff14b9b/js/legal-cookie.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"M1NoTnlBZ2p0aWpaVV81V05xWUhtZWZ4T2xVcmZLenQ4ZEZoZnNoVzkxcWZhTzJmMEJ8cXVldWVjbGllbnR8UkZCSmVrWkNTamdPSkFBMUVuUUhmMmtaZUI0a0N3TnJQUUo0TG5RYmZGVW9QVDRRS0N3TWNRPT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="internal">
+    <div class="cookie-legal-banner">
+        <div class="cookie-content">
+            <div class="cookie-text-wrapper">
+                <h5 style="font-weight: bold !important; text-transform: none !important; font-size: 16px !important;">This website uses cookies.</h5>
+                <p class="cookie-text">By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our <a href="/privacypolicy">Privacy Policy</a>.</p>
+            </div>
+            <div class="cookie-button-wrapper">
+                <button class="button legal-cookie-accept-button">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        try{
+            $(document).ready(function() { try{ var lgCk = new LegalCookie(); }catch (e){}; });
+        }catch (e){};
+    </script>
+
+
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/b1f13f1/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/about-aea/committees">Committees</a>
+            </li>
+            <li>
+                <a href="/ethics">Ethics</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        /*var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();*/
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-38835597-1');
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+	<div class="breadcrumbs-wrapper"><div class="container"><ol class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/journals">Journals</a></li><li><a href="/journals/jep">Journal of Economic Perspectives</a></li><li><a href="/issues/128#10.1257/jep.14.1.223">Winter 2000</a></li><li class="is-active">Correspondence</li></ol></div></div>	<main class="main-content " role="main"><div class="container"><style>
+
+.hoverOverRide:hover{
+
+    text-decoration:none;
+
+}
+
+</style>
+
+<script type='text/javascript' src='/js/articlesTracking.js'></script>
+
+
+
+<section class="primary article-detail journal-article">
+    <h1 class="title">Correspondence</h1>
+    <ul class="attribution">
+            <li class='author' style='margin-bottom:0.5em; '>
+         Richard C. Leone    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Bernard Wasow    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Earl L. Grinols    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         David Mustard    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         William R. Eadington    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         William Walter Brown    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Christina D. Romer    </li>
+
+        
+		<div style='margin-top:25px;'>
+
+						
+			<a href='/issues/128' class='hoverOverRide'>
+				<li class='journal'>Journal of Economic Perspectives </li>
+			</a>
+
+			
+				<a href='/issues/128' class='hoverOverRide'>
+					<li class='journal'>vol. 14,
+					no. 1, 					Winter 2000</li>
+				</a>
+
+		</div>
+                <li class="pages">(pp. 223-228)</li>
+		
+    </ul>
+
+	
+    <section class='download'>
+        <a class="button" href="/articles/pdf/doi/10.1257/jep.14.1.223">
+            Download Full Text PDF <br/>
+            (Complimentary)        </a>
+    </section>
+
+	
+	
+    <div class="toggle-content-group">
+
+		   <ul class="toggle">
+				<li>
+					<a class="is-active" href="#article-information" style='text-decoration:none; cursor:default;'>Article Information</a>
+				</li>
+													<li>
+						<a href="#article-comments">Comments (<span id='commentCount'>0</span>)</a>
+					</li>
+							</ul>
+		
+		
+        <section class="article-information-group toggle-content is-visible" id="article-information">
+
+			
+			
+							<section class="article-information citation">
+					<h2>Citation</h2>
+					<cite>
+
+                        Leone, Richard, C., Bernard Wasow, Earl L. Grinols, David Mustard, William R. Eadington, William Walter Brown, and Christina D. Romer.
+						<span class="year">2000.</span>
+
+						
+						
+							<span class="title">"Correspondence."</span>
+						
+						<span class="journal">Journal of Economic Perspectives</span>,
+
+							  <span class="vol">
+					14 (1):
+					 223-228<span
+									  class="pages">.</span>
+				  </span>
+						<span class="doi">DOI: 10.1257/jep.14.1.223</span>
+					</cite>
+
+					<form class="citation-export">
+												<div class="select input ">
+							<label>
+								<label>
+									<select id="export-dropdown" name="args[format]">
+										<option value="0">Choose Format:</option>
+										<option value="bib">BibTeX</option>
+										<option value="enw">EndNote</option>
+										<option value="txt">Refer/BibIX</option>
+										<option value="ris">RIS</option>
+										<option value="tab">Tab-Delimited</option>
+									</select>
+								</label>
+							</label>
+							<input type='hidden' name='args[doi]' value='10.1257/jep.14.1.223'/>
+						</div>
+
+						<div id='previewCitationExport'></div>
+
+					</form>
+				</section>
+								
+				
+			</section>
+
+		
+		
+			<section class="comments toggle-content" id="article-comments">
+									
+	<div style='margin-bottom:15px;'>There are no comments for this article.</div>
+
+ 
+	<a style='margin-top:10px;' class='button' href='/login?return_path=/articles?id=10.1257%2Fjep.14.1.223'>Login to Comment</a>
+
+			</section>
+
+		
+        <section class="full-text toggle-content" id="article-full-text">
+
+        </section>
+		 </div> 
+</section>
+
+<aside class='secondary' role='complementary'>
+    </aside>
+
+<aside class="secondary" role="complementary">
+    <nav class="secondary-navigation" role="navigation">
+        <h2><a href="/journals">Journals</a></h2><ul><li><div class="nav-divider"></div></li><li><a href="/journals/aer"><em>American Economic Review</em></a></li><li><a href="/journals/aeri"><em>AER: Insights</em></a></li><li><a href="/journals/app"><em>AEJ: Applied Economics</em></a></li><li><a href="/journals/pol"><em>AEJ: Economic Policy</em></a></li><li><a href="/journals/mac"><em>AEJ: Macroeconomics</em></a></li><li><a href="/journals/mic"><em>AEJ: Microeconomics</em></a></li><li><a href="/journals/jel"><em>Journal of Economic Literature</em></a></li><li><a href="/journals/jep"><em>Journal of Economic Perspectives</em></a><ul><li><a href="/journals/jep/about-jep">About <em>JEP</em></a></li><li class="is-active"><a href="/journals/jep/issues">Issues</a><ul></ul></li><li><a href="/journals/jep/submissions">Proposals</a></li><li><a href="/journals/jep/recommendations-for-further-reading">Reading Recommendations</a></li><li><a href="/journals/jep/classroom"><em>JEP</em> in the Classroom</a></li><li><a href="/journals/jep/contact-jep">Contact the <em>JEP</em></a></li></ul></li><li><a href="/journals/pandp"><em>AEA Papers & Proceedings</em></a></li><li><div class="nav-divider"></div></li><li><a href="/journals/subscriptions">Subscriptions</a></li><li><a href="/about-aea/advertise/advertise-in-journals">Advertise in AEA Journals</a></li><li><a href="http://pubs.aeaweb.org/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens">Athens Subscriber Login</a></li><li><a href="/journals/subscriptions/backissues">Back Issues & SGML Metadata</a></li><li><a href="/journals/data">Data and Code</a></li><li><a href="/journals/get-journal-alerts">Journal Alerts</a></li><li><a href="/journals/jstor">JSTOR Access for AEA Members</a></li><li><a href="/journals/policies">Policies</a></li></ul>    </nav>
+    <section class="action-group">
+            </section>
+</aside>
+</div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+
+            <a href="/about-aea/committees">Committees</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+
+        <li>
+            <a href='https://twitter.com/AEAInformation' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAInformation</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2023 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>

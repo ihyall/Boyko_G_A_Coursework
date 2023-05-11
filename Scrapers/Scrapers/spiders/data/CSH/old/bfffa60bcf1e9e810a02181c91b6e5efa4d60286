@@ -1,0 +1,608 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Targeting RNA with small molecules: lessons learned from Xist RNA </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A monthly journal publishing high-quality, peer-reviewed research on all topics related to RNA and its metabolism in all organisms" />
+      <meta content="/rna/29/4/463.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Targeting RNA with small molecules: lessons learned from Xist RNA"
+            name="DC.Title" />
+      <meta content="10.1261/rna.079523.122" name="DC.Identifier" />
+      <meta content="2023-04-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Elliott B. Nickbarg" name="DC.Contributor" />
+      <meta content="Kerrie B. Spencer" name="DC.Contributor" />
+      <meta content="Jonathan D. Mortison" name="DC.Contributor" />
+      <meta content="Jeannie T. Lee" name="DC.Contributor" />
+      <meta content="RNA" name="citation_journal_title" />
+      <meta content="RNA" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1355-8382" name="citation_issn" />
+      <meta content="1469-9001" name="citation_issn" />
+      <meta name="citation_author" content="Elliott B. Nickbarg" />
+      <meta name="citation_author_institution"
+            content="1Merck &amp; Co., Inc., Boston, Massachusetts 02115, USA" />
+      <meta name="citation_author" content="Kerrie B. Spencer" />
+      <meta name="citation_author_institution"
+            content="1Merck &amp; Co., Inc., Boston, Massachusetts 02115, USA" />
+      <meta name="citation_author" content="Jonathan D. Mortison" />
+      <meta name="citation_author_institution"
+            content="1Merck &amp; Co., Inc., Boston, Massachusetts 02115, USA" />
+      <meta name="citation_author" content="Jeannie T. Lee" />
+      <meta name="citation_author_institution"
+            content="2Department of Molecular Biology, Massachusetts General Hospital, Boston, Massachusetts 02114, USA" />
+      <meta name="citation_author_institution"
+            content="3Department of Genetics, The Blavatnik Institute, Harvard Medical School, Boston, Massachusetts 02115, USA" />
+      <meta content="Targeting RNA with small molecules: lessons learned from Xist RNA"
+            name="citation_title" />
+      <meta content="04/01/2023" name="citation_date" />
+      <meta content="29" name="citation_volume" />
+      <meta content="4" name="citation_issue" />
+      <meta content="463" name="citation_firstpage" />
+      <meta content="472" name="citation_lastpage" />
+      <meta content="29/4/463" name="citation_id" />
+      <meta content="29/4/463" name="citation_id_from_sass_path" />
+      <meta content="rna;29/4/463" name="citation_mjid" />
+      <meta content="10.1261/rna.079523.122" name="citation_doi" />
+      <meta content="http://rnajournal.cshlp.org/content/29/4/463.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/4/463.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/4/463.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/29/4.cover.gif" name="issue_cover_image" />
+      <meta content="http://rnajournal.cshlp.org/content/29/4/463"
+            name="citation_public_url" />
+      <meta content="36725318" name="citation_pmid" />
+      <meta name="citation_access" content="all" />
+      <meta name="citation_fulltext_world_readable" content="" />
+      <meta name="citation_section" content="PERSPECTIVE" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/29/4/455.short" rel="prev" />
+      <link href="/content/29/4/473.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d3232957e1">var callbackToken='567F22C66B37A46';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://rnasociety.org/" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="RNA" alt="RNA" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search RNA" type="text" name="fulltext" id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57188&amp;adclick=true&amp;url=https%3A%2F%2Fwww.lexogen.com%2Fcorall-rna-seq%2F%3Futm_source%3Dcshl%26utm_medium%3Dbanner%26utm_campaign%3Dcorallv2"
+                        target="_blank"><img class="adborder0" title="Lexogen"
+                             src="//rnajournal.cshlp.org/adsystem/graphics/2936505760451851/rna/CORALL-V2_CSHL_Banner_468x60.jpg?ad=57188&amp;adview=true"
+                             alt="Lexogen" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Targeting RNA with small molecules: lessons learned from Xist RNA</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Elliott+B.+Nickbarg&amp;sortspec=date&amp;submit=Submit">Elliott B. Nickbarg</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kerrie+B.+Spencer&amp;sortspec=date&amp;submit=Submit">Kerrie B. Spencer</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jonathan+D.+Mortison&amp;sortspec=date&amp;submit=Submit">Jonathan D. Mortison</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a> and 
+                     </li>
+                     <li class="last" id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=Jeannie+T.+Lee&amp;sortspec=date&amp;submit=Submit">Jeannie T. Lee</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Merck &amp; Co., Inc., Boston, Massachusetts 02115, USA
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Molecular Biology, Massachusetts General Hospital, Boston, Massachusetts 02114, USA
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Department of Genetics, The Blavatnik Institute, Harvard Medical School, Boston, Massachusetts 02115, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">lee{at}molbio.mgh.harvard.edu</span></span>, <span class="em-link"><span class="em-addr">elliott.nickbarg{at}merck.com</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">Although more than 98% of the human genome is noncoding, nearly all drugs on the market target one of about 700 disease-related
+                     proteins. However, an increasing number of diseases are now being attributed to noncoding RNA and the ability to target them
+                     would vastly expand the chemical space for drug development. We recently devised a screening strategy based upon affinity-selection
+                     mass spectrometry and succeeded in identifying bioactive compounds for the noncoding RNA prototype, Xist. One such compound,
+                     termed X1, has drug-like properties and binds specifically to the RepA motif of Xist in vitro and in vivo. Small-angle X-ray
+                     scattering analysis reveals that X1 changes the conformation of RepA in solution, thereby explaining the displacement of cognate
+                     interacting protein factors (PRC2 and SPEN) and inhibition of X-chromosome inactivation. In this Perspective, we discuss lessons
+                     learned from these proof-of-concept experiments and suggest that RNA can be systematically targeted by drug-like compounds
+                     to disrupt RNA structure and function.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=RNA%20targeting&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">RNA targeting</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=RNA%20therapeutics&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">RNA therapeutics</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=Xist%20RNA&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">Xist RNA</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=small%20molecules&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">small molecules</a></span></li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.rnajournal.org/site/misc/terms.xhtml">© 2023 Nickbarg et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article, published in <em>RNA</em>, is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/29/4/455.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/29/4/473.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/29/4.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="open-access-note">
+               <span class="open-access-note">OPEN ACCESS ARTICLE</span>
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">February 1, 2023</span>,
+                                 doi:
+                                 <span title="10.1261/rna.079523.122" class="slug-doi">10.1261/rna.079523.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="RNA" class="slug-jnl-abbrev">
+                                    RNA</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    29: 
+                                    </span><span class="slug-pages">
+                                    463-472
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Nickbarg et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/4/463.full" rel="view-full-text">Full Text</a><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/4/463.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2023/02/01/rna.079523.122">rna.079523.122v1</a></li>
+                                 <li class="current-li"><span>29/4/463</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=PERSPECTIVES&amp;sortspec=date&amp;submit=Submit">PERSPECTIVE</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=rna%3B29%2F4%2F463&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/4/463.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=29/4/463&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/4/463.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=rna%3Brna.079523.122&amp;citation=Nickbarg%20et%20al.%2029%20%284%29:%20463&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F4%2F463&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F4%2F463&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=rna;29/4/463" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=36725318&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=rna%3B29%2F4%2F463">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/29/4/463.abstract?cited-by=yes&amp;legid=rna;29/4/463#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Frna%2F29%2F4%2F463&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ANickbarg%20author%3AE.B.%22">Articles by  Nickbarg, E. B.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ALee%20author%3AJ.T.%22">Articles by  Lee, J. T.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36725318&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Nickbarg%20EB&amp;link_type=AUTHORSEARCH">Articles by  Nickbarg, E. B.</a></li>
+                        <li><a href="/external-ref?access_num=Lee%20JT&amp;link_type=AUTHORSEARCH">Articles by  Lee, J. T.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36725318"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=rna%3B29%2F4%2F463&amp;current-view-path=/content/29/4/463.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/4/463&amp;title=Targeting%20RNA%20with%20small%20molecules%3A%20lessons%20learned%20from%20Xist%20RNA+--+Nickbarg%20et%20al.%2029%20%284%29%3A%20463+--+RNA&amp;doi=10.1261/rna.079523.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 29 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/29/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <p>
+                           <a href="/content/29/4">The <em>RNA</em> journal is pleased to present here the second in our series of special issues, with a compendium of Perspectives on RNA Therapeutics.
+                              Edited by Adrian Krainer and Michelle Hastings, this issue presents the current views of this exciting field by prominent
+                              scientists.</a>
+                           
+                        </p>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 RNA
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.rnajournal.org/index.dtl" rel="external-nw"
+                        title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57141&amp;adclick=true&amp;url=https%3A%2F%2Fwww.origene.com%2Fproducts%2Fcdna-clones%2Ftrueorf-gold"
+                     target="_blank"><img class="adborder0" title="Origene"
+                          src="//rnajournal.cshlp.org/adsystem/graphics/2936505760451851/genesdev/Untitled%20design%20%2812%29.png?ad=57141&amp;adview=true"
+                          alt="Origene" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <p style="padding-top:12px;"> </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_rn.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://rnasociety.org/" rel="external-nw">Copyright © 2023 by the RNA Society</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1355-8382</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1469-9001</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-5");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

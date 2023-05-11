@@ -1,0 +1,571 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Defective synaptic plasticity in a model of Coffin–Lowry syndrome is rescued by simultaneously targeting PKA and MAPK pathways
+         
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="Peer-reviewed scientific journal publishing basic neuroscience research in the areas of neuronal plasticity, learning and memory" />
+      <meta content="/learnmem/29/12/435.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Defective synaptic plasticity in a model of Coffin–Lowry syndrome is rescued by simultaneously targeting PKA and MAPK pathways"
+            name="DC.Title" />
+      <meta content="10.1101/lm.053625.122" name="DC.Identifier" />
+      <meta content="2022-12-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Rong-Yu Liu" name="DC.Contributor" />
+      <meta content="Yili Zhang" name="DC.Contributor" />
+      <meta content="Paul Smolen" name="DC.Contributor" />
+      <meta content="Leonard J. Cleary" name="DC.Contributor" />
+      <meta content="John H. Byrne" name="DC.Contributor" />
+      <meta content="Learning &amp; Memory" name="citation_journal_title" />
+      <meta content="Learn. Mem." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1072-0502" name="citation_issn" />
+      <meta content="1549-5485" name="citation_issn" />
+      <meta name="citation_author" content="Rong-Yu Liu" />
+      <meta name="citation_author_orcid" content="0000-0002-5593-2601" />
+      <meta name="citation_author_institution"
+            content="Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA" />
+      <meta name="citation_author" content="Yili Zhang" />
+      <meta name="citation_author_institution"
+            content="Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA" />
+      <meta name="citation_author" content="Paul Smolen" />
+      <meta name="citation_author_institution"
+            content="Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA" />
+      <meta name="citation_author" content="Leonard J. Cleary" />
+      <meta name="citation_author_institution"
+            content="Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA" />
+      <meta name="citation_author" content="John H. Byrne" />
+      <meta name="citation_author_institution"
+            content="Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA" />
+      <meta content="Defective synaptic plasticity in a model of Coffin–Lowry syndrome is rescued by simultaneously targeting PKA and MAPK pathways"
+            name="citation_title" />
+      <meta content="12/01/2022" name="citation_date" />
+      <meta content="29" name="citation_volume" />
+      <meta content="12" name="citation_issue" />
+      <meta content="435" name="citation_firstpage" />
+      <meta content="446" name="citation_lastpage" />
+      <meta content="29/12/435" name="citation_id" />
+      <meta content="29/12/435" name="citation_id_from_sass_path" />
+      <meta content="learnmem;29/12/435" name="citation_mjid" />
+      <meta content="10.1101/lm.053625.122" name="citation_doi" />
+      <meta content="http://learnmem.cshlp.org/content/29/12/435.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/29/12/435.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/29/12/435.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/29/12.cover.gif" name="issue_cover_image" />
+      <meta content="http://learnmem.cshlp.org/content/29/12/435"
+            name="citation_public_url" />
+      <meta content="36446603" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPER" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/29/12/430.short" rel="prev" />
+      <link href="/content/29/12/447.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d1933119e1">var callbackToken='567A80E01AFF8D3';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Learning &amp; Memory" alt="Learning &amp; Memory" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.learnmem.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/alerts" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Learning &amp; Memory" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=55554&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FAMPLIFIERS%2Fdpa.html"
+                        target="_blank"><img class="adborder0" title="Sutter"
+                             src="//learnmem.cshlp.org/adsystem/graphics/5503249537388216/learnmem/Sutter%20Banner.gif?ad=55554&amp;adview=true"
+                             alt="Sutter" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Defective synaptic plasticity in a model of Coffin–Lowry syndrome is rescued by simultaneously targeting PKA and MAPK pathways</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Rong-Yu+Liu&amp;sortspec=date&amp;submit=Submit">Rong-Yu Liu</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Yili+Zhang&amp;sortspec=date&amp;submit=Submit">Yili Zhang</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Paul+Smolen&amp;sortspec=date&amp;submit=Submit">Paul Smolen</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Leonard+J.+Cleary&amp;sortspec=date&amp;submit=Submit">Leonard J. Cleary</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=John+H.+Byrne&amp;sortspec=date&amp;submit=Submit">John H. Byrne</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Department of Neurobiology and Anatomy, W.M. Keck Center for the Neurobiology of Learning and Memory, McGovern Medical School
+                           at the University of Texas Health Science Center at Houston, Houston, Texas 77030, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">john.h.byrne{at}uth.tmc.edu</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">Empirical and computational methods were combined to examine whether individual or dual-drug treatments can restore the deficit
+                     in long-term synaptic facilitation (LTF) of the <em>Aplysia</em> sensorimotor synapse observed in a cellular model of Coffin–Lowry syndrome (CLS). The model was produced by pharmacological
+                     inhibition of p90 ribosomal S6 kinase (RSK) activity. In this model, coapplication of an activator of the mitogen-activated
+                     protein kinase (MAPK) isoform ERK and an activator of protein kinase A (PKA) resulted in enhanced phosphorylation of RSK and
+                     enhanced LTF to a greater extent than either drug alone and also greater than their additive effects, which is termed synergism.
+                     The extent of synergism appeared to depend on another MAPK isoform, p38 MAPK. Inhibition of p38 MAPK facilitated serotonin
+                     (5-HT)-induced RSK phosphorylation, indicating that p38 MAPK inhibits activation of RSK. Inhibition of p38 MAPK combined with
+                     activation of PKA synergistically activated both ERK and RSK. Our results suggest that cellular models of disorders that affect
+                     synaptic plasticity and learning, such as CLS, may constitute a useful strategy to identify candidate drug combinations, and
+                     that combining computational models with empirical tests of model predictions can help explain synergism of drug combinations.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-1">
+                        <p id="p-55">[Supplemental material is available for this article.]</p>
+                     </li>
+                     <li class="fn" id="fn-2">
+                        <p id="p-56">Article is online at <a href="http://www.learnmem.org/cgi/doi/10.1101/lm.053625.122">http://www.learnmem.org/cgi/doi/10.1101/lm.053625.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-07-05"><span class="received-label">Received </span>July 5, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-10-24"><span class="accepted-label">Accepted </span>October 24, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.learnmem.org/site/misc/terms.xhtml">© 2022 Liu et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first 12 months after the full-issue
+                     publication date (see <a href="http://learnmem.cshlp.org/site/misc/terms.xhtml" rel="license">http://learnmem.cshlp.org/site/misc/terms.xhtml</a>). After 12 months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/29/12/430.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/29/12/447.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/29/12.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/lm.053625.122" class="slug-doi">10.1101/lm.053625.122
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Learning &amp; Memory" class="slug-jnl-abbrev">
+                                    Learn. Mem.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2022.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    29: 
+                                    </span><span class="slug-pages">
+                                    435-446
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.learnmem.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.learnmem.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2022 Liu et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/12/435.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/29/12/435.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/29/12/435/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPER&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPER</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=learnmem%3B29%2F12%2F435&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/29/12/435.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=29/12/435&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/29/12/435.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=learnmem%3B29%2F12%2F435&amp;citation=Liu%20et%20al.%2029%20%2812%29:%20435&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=learnmem%3B29%2F12%2F435&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=36446603&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=learnmem%3B29%2F12%2F435">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/29/12/435.abstract?cited-by=yes&amp;legid=learnmem;29/12/435#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Flearnmem%2F29%2F12%2F435&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ALiu%20author%3AR.Y.%22">Articles by  Liu, R. Y.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AByrne%20author%3AJ.H.%22">Articles by  Byrne, J. H.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36446603&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Liu%20RY&amp;link_type=AUTHORSEARCH">Articles by  Liu, R. Y.</a></li>
+                        <li><a href="/external-ref?access_num=Byrne%20JH&amp;link_type=AUTHORSEARCH">Articles by  Byrne, J. H.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36446603"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Liu, R. Y.<a class="orcid-link" href="http://orcid.org/0000-0002-5593-2601">http://orcid.org/0000-0002-5593-2601</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=learnmem%3B29%2F12%2F435&amp;current-view-path=/content/29/12/435.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/29/12/435&amp;title=Defective%20synaptic%20plasticity%20in%20a%20model%20of%20Coffin%E2%80%93Lowry%20syndrome%20is%20rescued%20by%20simultaneously%20targeting%20PKA%20and%20MAPK%20pathways+--+Liu%20et%20al.%2029%20%2812%29%3A%20435+--+learnmem&amp;doi=10.1101/lm.053625.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 30 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/30/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Learning &amp; Memory
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href="/site/subscriptions" title="Subscriptions"><span>Subscriptions</span></a></li>
+                  <li class="last"><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=55553&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FMICROSCOPES%2Fnan.html"
+                     target="_blank"><img class="adborder0" title="Sutter NAN"
+                          src="//learnmem.cshlp.org/adsystem/graphics/18339980292659952/learnmem/NAN%20Banner.png?ad=55553&amp;adview=true"
+                          alt="Sutter NAN" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;padding-top:15px;padding-bottom:12px;">
+                  <script type="text/javascript" src="http://www.cshlpress.com/rss_get.asp?st=gr"></script>
+                  </p>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.learnmem.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/alerts" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1072-0502</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5485</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-3");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

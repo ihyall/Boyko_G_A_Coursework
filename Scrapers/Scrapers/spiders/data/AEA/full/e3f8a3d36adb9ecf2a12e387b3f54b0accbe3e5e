@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>Stimulating Local Public Employment: Do General Grants Work? - American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="UCCu2yuu5pGUo1xiClUeqD21KIJISvlXl0HAAXabQPljWtiJf_7UpODTZFBNZUTaCOxZ4yZzryb1JPRUKa4xzQ==">
+    <meta name="Secure-Key" content="OXdTbnNfMWRjanQzMUlFUmpMVTU4enc1dWpuLXlCRkFON29zQ0ZEZER5cDdTX1JSTXh8Z2VuZXJhbHxjMUExTGt0aFMzVTZDa0ptUGk4NFJ6aG5XM1FjSkRFNU4yRnRIQmdZTVRvNkpYaGZCUVEvQWc9PQ==">    <meta name="jerTk" value="">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38835597-1"></script>
+        <meta name="description" content="Stimulating Local Public Employment: Do General Grants Work? by Heléne Lundqvist, Matz Dahlberg and Eva Mörk. Published in volume 6, issue 1, pages 167-92 of American Economic Journal: Economic Policy, February 2014, Abstract: We apply the regression kink design to the Swedish grant system and
+es...">
+<meta name="keywords" content="State and Local Government: Health; Education; Welfare; Public Pensions, Intergovernmental Relations; Federalism; Secession, Public Sector Labor Markets">
+<meta name="citation_title" content="Stimulating Local Public Employment: Do General Grants Work?">
+<meta name="citation_publication_date" content="2014/02">
+<meta name="citation_journal_title" content="American Economic Journal: Economic Policy">
+<meta name="citation_issn" content="1945-7731">
+<meta name="citation_volume" content="6">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="167">
+<meta name="citation_lastpage" content="92">
+<meta name="citation_doi" content="10.1257/pol.6.1.167">
+<meta name="citation_pdf_url" content="https://www.aeaweb.org/articles/pdf/doi/10.1257/pol.6.1.167">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aeajournals">
+<meta name="twitter:title" content="Stimulating Local Public Employment: Do General Grants Work?">
+<meta name="twitter:description" content="(February 2014) - We apply the regression kink design to the Swedish grant system and
+estimate causal effects of intergovernmental grants on local public
+employment. Our robust conclusion is that grants do not stimulate
+local public employment. We find no statistically significant effects
+on total local public employment, and we can exclude even moderate
+effects. When disaggregating the total effect by sector, we find
+that personnel in the traditional welfare sectors are unaffected, a
+conclusion which applies to both publicly and privately employed
+in these sectors. The only positive and statistically significant effect
+of grants is that on administrative personnel.">
+<meta name="twitter:image" content="https://www.aeaweb.org/journals/images/pol">
+<meta name="citation_author" content="Lundqvist, Heléne">
+<meta name="citation_author_institution" content="Stockholm U and CESifo, Munich">
+<meta name="citation_author" content="Dahlberg, Matz">
+<meta name="citation_author_institution" content="Uppsala U and CESifo, Munich">
+<meta name="citation_author" content="Mörk, Eva">
+<meta name="citation_author_institution" content="Uppsala U and CESifo, Munich">
+<link href="/assets/b1f13f1/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/ec52775/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/b1f13f1/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/214a2f4f/jquery.min.js"></script>
+<script src="/assets/264520fd/yii.js"></script>
+<script src="/js/ajaxPostProcessor.js"></script>
+<script src="/js/articles.js"></script>
+<script src="/assets/b1f13f1/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js"></script>
+<script src="/assets/ec52775/jquery-ui.js"></script>
+<script src="/assets/b1f13f1/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/4021672f/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/a9c22480/js/QueClientAsset-min.js"></script>
+<script src="/assets/ff14b9b/js/legal-cookie.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"dzE4Yk5JQ2VoUVVVaUhVWVlkT3BHNjBRbDJjLWlzVW4xTEpZVl9MWWxkTDRUNjhsb3h8cXVldWVjbGllbnR8YUU1U04zaFZNR3RlZW1kRVFHSnFXaVVsTzI4TEpXRTZKQzBMWWhZWFFBeFJHeDFESGlOeU13PT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="internal">
+    <div class="cookie-legal-banner">
+        <div class="cookie-content">
+            <div class="cookie-text-wrapper">
+                <h5 style="font-weight: bold !important; text-transform: none !important; font-size: 16px !important;">This website uses cookies.</h5>
+                <p class="cookie-text">By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our <a href="/privacypolicy">Privacy Policy</a>.</p>
+            </div>
+            <div class="cookie-button-wrapper">
+                <button class="button legal-cookie-accept-button">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        try{
+            $(document).ready(function() { try{ var lgCk = new LegalCookie(); }catch (e){}; });
+        }catch (e){};
+    </script>
+
+
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/b1f13f1/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/about-aea/committees">Committees</a>
+            </li>
+            <li>
+                <a href="/ethics">Ethics</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        /*var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();*/
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-38835597-1');
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+	<div class="breadcrumbs-wrapper"><div class="container"><ol class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/journals">Journals</a></li><li><a href="/journals/pol">American Economic Journal: Economic Policy</a></li><li><a href="/issues/326#10.1257/pol.6.1.167">February 2014</a></li><li class="is-active">Stimulating Local Public Employment: Do General Grants Work?</li></ol></div></div>	<main class="main-content " role="main"><div class="container"><style>
+
+.hoverOverRide:hover{
+
+    text-decoration:none;
+
+}
+
+</style>
+
+<script type='text/javascript' src='/js/articlesTracking.js'></script>
+
+
+
+<section class="primary article-detail journal-article">
+    <h1 class="title">Stimulating Local Public Employment: Do General Grants Work?</h1>
+    <ul class="attribution">
+            <li class='author' style='margin-bottom:0.5em; '>
+         Heléne Lundqvist    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Matz Dahlberg    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Eva Mörk    </li>
+
+        
+		<div style='margin-top:25px;'>
+
+						
+			<a href='/issues/326' class='hoverOverRide'>
+				<li class='journal'>American Economic Journal: Economic Policy </li>
+			</a>
+
+			
+				<a href='/issues/326' class='hoverOverRide'>
+					<li class='journal'>vol. 6,
+					no. 1, 					February 2014</li>
+				</a>
+
+		</div>
+                <li class="pages">(pp. 167-92)</li>
+		
+    </ul>
+
+	
+    <section class='download'>
+        <a class="button" href="/articles/pdf/doi/10.1257/pol.6.1.167">
+            Download Full Text PDF <br/>
+                    </a>
+    </section>
+
+	
+	
+    <div class="toggle-content-group">
+
+		   <ul class="toggle">
+				<li>
+					<a class="is-active" href="#article-information" style='text-decoration:none; cursor:default;'>Article Information</a>
+				</li>
+													<li>
+						<a href="#article-comments">Comments (<span id='commentCount'>4</span>)</a>
+					</li>
+							</ul>
+		
+		
+        <section class="article-information-group toggle-content is-visible" id="article-information">
+
+			
+							<section class="article-information abstract">
+					<h2>Abstract</h2>
+					We apply the regression kink design to the Swedish grant system and
+estimate causal effects of intergovernmental grants on local public
+employment. Our robust conclusion is that grants do not stimulate
+local public employment. We find no statistically significant effects
+on total local public employment, and we can exclude even moderate
+effects. When disaggregating the total effect by sector, we find
+that personnel in the traditional welfare sectors are unaffected, a
+conclusion which applies to both publicly and privately employed
+in these sectors. The only positive and statistically significant effect
+of grants is that on administrative personnel.				</section>
+			
+							<section class="article-information citation">
+					<h2>Citation</h2>
+					<cite>
+
+                        Lundqvist, Heléne, Matz Dahlberg, and Eva Mörk.
+						<span class="year">2014.</span>
+
+						
+						
+							<span class="title">"Stimulating Local Public Employment: Do General Grants Work?"</span>
+						
+						<span class="journal">American Economic Journal: Economic Policy</span>,
+
+							  <span class="vol">
+					6 (1):
+					 167-92<span
+									  class="pages">.</span>
+				  </span>
+						<span class="doi">DOI: 10.1257/pol.6.1.167</span>
+					</cite>
+
+					<form class="citation-export">
+												<div class="select input ">
+							<label>
+								<label>
+									<select id="export-dropdown" name="args[format]">
+										<option value="0">Choose Format:</option>
+										<option value="bib">BibTeX</option>
+										<option value="enw">EndNote</option>
+										<option value="txt">Refer/BibIX</option>
+										<option value="ris">RIS</option>
+										<option value="tab">Tab-Delimited</option>
+									</select>
+								</label>
+							</label>
+							<input type='hidden' name='args[doi]' value='10.1257/pol.6.1.167'/>
+						</div>
+
+						<div id='previewCitationExport'></div>
+
+					</form>
+				</section>
+								
+					<section class='article-information additional-materials'>
+						
+							<h2>Additional Materials</h2>
+
+						
+						<ul id='additionalMaterials'>
+							<li>                    <a class=''  href="https://www.aeaweb.org/aej/pol/app/0601/2012-0207_app.pdf" doi="10.1257/pol.6.1.167" accessType="Article View">
+                Online Appendix                                                    (215.58 KB)
+                            </a>
+        </li><li>                    <a class='track-icpsr' target='_blank' href="http://doi.org/10.3886/E114847V1" doi="10.1257/pol.6.1.167" accessType="Article View">
+                Replication Package                                                    (868.62 KB)
+                            </a>
+        </li><li>                    <a class=''  href="https://www.aeaweb.org/aej/pol/ds/0601/2012-0207_ds.zip" doi="10.1257/pol.6.1.167" accessType="Article View">
+                Author Disclosure Statement(s)                                                    (127.16 KB)
+                            </a>
+        </li>
+						</ul>
+					</section>
+
+
+				
+									<section class='article-information jel-classification'>
+						<h2>JEL Classification</h2>
+						<ul class='jel-codes'>
+														<li>
+								<strong class='code'>H75</strong>
+								State and Local Government: Health; Education; Welfare; Public Pensions
+															<li>
+								<strong class='code'>H77</strong>
+								Intergovernmental Relations; Federalism; Secession
+															<li>
+								<strong class='code'>J45</strong>
+								Public Sector Labor Markets
+															</li>
+						</ul>
+					</section>
+				
+			</section>
+
+		
+		
+			<section class="comments toggle-content" id="article-comments">
+								
+		<section class='article-information'>
+
+			
+				
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by PER PETTERSSON-LIDBOM											</li>
+
+							
+				<li>Posted on 2/11/2014 4:58:14 AM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>This brief comment (originally written in May 21, 2013) concerns with the reported first-stage estimates of the (fuzzy) regression kink design used by Lundqvist, Dahlberg and Mörk. The comment is posted on my webpage: http://people.su.se/~pepet. Below I have included the text without the tables and footnotes.<br />
+<br />
+Table 1 reproduces the results from Table 2 in their paper and it shows the first stage estimates (it is noteworthy that four of the estimates are not reported in their table). They write: &quot;It is clear from the table that all estimates are highly statistically significant, irrespective of order of polynomial and bandwidth. The magnitude of the estimates is around 3, although that differs somewhat across the different specifications&quot;. However, this conclusion is completely erroneous as can be seen from Table 2 which displays the first-stage estimates for the second and third order polynomial specifications for bandwidths h=10 and h=5 as well as for smaller bandwidths. Table 2 reveals that in almost all specifications with smaller bandwidths and with more flexible specifications the estimates are negative and large and sometimes significantly different from zero. Thus, given that the first stage estimates are very sensitive to the choice of bandwidth and polynomial specification, the conclusion must be that there is no regression kink at the threshold that can be used for a credible identification. The most likely reason for the identification failure of the regression kink design at the threshold is that there are other &quot;kink-points in other components of the cost equalization that—by coincidence—could be close to the kink-point at two percent out-migration&quot; as discussed by and Lundqvist et al. (2013).<br />
+<br />
+References:<br />
+Dahlberg, M. E. Mörk, J. Rattsö, H. Ågren (2008), &quot;Using a discontinuous grant rule to identify the effect of grants on local taxes and spending,&quot; Journal of Public Economics, 92, 2320-2335.<br />
+<br />
+Lundqvist, H., M. Dahlberg and E. Mörk (2013), &quot;Stimulating Local Public Employment: Do General Grants Work?&quot;, American Economic Journal: Economic Policy, forthcoming</div>
+
+				
+					<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+					
+						<li>
+							<a href='http://people.su.se/~pepet/Note1.pdf' target='_blank'>Comment </a>
+						</li>
+
+										
+					</ul>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	
+		<section class='article-information'>
+
+			
+				
+				
+					<p class='journal' style='text-overflow: clip; overflow: hidden;'>This is a response to the comment posted by Per Pettersson-Lidbom on February 11, 2014.</p>
+
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by Michael Albert						 - Article Author					</li>
+
+							
+				<li>Posted on 2/21/2014 12:54:02 PM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>It is true that the first-stage estimate starts to vary a lot when using high-order polynomials with the two narrowest bandwidths or with bandwidths smaller than 5, something we also acknowledge in footnote 25. We interpret this as being the result of small sample properties of the regression kink (RKD) estimator. Few observations close to the cut off can be problematic also in regression discontinuity designs (RDD). But because identification in the RKD comes from a discrete change in the slope around the cut off (as opposed to in the intercept), intuitively, the RKD is likely to be even more sensitive to small bandwidths when there is limited data. This intuition is supported by Monte Carlo simulations in Ando (2013), who finds that the introduction of a higher-order polynomial or a smaller bandwidth often yields imprecise and biased RKD estimates in small samples.  <br />
+Together with the evidence in Figure 4, which shows the graphical version of the first stage, we therefore feel rather confident that the first-stage estimations in the paper indeed isolate exogenous variation in grants stemming from the kinked assignment rule. However, it can be noted that the RKD is a relatively new estimator that have not yet been extensively applied, and there is certainly a need for more studies analyzing the small sample properties of this estimator.</div>
+
+				
+					<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+					
+						<li>
+							<a href='http://uu.diva-portal.org/smash/get/diva2:667602/FULLTEXT01.pdf' target='_blank'>Ando, M (2013) &quot;How much should we trust the regression-kink-design estimates?&quot;, Working paper 2013:22, Department of Economics, Uppsala University</a>
+						</li>
+
+										
+					</ul>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	
+		<section class='article-information'>
+
+			
+				
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by PER PETTERSSON-LIDBOM											</li>
+
+							
+				<li>Posted on 2/24/2014 4:28:01 AM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>First, l would like to acknowledge that I was in contact with the editor, Alan Auerbach, (May 20, 2012) regarding the submission of my comment to this journal. He responded: &quot;I believe that this comment would be appropriate to post on the journal&#039;s web site instead.  Let me stress that I am not suggesting that your comment is not useful or important.  Rather, I believe that, given its nature, it would be best for it to appear on the web site with the paper, which will make it immediately available to any reader of the paper&#039;s electronic version, which as you know is a growing share of the overall readership.&quot; Hence, this is the reason for posting my comment on the Journals Web site. <br />
+<br />
+Regarding the authors&#039; response to my comment, it is important to stress that footnote 25 was added only after they received my comment in May 2012. At this time, the paper was already accepted for publication and posted on the Web site as forthcoming.  Such type behavior raises concerns about misreporting. Similarly, it also seems quite suspicious that 4 of the total of 12 entries of Table 2 in their paper are left out intentionally by the authors although these results could easily been reported. Most importantly, the omitted results do not lend support the authors&#039; conclusion about the stability of the estimated first-stage effect made on page 181 (On this point, see my original comment).  Furthermore, the authors have also failed to follow by now firmly established RD (kink or not) procedure of reporting results from an optimal bandwidth choice as well as from half the optimal bandwidth and twice the optimal bandwidth (e.g., see Imbens and Lemieux 2008). The important point here is that the choice of bandwidth should not be selected by a researcher so as to avoid concerns about data mining. Had they reported these standard sets of estimates, it had been very clear that their first-stage results are highly non-robustness since these estimates are both positive and negative. For example, the optimal bandwidth is 4.4 according to the Imbens and Kalyanaraman (2012) procedure (it is even smaller, 2.9, according to the Calonico et al. (2013) bandwidth selection procedure). In this case the estimated first-stage effect is 1.72 with a standard error of 1.23. The estimated effect for half the optimal bandwidth is -2.83 with a standard error of 2.08. It is also noteworthy that the statistically significant results for the smallest bandwidth of 5 in their Table 2 is no longer significant at conventional levels (5% or 10%) if the bandwidth is only marginally decreased to 4.8. Again, reinforcing the extreme fragility of their results to the choice of bandwidth.<br />
+<br />
+Turning to their argument that the regression kink (RKD) estimator is biased for small bandwidth. This statement is simply wrong since an OLS estimator (i.e., local linear regression with a rectangular kernel) is always unbiased independent of sample size. However, they are right in pointing out that often the sample size is often not very big in an RD design. In such a case, if the analysis is based on a large bandwidth (or if the degree of the polynomial is so small) then it isn&#039;t really regression discontinuity that is identifying things. To conclude the results of their study do not survive the conventional set of robustness checks of an RD design (kink or not) and their analysis is not based on a local discontinuity since their results does not hold for the optimal or smaller bandwidths.</div>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	
+		<section class='article-information'>
+
+			
+				
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by PER PETTERSSON-LIDBOM											</li>
+
+							
+				<li>Posted on 6/3/2014 1:17:34 PM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>When I was preparing my lecture notes on RD kink design for my PhD students, I discovered that this paper misspecifies the functional form of the forcing variable, f(x-c), where x is the forcing variable and c is the cut-off., in their kink design The standard procedure is to interact the function f(x-c) with the indicator variable for treatment D where D=1 if x&gt;c and D=0 if  x&lt;c. They have omitted the interactions terms for the second and third order polynomial functions, i.e., the terms (D(x-c)(x-c)  and D(x-c)(x-c)(x-c) . This implies that they are simultaneously using information on both sides of the cut-off to estimate f(x-c), which does not sit well with the idea of a RD (kink or not) design,  namely local identification at the cut-off without any parametric assumptions. Imposing this type of functional form restrictions is therefore not correct and may therefore yield biased estimate unless the restrictions are true. In order to test whether that is the case, I have re-estimated all their specifications in their Table 2 together with the interaction terms. Although, the two estimates for second-order specification are broadly similar to their estimates (even somewhat larger), the two estimates from the third-order specification are completely different as can be seen by comparing the results from Columns 1 and 2 in my Table with the corresponding results from their Table 2.  My estimates are 0.84 for the full sample and -1.44 for the sample with a bandwidth of 15. These estimates should be compared with 3.35 and 4.08 in Table 2, respectively. This large decrease in their estimates clearly illustrates that their results are extremely sensitive to the degree of the polynomial specification. As a result, this new finding together with my previous comment on the extreme sensitivity to choice of bandwidth, the stark conclusion must be that there is no policy kink that can be exploited for identification (it is also noteworthy that only 5 out of 27 estimates in my table are positive and around 3 while 17 are negative, namely those specifications that are more credible since they rely on smaller bandwidths and more flexible functional forms of f(.).</div>
+
+				
+					<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+					
+						<li>
+							<a href='http://people.su.se/~pepet/Table.pdf' target='_blank'>Table</a>
+						</li>
+
+										
+					</ul>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	 
+	<a style='margin-top:10px;' class='button' href='/login?return_path=/articles?id=10.1257%2Fpol.6.1.167'>Login to Comment</a>
+
+			</section>
+
+		
+        <section class="full-text toggle-content" id="article-full-text">
+
+        </section>
+		 </div> 
+</section>
+
+<aside class='secondary' role='complementary'>
+    </aside>
+
+<aside class="secondary" role="complementary">
+    <nav class="secondary-navigation" role="navigation">
+        <h2><a href="/journals">Journals</a></h2><ul><li><div class="nav-divider"></div></li><li><a href="/journals/aer"><em>American Economic Review</em></a></li><li><a href="/journals/aeri"><em>AER: Insights</em></a></li><li><a href="/journals/app"><em>AEJ: Applied Economics</em></a></li><li><a href="/journals/pol"><em>AEJ: Economic Policy</em></a><ul><li><a href="/journals/pol/about-pol">About <em>AEJ: Economic Policy</em></a></li><li><a href="/journals/pol/forthcoming">Forthcoming Articles</a></li><li class="is-active"><a href="/journals/pol/issues">Issues</a><ul></ul></li><li><a href="/journals/pol/submissions">Submissions</a></li><li><a href="/journals/aej/styleguide">Guidelines for Accepted Articles</a></li><li><a href="/journals/pol/reviewers">Reviewers</a></li><li><a href="/journals/pol/contact-pol">Contact <em>AEJ: Economic Policy</em></a></li></ul></li><li><a href="/journals/mac"><em>AEJ: Macroeconomics</em></a></li><li><a href="/journals/mic"><em>AEJ: Microeconomics</em></a></li><li><a href="/journals/jel"><em>Journal of Economic Literature</em></a></li><li><a href="/journals/jep"><em>Journal of Economic Perspectives</em></a></li><li><a href="/journals/pandp"><em>AEA Papers & Proceedings</em></a></li><li><div class="nav-divider"></div></li><li><a href="/journals/subscriptions">Subscriptions</a></li><li><a href="/about-aea/advertise/advertise-in-journals">Advertise in AEA Journals</a></li><li><a href="http://pubs.aeaweb.org/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens">Athens Subscriber Login</a></li><li><a href="/journals/subscriptions/backissues">Back Issues & SGML Metadata</a></li><li><a href="/journals/data">Data and Code</a></li><li><a href="/journals/get-journal-alerts">Journal Alerts</a></li><li><a href="/journals/jstor">JSTOR Access for AEA Members</a></li><li><a href="/journals/policies">Policies</a></li></ul>    </nav>
+    <section class="action-group">
+            </section>
+</aside>
+</div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+
+            <a href="/about-aea/committees">Committees</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+
+        <li>
+            <a href='https://twitter.com/AEAInformation' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAInformation</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2023 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>

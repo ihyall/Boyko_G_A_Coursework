@@ -1,0 +1,643 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Global profiling of the RNA and protein complexes of Escherichia coli by size exclusion chromatography followed by RNA sequencing
+         and mass spectrometry (SEC-seq) 
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A monthly journal publishing high-quality, peer-reviewed research on all topics related to RNA and its metabolism in all organisms" />
+      <meta content="/rna/29/1/123.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Global profiling of the RNA and protein complexes of Escherichia coli by size exclusion chromatography followed by RNA sequencing and mass spectrometry (SEC-seq)"
+            name="DC.Title" />
+      <meta content="10.1261/rna.079439.122" name="DC.Identifier" />
+      <meta content="2023-01-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Kotaro Chihara" name="DC.Contributor" />
+      <meta content="Milan Gerovac" name="DC.Contributor" />
+      <meta content="Jens Hörb" name="DC.Contributor" />
+      <meta content="Jörg Vogel" name="DC.Contributor" />
+      <meta content="RNA" name="citation_journal_title" />
+      <meta content="RNA" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1355-8382" name="citation_issn" />
+      <meta content="1469-9001" name="citation_issn" />
+      <meta name="citation_author" content="Kotaro Chihara" />
+      <meta name="citation_author_institution"
+            content="1Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre for Infection Research (HZI), Würzburg 97080, Germany" />
+      <meta name="citation_author" content="Milan Gerovac" />
+      <meta name="citation_author_orcid" content="0000-0002-6929-7178" />
+      <meta name="citation_author_institution"
+            content="2Institute for Molecular Infection Biology, University of Würzburg, Würzburg 97080, Germany" />
+      <meta name="citation_author" content="Jens Hörb" />
+      <meta name="citation_author_orcid" content="0000-0003-3052-4430" />
+      <meta name="citation_author_institution"
+            content="2Institute for Molecular Infection Biology, University of Würzburg, Würzburg 97080, Germany" />
+      <meta name="citation_author" content="Jörg Vogel" />
+      <meta name="citation_author_institution"
+            content="1Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre for Infection Research (HZI), Würzburg 97080, Germany" />
+      <meta name="citation_author_institution"
+            content="2Institute for Molecular Infection Biology, University of Würzburg, Würzburg 97080, Germany" />
+      <meta content="Global profiling of the RNA and protein complexes of Escherichia coli by size exclusion chromatography followed by RNA sequencing and mass spectrometry (SEC-seq)"
+            name="citation_title" />
+      <meta content="01/01/2023" name="citation_date" />
+      <meta content="29" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="123" name="citation_firstpage" />
+      <meta content="139" name="citation_lastpage" />
+      <meta content="29/1/123" name="citation_id" />
+      <meta content="29/1/123" name="citation_id_from_sass_path" />
+      <meta content="rna;29/1/123" name="citation_mjid" />
+      <meta content="10.1261/rna.079439.122" name="citation_doi" />
+      <meta content="http://rnajournal.cshlp.org/content/29/1/123.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/1/123.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/1/123.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/29/1.cover.gif" name="issue_cover_image" />
+      <meta content="http://rnajournal.cshlp.org/content/29/1/123"
+            name="citation_public_url" />
+      <meta content="36328526" name="citation_pmid" />
+      <meta name="citation_access" content="all" />
+      <meta name="citation_fulltext_world_readable" content="" />
+      <meta name="citation_section" content="METHOD" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/29/1/111.short" rel="prev" />
+      <link href="/content/29/2/ix.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d4812762e1">var callbackToken='5674EA2A00AFE38';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://rnasociety.org/" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="RNA" alt="RNA" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search RNA" type="text" name="fulltext" id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57228&amp;adclick=true&amp;url=https%3A%2F%2Fwww.arraystar.com%2Fassets%2F1%2F6%2Fnewsletter185.html"
+                        target="_blank"><img class="adborder0" title="Arraystar"
+                             src="//rnajournal.cshlp.org/adsystem/graphics/5028119592336199/rna/Epi%202023%20Feb.gif?ad=57228&amp;adview=true"
+                             alt="Arraystar" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Global profiling of the RNA and protein complexes of <em>Escherichia coli</em> by size exclusion chromatography followed by RNA sequencing and mass spectrometry (SEC-seq)
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kotaro+Chihara&amp;sortspec=date&amp;submit=Submit">Kotaro Chihara</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Milan+Gerovac&amp;sortspec=date&amp;submit=Submit">Milan Gerovac</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jens+H%C3%B6rb&amp;sortspec=date&amp;submit=Submit">Jens Hörb</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">3</a> and 
+                     </li>
+                     <li class="last" id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=J%C3%B6rg+Vogel&amp;sortspec=date&amp;submit=Submit">Jörg Vogel</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Helmholtz Institute for RNA-based Infection Research (HIRI), Helmholtz Centre for Infection Research (HZI), Würzburg 97080,
+                           Germany
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Institute for Molecular Infection Biology, University of Würzburg, Würzburg 97080, Germany
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">joerg.vogel{at}uni-wuerzburg.de</span></span></li>
+                  </ol>
+                  <ul class="author-notes">
+                     <li class="fn-present-address" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">3</span> Present address: Department of Molecular Genetics, Weizmann Institute of Science, Rehovot 7610001, Israel
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">New methods for the global identification of RNA–protein interactions have led to greater recognition of the abundance and
+                     importance of RNA-binding proteins (RBPs) in bacteria. Here, we expand this tool kit by developing SEC-seq, a method based
+                     on a similar concept as the established Grad-seq approach. In Grad-seq, cellular RNA and protein complexes of a bacterium
+                     of interest are separated in a glycerol gradient, followed by high-throughput RNA-sequencing and mass spectrometry analyses
+                     of individual gradient fractions. New RNA–protein complexes are predicted based on the similarity of their elution profiles.
+                     In SEC-seq, we have replaced the glycerol gradient with separation by size exclusion chromatography, which shortens operation
+                     times and offers greater potential for automation. Applying SEC-seq to <em>Escherichia coli</em>, we find that the method provides a higher resolution than Grad-seq in the lower molecular weight range up to ∼500 kDa. This
+                     is illustrated by the ability of SEC-seq to resolve two distinct, but similarly sized complexes of the global translational
+                     repressor CsrA with either of its antagonistic small RNAs, CsrB and CsrC. We also characterized changes in the SEC-seq profiles
+                     of the small RNA MicA upon deletion of its RNA chaperones Hfq and ProQ and investigated the redistribution of these two proteins
+                     upon RNase treatment. Overall, we demonstrate that SEC-seq is a tractable and reproducible method for the global profiling
+                     of bacterial RNA–protein complexes that offers the potential to discover yet-unrecognized associations between bacterial RNAs
+                     and proteins.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=size%20exclusion%20chromatography&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">size exclusion chromatography</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=SEC-seq&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">SEC-seq</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=Grad-seq&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">Grad-seq</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=RNA-binding%20protein&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">RNA-binding protein</a></span></li>
+               </ul>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-09-02"><span class="received-label">Received </span>September 2, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-10-27"><span class="accepted-label">Accepted </span>October 27, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.rnajournal.org/site/misc/terms.xhtml">© 2023 Chihara et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article, published in <em>RNA</em>, is available undera Creative Commons License (Attribution-NonCommercial 4.0 International), as described at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/29/1/111.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/29/2/ix.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/29/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="open-access-note">
+               <span class="open-access-note">OPEN ACCESS ARTICLE</span>
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">November 3, 2022</span>,
+                                 doi:
+                                 <span title="10.1261/rna.079439.122" class="slug-doi">10.1261/rna.079439.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="RNA" class="slug-jnl-abbrev">
+                                    RNA</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    29: 
+                                    </span><span class="slug-pages">
+                                    123-139
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Chihara et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/1/123.full" rel="view-full-text">Full Text</a><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/1/123.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/29/1/123/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2022/11/03/rna.079439.122">rna.079439.122v1</a></li>
+                                 <li><a href="/content/early/2022/11/19/rna.079439.122">rna.079439.122v2</a></li>
+                                 <li class="current-li"><span>29/1/123</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=METHOD&amp;sortspec=date&amp;submit=Submit">METHOD</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=rna%3B29%2F1%2F123&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/1/123.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=29/1/123&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/1/123.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=rna%3Brna.079439.122&amp;citation=Chihara%20et%20al.%2029%20%281%29:%20123&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F1%2F123&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F1%2F123&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=rna;29/1/123" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=36328526&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=rna%3B29%2F1%2F123">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/29/1/123.abstract?cited-by=yes&amp;legid=rna;29/1/123#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Frna%2F29%2F1%2F123&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AChihara%20author%3AK.%22">Articles by  Chihara, K.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AVogel%20author%3AJ.%22">Articles by  Vogel, J.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36328526&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Chihara%20K&amp;link_type=AUTHORSEARCH">Articles by  Chihara, K.</a></li>
+                        <li><a href="/external-ref?access_num=Vogel%20J&amp;link_type=AUTHORSEARCH">Articles by  Vogel, J.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36328526"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Gerovac, M.<a class="orcid-link" href="http://orcid.org/0000-0002-6929-7178">http://orcid.org/0000-0002-6929-7178</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Hörb, J.<a class="orcid-link" href="http://orcid.org/0000-0003-3052-4430">http://orcid.org/0000-0003-3052-4430</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=rna%3B29%2F1%2F123&amp;current-view-path=/content/29/1/123.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/1/123&amp;title=Global%20profiling%20of%20the%20RNA%20and%20protein%20complexes%20of%20Escherichia%20coli%20by%20size%20exclusion%20chromatography%20followed%20by%20RNA%20sequencing%20and%20mass%20spectrometry%20%28SEC-seq%29+--+Chihara%20et%20al.%2029%20%281%29%3A%20123+--+RNA&amp;doi=10.1261/rna.079439.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 29 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/29/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <p>
+                           <a href="/content/29/4">The <em>RNA</em> journal is pleased to present here the second in our series of special issues, with a compendium of Perspectives on RNA Therapeutics.
+                              Edited by Adrian Krainer and Michelle Hastings, this issue presents the current views of this exciting field by prominent
+                              scientists.</a>
+                           
+                        </p>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 RNA
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.rnajournal.org/index.dtl" rel="external-nw"
+                        title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57173&amp;adclick=true&amp;url=https%3A%2F%2Fwww.usascientific.com%2Fc%2F157%3Futm_source%3DCSHL%26utm_medium%3DTower%26utm_campaign%3DCSHL_Racks%26utm_id%3DCSHL"
+                     target="_blank"><img class="adborder0" title="USA Scientific"
+                          src="//rnajournal.cshlp.org/adsystem/graphics/5028119592336199/genesdev/Cold%20Spring%20Harbor%20TOWER%20AD%20-%20tipone2%20Tip.jpg?ad=57173&amp;adview=true"
+                          alt="USA Scientific" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <p style="padding-top:12px;"> </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_rn.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://rnasociety.org/" rel="external-nw">Copyright © 2023 by the RNA Society</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1355-8382</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1469-9001</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-5");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

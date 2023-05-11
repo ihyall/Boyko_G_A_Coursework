@@ -1,0 +1,515 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Negative in vitro selection identifies the rRNA recognition motif for ErmE methyltransferase. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A monthly journal publishing high-quality, peer-reviewed research on all topics related to RNA and its metabolism in all organisms" />
+      <meta content="/rna/5/8/1034.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Negative in vitro selection identifies the rRNA recognition motif for ErmE methyltransferase."
+            name="DC.Title" />
+      <meta content="1999-08-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="A K Nielsen" name="DC.Contributor" />
+      <meta content="S Douthwaite" name="DC.Contributor" />
+      <meta content="B Vester" name="DC.Contributor" />
+      <meta content="RNA" name="citation_journal_title" />
+      <meta content="RNA" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1355-8382" name="citation_issn" />
+      <meta content="1469-9001" name="citation_issn" />
+      <meta name="citation_author" content="A K Nielsen" />
+      <meta name="citation_author" content="S Douthwaite" />
+      <meta name="citation_author" content="B Vester" />
+      <meta content="Negative in vitro selection identifies the rRNA recognition motif for ErmE methyltransferase."
+            name="citation_title" />
+      <meta content="08/01/1999" name="citation_date" />
+      <meta content="5" name="citation_volume" />
+      <meta content="8" name="citation_issue" />
+      <meta content="1034" name="citation_firstpage" />
+      <meta content="1041" name="citation_lastpage" />
+      <meta content="5/8/1034" name="citation_id" />
+      <meta content="5/8/1034" name="citation_id_from_sass_path" />
+      <meta content="rna;5/8/1034" name="citation_mjid" />
+      <meta content="http://rnajournal.cshlp.org/content/5/8/1034.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/5/8/1034.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="http://rnajournal.cshlp.org/content/5/8/1034"
+            name="citation_public_url" />
+      <meta content="10445878" name="citation_pmid" />
+      <meta name="citation_section" content="" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/5/8/1021.short" rel="prev" />
+      <link href="/content/5/8/1042.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d3286480e1">var callbackToken='567F22C66B37A46';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://rnasociety.org/" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="RNA" alt="RNA" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search RNA" type="text" name="fulltext" id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57291&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cancercareers.org%2Fprofiles%2Fsign_up"
+                        target="_blank"><img class="adborder0" title="AACR"
+                             src="//rnajournal.cshlp.org/adsystem/graphics/42927629390119404/genesdev/2206012Q_AACR23AM_CarFair-UpWin_468x60_1.jpg?ad=57291&amp;adview=true"
+                             alt="AACR" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Negative in vitro selection identifies the rRNA recognition motif for ErmE methyltransferase.</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=A+K+Nielsen&amp;sortspec=date&amp;submit=Submit">A K Nielsen</a></span>, 
+                     </li>
+                     <li id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=S+Douthwaite&amp;sortspec=date&amp;submit=Submit">S Douthwaite</a></span>,  and 
+                     </li>
+                     <li id="contrib-3"><span class="name"><a class="name-search" href="/search?author1=B+Vester&amp;sortspec=date&amp;submit=Submit">B Vester</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Department of Molecular Biology, University of Odense, Denmark.</address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-1">Erm methyltransferases modify bacterial 23S ribosomal RNA at adenosine 2058 (A2058, Escherichia coli numbering) conferring
+                     resistance to macrolide, lincosamide, and streptogramin B (MLS) antibiotics. The motif that is recognized by Erm methyltransferases
+                     is contained within helix 73 of 23S rRNA and the adjacent single-stranded region around A2058. An RNA transcript of 72 nt
+                     that displays this motif functions as an efficient substrate for the ErmE methyltransferase. Pools of degenerate RNAs were
+                     formed by doping 34-nt positions that extend over and beyond the putative Erm recognition motif within the 72-mer RNA. The
+                     RNAs were passed through a series of rounds of methylation with ErmE. After each round, RNAs were selected that had partially
+                     or completely lost their ability to be methylated. After several rounds of methylation/selection, 187 subclones were analyzed.
+                     Forty-three of the subclones contained substitutions at single sites, and these are confined to 12 nucleotide positions. These
+                     nucleotides, corresponding to A2051-A2060, C2611, and A2614 in 23S rRNA, presumably comprise the RNA recognition motif for
+                     ErmE methyltransferase. The structure formed by these nucleotides is highly conserved throughout bacterial rRNAs, and is proposed
+                     to constitute the motif that is recognized by all the Erm methyltransferases.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/5/8/1021.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/5/8/1042.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/5/8.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              <cite>
+                                 	    <abbr title="RNA" class="slug-jnl-abbrev">
+                                    RNA</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    1999.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    5: 
+                                    </span><span class="slug-pages">
+                                    1034-1041
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/5/8/1034.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=rna%3B5%2F8%2F1034&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/5/8/1034.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=5/8/1034&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/5/8/1034.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=rna%3B5%2F8%2F1034&amp;citation=Nielsen%20et%20al.%205%20%288%29:%201034&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B5%2F8%2F1034&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B5%2F8%2F1034&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=rna;5/8/1034" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=10445878&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=rna%3B5%2F8%2F1034">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/5/8/1034.abstract?cited-by=yes&amp;legid=rna;5/8/1034#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Frna%2F5%2F8%2F1034&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://rnajournal.cshlp.org/content/5/8/1034.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ANielsen%20author%3AA.K.%22">Articles by  Nielsen, A. K.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AVester%20author%3AB.%22">Articles by  Vester, B.</a></li>
+                        <li><a href="/external-ref?access_num=http://rnajournal.cshlp.org/content/5/8/1034.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=10445878&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Nielsen%20AK&amp;link_type=AUTHORSEARCH">Articles by  Nielsen, A. K.</a></li>
+                        <li><a href="/external-ref?access_num=Vester%20B&amp;link_type=AUTHORSEARCH">Articles by  Vester, B.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/10445878"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=rna%3B5%2F8%2F1034&amp;current-view-path=/content/5/8/1034.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/5/8/1034&amp;title=Negative%20in%20vitro%20selection%20identifies%20the%20rRNA%20recognition%20motif%20for%20ErmE%20methyltransferase.+--+Nielsen%20et%20al.%205%20%288%29%3A%201034+--+&amp;doi=&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 29 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/29/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <p>
+                           <a href="/content/29/4">The <em>RNA</em> journal is pleased to present here the second in our series of special issues, with a compendium of Perspectives on RNA Therapeutics.
+                              Edited by Adrian Krainer and Michelle Hastings, this issue presents the current views of this exciting field by prominent
+                              scientists.</a>
+                           
+                        </p>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 RNA
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.rnajournal.org/index.dtl" rel="external-nw"
+                        title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57338&amp;adclick=true&amp;url=https%3A%2F%2Fwww.zymoresearch.com%2Fpages%2Fdirect-zol-rna-purification-kits%3Futm_source%3DRNA_Journal%26utm_medium%3Dtower%26utm_campaign%3DDirect-zol_04.01.23-04.30.23"
+                     target="_blank"><img class="adborder0" title="Zymo"
+                          src="//rnajournal.cshlp.org/adsystem/graphics/06235115799013313/rna/RNA-Journal-Ad-Trizol-R3-160x800.jpg?ad=57338&amp;adview=true"
+                          alt="Zymo" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <p style="padding-top:12px;"> </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_rn.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://rnasociety.org/" rel="external-nw">Copyright © 2023 by the RNA Society</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1355-8382</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1469-9001</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-5");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

@@ -1,0 +1,736 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Identification of targetable BRAF ΔN486_P490 variant by whole-genome sequencing leading to dabrafenib-induced remission of
+         a BRAF-mutant pancreatic adenocarcinoma 
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/5/6/a004424" />
+      <meta content="/cshmcs/5/6/a004424.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Identification of targetable BRAF ΔN486_P490 variant by whole-genome sequencing leading to dabrafenib-induced remission of a BRAF-mutant pancreatic adenocarcinoma"
+            name="DC.Title" />
+      <meta content="10.1101/mcs.a004424" name="DC.Identifier" />
+      <meta content="2019-12-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Kazimierz O. Wrzeszczynski" name="DC.Contributor" />
+      <meta content="Sadia Rahman" name="DC.Contributor" />
+      <meta content="Mayu O. Frank" name="DC.Contributor" />
+      <meta content="Kanika Arora" name="DC.Contributor" />
+      <meta content="Minita Shah" name="DC.Contributor" />
+      <meta content="Heather Geiger" name="DC.Contributor" />
+      <meta content="Vanessa Felice" name="DC.Contributor" />
+      <meta content="Dina Manaa" name="DC.Contributor" />
+      <meta content="Esra Dikoglu" name="DC.Contributor" />
+      <meta content="Depinder Khaira" name="DC.Contributor" />
+      <meta content="A. Rao Chimpiri" name="DC.Contributor" />
+      <meta content="Vanessa V. Michelini" name="DC.Contributor" />
+      <meta content="Vaidehi Jobanputra" name="DC.Contributor" />
+      <meta content="Robert B. Darnell" name="DC.Contributor" />
+      <meta content="Scott Powers" name="DC.Contributor" />
+      <meta content="Minsig Choi" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Kazimierz O. Wrzeszczynski" />
+      <meta name="citation_author_orcid" content="0000-0001-6743-6149" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Sadia Rahman" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Mayu O. Frank" />
+      <meta name="citation_author_institution"
+            content="2Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York 10065, USA;" />
+      <meta name="citation_author" content="Kanika Arora" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Minita Shah" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Heather Geiger" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Vanessa Felice" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Dina Manaa" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Esra Dikoglu" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="Depinder Khaira" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author" content="A. Rao Chimpiri" />
+      <meta name="citation_author_institution"
+            content="3Renaissance School of Medicine, Department of Radiology, Stony Brook University, Stony Brook, New York 11794, USA;" />
+      <meta name="citation_author" content="Vanessa V. Michelini" />
+      <meta name="citation_author_institution"
+            content="4IBM Watson Health, New York, New York 10017, USA;" />
+      <meta name="citation_author" content="Vaidehi Jobanputra" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author_institution"
+            content="5Columbia University Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author" content="Robert B. Darnell" />
+      <meta name="citation_author_institution"
+            content="1New York Genome Center, New York, New York 10013, USA;" />
+      <meta name="citation_author_institution"
+            content="2Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York 10065, USA;" />
+      <meta name="citation_author_institution"
+            content="6Howard Hughes Medical Institute, The Rockefeller University, New York, New York 10065, USA;" />
+      <meta name="citation_author" content="Scott Powers" />
+      <meta name="citation_author_institution"
+            content="7Renaissance School of Medicine, Department of Pathology, Stony Brook University, Stony Brook, New York 11794, USA;" />
+      <meta name="citation_author" content="Minsig Choi" />
+      <meta name="citation_author_institution"
+            content="8Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook, New York 11794, USA" />
+      <meta content="Identification of targetable BRAF ΔN486_P490 variant by whole-genome sequencing leading to dabrafenib-induced remission of a BRAF-mutant pancreatic adenocarcinoma"
+            name="citation_title" />
+      <meta content="12/01/2019" name="citation_date" />
+      <meta content="5" name="citation_volume" />
+      <meta content="6" name="citation_issue" />
+      <meta content="a004424" name="citation_firstpage" />
+      <meta content="5/6/a004424" name="citation_id" />
+      <meta content="5/6/a004424" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;5/6/a004424" name="citation_mjid" />
+      <meta content="10.1101/mcs.a004424" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/6/a004424.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/6/a004424.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/5/6.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/6/a004424"
+            name="citation_public_url" />
+      <meta content="31519698" name="citation_pmid" />
+      <meta name="citation_section" content="RAPID CANCER COMMUNICATION" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/5/6/a004390.short" rel="prev" />
+      <link href="/content/5/6/a004457.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d146383670e1">var callbackToken='567956C92C1D71F';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=56645&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                        target="_blank"><img class="adborder0" title="AACR Annual Meeting 2023"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/17706915048059957/genesdev/2202032Q_AACR23AM_468x60_1.jpg?ad=56645&amp;adview=true"
+                             alt="AACR Annual Meeting 2023" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Identification of targetable BRAF ΔN486_P490 variant by whole-genome sequencing leading to dabrafenib-induced remission of
+                  a <em>BRAF</em>-mutant pancreatic adenocarcinoma
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kazimierz+O.+Wrzeszczynski&amp;sortspec=date&amp;submit=Submit">Kazimierz O. Wrzeszczynski</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sadia+Rahman&amp;sortspec=date&amp;submit=Submit">Sadia Rahman</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Mayu+O.+Frank&amp;sortspec=date&amp;submit=Submit">Mayu O. Frank</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kanika+Arora&amp;sortspec=date&amp;submit=Submit">Kanika Arora</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Minita+Shah&amp;sortspec=date&amp;submit=Submit">Minita Shah</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Heather+Geiger&amp;sortspec=date&amp;submit=Submit">Heather Geiger</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Vanessa+Felice&amp;sortspec=date&amp;submit=Submit">Vanessa Felice</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Dina+Manaa&amp;sortspec=date&amp;submit=Submit">Dina Manaa</a></span><a id="xref-aff-1-7" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Esra+Dikoglu&amp;sortspec=date&amp;submit=Submit">Esra Dikoglu</a></span><a id="xref-aff-1-8" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Depinder+Khaira&amp;sortspec=date&amp;submit=Submit">Depinder Khaira</a></span><a id="xref-aff-1-9" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=A.+Rao+Chimpiri&amp;sortspec=date&amp;submit=Submit">A. Rao Chimpiri</a></span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Vanessa+V.+Michelini&amp;sortspec=date&amp;submit=Submit">Vanessa V. Michelini</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Vaidehi+Jobanputra&amp;sortspec=date&amp;submit=Submit">Vaidehi Jobanputra</a></span><a id="xref-aff-1-10" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robert+B.+Darnell&amp;sortspec=date&amp;submit=Submit">Robert B. Darnell</a></span><a id="xref-aff-1-11" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-15" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Scott+Powers&amp;sortspec=date&amp;submit=Submit">Scott Powers</a></span><a id="xref-aff-7-1" class="xref-aff" href="#aff-7">7</a> and 
+                     </li>
+                     <li class="last" id="contrib-16"><span class="name"><a class="name-search"
+                              href="/search?author1=Minsig+Choi&amp;sortspec=date&amp;submit=Submit">Minsig Choi</a></span><a id="xref-aff-8-1" class="xref-aff" href="#aff-8">8</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>New York Genome Center, New York, New York 10013, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Laboratory of Molecular Neuro-Oncology, The Rockefeller University, New York, New York 10065, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Renaissance School of Medicine, Department of Radiology, Stony Brook University, Stony Brook, New York 11794, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>IBM Watson Health, New York, New York 10017, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Columbia University Medical Center, New York, New York 10032, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Howard Hughes Medical Institute, The Rockefeller University, New York, New York 10065, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address><sup>7</sup>Renaissance School of Medicine, Department of Pathology, Stony Brook University, Stony Brook, New York 11794, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address><sup>8</sup>Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook, New York 11794, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">Minsig.Choi{at}stonybrookmedicine.edu</span></span>; <span class="em-link"><span class="em-addr">darnelr{at}rockefeller.edu</span></span>; <span class="em-link"><span class="em-addr">kwrzeszczynski{at}nygenome.org</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">The tumor genome of a patient with advanced pancreatic cancer was sequenced to identify potential therapeutic targetable mutations
+                     after standard of care failed to produce any significant overall response. Matched tumor-normal whole-genome sequencing revealed
+                     somatic mutations in <em>BRAF</em>, <em>TP53</em>, <em>CDKN2A</em>, and a focal deletion of <em>SMAD4</em>. The <em>BRAF</em> variant was an in-frame deletion mutation (ΔN486_P490), which had been previously demonstrated to be a kinase-activating
+                     alteration in the BRAF kinase domain. Working with the Novartis patient assistance program allowed us to treat the patient
+                     with the BRAF inhibitor, dabrafenib. The patient's overall clinical condition improved dramatically with dabrafenib. Levels
+                     of serum tumor marker dropped immediately after treatment, and a subsequent CT scan revealed a significant decrease in the
+                     size of both primary and metastatic lesions. The dabrafenib-induced remission lasted for 6 mo. Preclinical studies published
+                     concurrently with the patient's treatment showed that the BRAF in-frame mutation (ΔNVTAP) induces oncogenic activation by
+                     a mechanism distinct from that induced by V600E, and that this difference dictates the responsiveness to different BRAF inhibitors.
+                     This study describes a dramatic instance of how high-level genomic technology and analysis was necessary and sufficient to
+                     identify a clinically logical treatment option that was then utilized and shown to be of clinical value for this individual.
+                  </p>
+               </div>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=neoplasm+of+the+pancreas&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">neoplasm of the pancreas</a></span></li>
+               </ul>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2019-05-21"><span class="received-label">Received </span>May 21, 2019.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2019-08-07"><span class="accepted-label">Accepted </span>August 7, 2019.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2019 Wrzeszczynski et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/5/6/a004390.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/5/6/a004457.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/5/6.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">September 13, 2019</span>,
+                                 doi:
+                                 <span title="10.1101/mcs.a004424" class="slug-doi">10.1101/mcs.a004424
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    5: 
+                                    </span><span class="slug-pages">
+                                    a004424
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2019 Wrzeszczynski et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/5/6/a004424.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/5/6/a004424.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2019/09/13/mcs.a004424">mcs.a004424v1</a></li>
+                                 <li class="current-li"><span>5/6/a004424</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RAPID+CANCER+COMMUNICATION&amp;sortspec=date&amp;submit=Submit">RAPID CANCER COMMUNICATION</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B5%2F6%2Fa004424&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=5/6/a004424&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=5/6/a004424&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;5/6/a004424" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a004424&amp;citation=Wrzeszczynski%20et%20al.%205%20%286%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B5%2F6%2Fa004424&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=31519698&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B5%2F6%2Fa004424">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;5/6/a004424"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/5/6/a004424.abstract?cited-by=yes&amp;legid=cshmcs;5/6/a004424#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F5%2F6%2Fa004424&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AWrzeszczynski%20author%3AK.O.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Wrzeszczynski, K. O.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AChoi%20author%3AM.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Choi, M.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/6/a004424.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=31519698&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Wrzeszczynski%20KO&amp;link_type=AUTHORSEARCH">Articles by  Wrzeszczynski, K. O.</a></li>
+                        <li><a href="/external-ref?access_num=Choi%20M&amp;link_type=AUTHORSEARCH">Articles by  Choi, M.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/31519698"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Wrzeszczynski, K. O.<a class="orcid-link" href="http://orcid.org/0000-0001-6743-6149">http://orcid.org/0000-0001-6743-6149</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/5/6/a004424.abstract?related-urls=yes&amp;legid=cshmcs;5/6/a004424#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B5%2F6%2Fa004424&amp;current-view-path=/content/5/6/a004424.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/6/a004424&amp;title=Identification%20of%20targetable%20BRAF%20%CE%94N486_P490%20variant%20by%20whole-genome%20sequencing%20leading%20to%20dabrafenib-induced%20remission%20of%20a%20BRAF-mutant%20pancreatic%20adenocarcinoma+--+Wrzeszczynski%20et%20al.%205%20%286%29+--+cshmcs&amp;doi=10.1101/mcs.a004424&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=56643&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/8101439996683775/genesdev/2202032Mm_AACR23AM_CSHL_160x800_1.jpg?ad=56643&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

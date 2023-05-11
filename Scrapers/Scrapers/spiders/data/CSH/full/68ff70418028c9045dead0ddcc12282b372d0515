@@ -1,0 +1,745 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Sequencing Illumina libraries at high accuracy on the ONT MinION using R2C2 </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all organisms" />
+      <meta content="/genome/32/11-12/2092.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Sequencing Illumina libraries at high accuracy on the ONT MinION using R2C2"
+            name="DC.Title" />
+      <meta content="10.1101/gr.277031.122" name="DC.Identifier" />
+      <meta content="2022-11-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Alexander Zee" name="DC.Contributor" />
+      <meta content="Dori Z.Q. Deng" name="DC.Contributor" />
+      <meta content="Matthew Adams" name="DC.Contributor" />
+      <meta content="Kayla D. Schimke" name="DC.Contributor" />
+      <meta content="Russell Corbett-Detig" name="DC.Contributor" />
+      <meta content="Shelbi L. Russell" name="DC.Contributor" />
+      <meta content="Xuan Zhang" name="DC.Contributor" />
+      <meta content="Robert J. Schmitz" name="DC.Contributor" />
+      <meta content="Christopher Vollmers" name="DC.Contributor" />
+      <meta content="Genome Research" name="citation_journal_title" />
+      <meta content="Genome Res." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1088-9051" name="citation_issn" />
+      <meta content="1549-5469" name="citation_issn" />
+      <meta name="citation_author" content="Alexander Zee" />
+      <meta name="citation_author_institution"
+            content="1Department of Biomolecular Engineering, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Dori Z.Q. Deng" />
+      <meta name="citation_author_institution"
+            content="2Department of Molecular, Cellular, and Developmental Biology, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Matthew Adams" />
+      <meta name="citation_author_institution"
+            content="2Department of Molecular, Cellular, and Developmental Biology, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Kayla D. Schimke" />
+      <meta name="citation_author_institution"
+            content="1Department of Biomolecular Engineering, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Russell Corbett-Detig" />
+      <meta name="citation_author_institution"
+            content="1Department of Biomolecular Engineering, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Shelbi L. Russell" />
+      <meta name="citation_author_institution"
+            content="2Department of Molecular, Cellular, and Developmental Biology, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Xuan Zhang" />
+      <meta name="citation_author_institution"
+            content="3Department of Genetics, University of Georgia, Athens, Georgia 30602, USA" />
+      <meta name="citation_author" content="Robert J. Schmitz" />
+      <meta name="citation_author_institution"
+            content="3Department of Genetics, University of Georgia, Athens, Georgia 30602, USA" />
+      <meta name="citation_author" content="Christopher Vollmers" />
+      <meta name="citation_author_institution"
+            content="1Department of Biomolecular Engineering, University of California Santa Cruz, Santa Cruz, California 95064, USA;" />
+      <meta content="Sequencing Illumina libraries at high accuracy on the ONT MinION using R2C2"
+            name="citation_title" />
+      <meta content="11/01/2022" name="citation_date" />
+      <meta content="32" name="citation_volume" />
+      <meta content="11-12" name="citation_issue" />
+      <meta content="2092" name="citation_firstpage" />
+      <meta content="2106" name="citation_lastpage" />
+      <meta content="32/11-12/2092" name="citation_id" />
+      <meta content="32/11-12/2092" name="citation_id_from_sass_path" />
+      <meta content="genome;32/11-12/2092" name="citation_mjid" />
+      <meta content="10.1101/gr.277031.122" name="citation_doi" />
+      <meta content="https://genome.cshlp.org/content/32/11-12/2092.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="https://genome.cshlp.org/content/32/11-12/2092.full"
+            name="citation_fulltext_html_url" />
+      <meta content="https://genome.cshlp.org/content/32/11-12/2092.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/32/11-12.cover.gif" name="issue_cover_image" />
+      <meta content="https://genome.cshlp.org/content/32/11-12/2092"
+            name="citation_public_url" />
+      <meta content="36351772" name="citation_pmid" />
+      <meta name="citation_section" content="Method" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/32/11-12/2079.short" rel="prev" />
+      <link href="/content/32/11-12/2107.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d10903077e1">var callbackToken='56725B3B5FD893B';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genome Research" alt="Genome Research" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.genome.org/" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genome Research" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57337&amp;adclick=true&amp;url=https%3A%2F%2Finfo.vizgen.com%2Fprotein-detection%3Futm_source%3DGenome%2BResearch%26utm_medium%3DDisplay%26utm_campaign%3DVizgenFY23%26utm_term%3DOrder%2BNow"
+                        target="_blank"><img class="adborder0" title="Vizgen"
+                             src="//genome.cshlp.org/adsystem/graphics/3934397492986934/genesdev/%28REVISED%29%20VIZ-0034-Protein-Co-detection-Banner-Updates_468_60_b.jpg?ad=57337&amp;adview=true"
+                             alt="Vizgen" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Sequencing Illumina libraries at high accuracy on the ONT MinION using R2C2</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Alexander+Zee&amp;sortspec=date&amp;submit=Submit">Alexander Zee</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Dori+Z.Q.+Deng&amp;sortspec=date&amp;submit=Submit">Dori Z.Q. Deng</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-2" class="xref-fn" href="#fn-1">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Matthew+Adams&amp;sortspec=date&amp;submit=Submit">Matthew Adams</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-3" class="xref-fn" href="#fn-1">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kayla+D.+Schimke&amp;sortspec=date&amp;submit=Submit">Kayla D. Schimke</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-1-4" class="xref-fn" href="#fn-1">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Russell+Corbett-Detig&amp;sortspec=date&amp;submit=Submit">Russell Corbett-Detig</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Shelbi+L.+Russell&amp;sortspec=date&amp;submit=Submit">Shelbi L. Russell</a></span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Xuan+Zhang&amp;sortspec=date&amp;submit=Submit">Xuan Zhang</a></span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robert+J.+Schmitz&amp;sortspec=date&amp;submit=Submit">Robert J. Schmitz</a></span><a id="xref-aff-3-2" class="xref-aff" href="#aff-3">3</a> and 
+                     </li>
+                     <li class="last" id="contrib-9"><span class="name"><a class="name-search"
+                              href="/search?author1=Christopher+Vollmers&amp;sortspec=date&amp;submit=Submit">Christopher Vollmers</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Biomolecular Engineering, University of California Santa Cruz, Santa Cruz, California 95064, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Molecular, Cellular, and Developmental Biology, University of California Santa Cruz, Santa Cruz, California
+                           95064, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Department of Genetics, University of Georgia, Athens, Georgia 30602, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="fn-track">
+                     <li class="fn-equal" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">4</span> These authors contributed equally to this work.
+                        </p>
+                     </li>
+                  </ol>
+               </div>
+               <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">vollmers{at}ucsc.edu</span></span></li>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">High-throughput short-read sequencing has taken on a central role in research and diagnostics. Hundreds of different assays
+                     take advantage of Illumina short-read sequencers, the predominant short-read sequencing technology available today. Although
+                     other short-read sequencing technologies exist, the ubiquity of Illumina sequencers in sequencing core facilities and the
+                     high capital costs of these technologies have limited their adoption. Among a new generation of sequencing technologies, Oxford
+                     Nanopore Technologies (ONT) holds a unique position because the ONT MinION, an error-prone long-read sequencer, is associated
+                     with little to no capital cost. Here we show that we can make short-read Illumina libraries compatible with the ONT MinION
+                     by using the rolling circle to concatemeric consensus (R2C2) method to circularize and amplify the short library molecules.
+                     This results in longer DNA molecules containing tandem repeats of the original short library molecules. This longer DNA is
+                     ideally suited for the ONT MinION, and after sequencing, the tandem repeats in the resulting raw reads can be converted into
+                     high-accuracy consensus reads with similar error rates to that of the Illumina MiSeq. We highlight this capability by producing
+                     and benchmarking RNA-seq, ChIP-seq, and regular and target-enriched Tn5 libraries. We also explore the use of this approach
+                     for rapid evaluation of sequencing library metrics by implementing a real-time analysis workflow.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-116">[Supplemental material is available for this article.]</p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-117">Article published online before print. Article, supplemental material, and publication date are at <a href="https://www.genome.org/cgi/doi/10.1101/gr.277031.122">https://www.genome.org/cgi/doi/10.1101/gr.277031.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-06-15"><span class="received-label">Received </span>June 15, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-10-21"><span class="accepted-label">Accepted </span>October 21, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="/site/misc/terms.xhtml">© 2022 Zee et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue
+                     publication date (see <a href="https://genome.cshlp.org/site/misc/terms.xhtml" rel="license">https://genome.cshlp.org/site/misc/terms.xhtml</a>). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/32/11-12/2079.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/32/11-12/2107.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/32/11-12.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">November 9, 2022</span>,
+                                 doi:
+                                 <span title="10.1101/gr.277031.122" class="slug-doi">10.1101/gr.277031.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Genome Research" class="slug-jnl-abbrev">
+                                    Genome Res.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    November/December 2022.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    32: 
+                                    </span><span class="slug-pages">
+                                    2092-2106
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://genome.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://genome.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2022 Zee et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/32/11-12/2092.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/32/11-12/2092.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/32/11-12/2092/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2022/11/08/gr.277031.122">gr.277031.122v1</a></li>
+                                 <li><a href="/content/early/2022/12/09/gr.277031.122">gr.277031.122v2</a></li>
+                                 <li class="current-li"><span>32/11-12/2092</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Method&amp;sortspec=date&amp;submit=Submit">Method</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genome%3B32%2F11-12%2F2092&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/32/11-12/2092.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=32/11-12/2092&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/32/11-12/2092.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genome%3Bgr.277031.122&amp;citation=Zee%20et%20al.%2032%20%2811-12%29:%202092&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genome%3B32%2F11-12%2F2092&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=genome;32/11-12/2092" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=36351772&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genome%3B32%2F11-12%2F2092">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              		Permissions 
+                              	    </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/32/11-12/2092.abstract?cited-by=yes&amp;legid=genome;32/11-12/2092#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenome%2F32%2F11-12%2F2092&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AZee%20author%3AA.%22">Articles by  Zee, A.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AVollmers%20author%3AC.%22">Articles by  Vollmers, C.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36351772&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Zee%20A&amp;link_type=AUTHORSEARCH">Articles by  Zee, A.</a></li>
+                        <li><a href="/external-ref?access_num=Vollmers%20C&amp;link_type=AUTHORSEARCH">Articles by  Vollmers, C.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36351772"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genome%3B32%2F11-12%2F2092&amp;current-view-path=/content/32/11-12/2092.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/32/11-12/2092&amp;title=Sequencing%20Illumina%20libraries%20at%20high%20accuracy%20on%20the%20ONT%20MinION%20using%20R2C2+--+Zee%20et%20al.%2032%20%2811-12%29%3A%202092+--+GENOME&amp;doi=10.1101/gr.277031.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="art-history-pane">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Preprint Server</span>
+                        
+                     </h4>
+                     
+                     <div id="art-history"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section" id="cb-art-fbr">
+                      
+                  </div>
+                  
+                  <div class="cb-section" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Recent Updates</span>
+                        
+                     </h4>
+                     <a href="http://twitter.com/genomeresearch" rel="external-nw"
+                        style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                        <img src="/site/misc/images/twitterus.gif" alt="follow us on twitter"
+                             title="Twitter" />
+                        </a>
+                     <a data-widget-id="364429657619189760" href="https://twitter.com/genomeresearch"
+                        class="twitter-timeline"
+                        style="font-size:10px;">Tweets by @genomeresearch</a>
+                     <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                     <div id="twitter-feed"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Most Read Articles</span>
+                        
+                     </h4>
+                     <script src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gr"
+                             type="text/javascript"></script>
+                     <p style="padding-top:0;margin-top:0;text-align:right;">
+                        <a href="/site/misc/top.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="col-2-widget-placeholder">
+               <br />
+               <br />
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 33 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/33/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/33/3/435">Splicing-associated tandem repeats in humans</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/299">SARS-CoV-2 infection and RNA methylation loss</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/314">
+                                 <em>Twist2</em> regulates adipogenesis</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/346">Enhancers display constrained sequence flexibility</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/site/cl/CL_33_3_spa_seq.xhtml">Spatial metatranscriptome and strand-specific RNA sequencing</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Genome Research
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genome.org/" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/press/Announcements.xhtml" title="GR in the News "><span>GR in the News </span></a></li>
+                  <li><a href="/site/misc/about.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/permissions_landing.xhtml" title="Permissions"><span>Permissions</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57216&amp;adclick=true&amp;url=https%3A%2F%2Fpages.10xgenomics.com%2Fo-2022-marketing-literature-ra_g-p_scge-flex-lit118_lifescience.html%3Fsrc%3Ddisplay%26utm_medium%3Ddisplay%26lss%3Dcold-spring-harbor-labs%26utm_source%3Dcold-spring-harbor-labs%26cnm%3Dpm-2023-01-ra_g-p_sfrp-paid-media-banner-cold-spring-harbo"
+                     target="_blank"><img class="adborder0" title="10x Genomics"
+                          src="//genome.cshlp.org/adsystem/graphics/7526105545581862/genome/220322CHR_FRP_160x600.png?ad=57216&amp;adview=true"
+                          alt="10x Genomics" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="http://www.life-science-alliance.org/?v=genome_research">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.genome.org/" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1088-9051</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5469</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-2");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

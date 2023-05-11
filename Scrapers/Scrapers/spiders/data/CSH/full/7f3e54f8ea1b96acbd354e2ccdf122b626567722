@@ -1,0 +1,858 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Astroglial Calcium Signaling in Aging and Alzheimer's Disease </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A new type of review journal, featuring comprehensive collections of expert review articles on important topics in the molecular life sciences" />
+      <meta content="/cshperspect/11/7/a035188.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Astroglial Calcium Signaling in Aging and Alzheimer's Disease"
+            name="DC.Title" />
+      <meta content="10.1101/cshperspect.a035188" name="DC.Identifier" />
+      <meta content="2019-07-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Alexei Verkhratsky" name="DC.Contributor" />
+      <meta content="007" name="citation_collection_id" />
+      <meta content="Cold Spring Harbor Perspectives in Biology"
+            name="citation_journal_title" />
+      <meta content="Cold Spring Harb Perspect Biol" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="" name="citation_issn" />
+      <meta content="1943-0264" name="citation_issn" />
+      <meta name="citation_author" content="Alexei Verkhratsky" />
+      <meta name="citation_author_institution"
+            content="1Faculty of Biology, Medicine and Health, The University of Manchester, Manchester M13 9PT, United Kingdom" />
+      <meta name="citation_author_institution"
+            content="2Center for Basic and Translational Neuroscience, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark" />
+      <meta name="citation_author_institution"
+            content="3Achucarro Center for Neuroscience, Ikerbasque, Basque Foundation for Science, 48011 Bilbao, Spain" />
+      <meta content="Astroglial Calcium Signaling in Aging and Alzheimer's Disease"
+            name="citation_title" />
+      <meta content="07/01/2019" name="citation_date" />
+      <meta content="11" name="citation_volume" />
+      <meta content="7" name="citation_issue" />
+      <meta content="a035188" name="citation_firstpage" />
+      <meta content="11/7/a035188" name="citation_id" />
+      <meta content="11/7/a035188" name="citation_id_from_sass_path" />
+      <meta content="cshperspect;11/7/a035188" name="citation_mjid" />
+      <meta content="10.1101/cshperspect.a035188" name="citation_doi" />
+      <meta content="http://cshperspectives.cshlp.org/content/11/7/a035188.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://cshperspectives.cshlp.org/content/11/7/a035188.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://cshperspectives.cshlp.org/content/11/7/a035188.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/11/7.cover.gif" name="issue_cover_image" />
+      <meta content="http://cshperspectives.cshlp.org/content/11/7/a035188"
+            name="citation_public_url" />
+      <meta content="31110130" name="citation_pmid" />
+      <meta name="citation_section" content="Perspective" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/11/7/a034587.short" rel="prev" />
+      <link href="/content/11/8/a032227.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d8203041e1">var callbackToken='5679AABF17B07D3';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Perspectives in Biology"
+                    alt="Cold Spring Harbor Perspectives in Biology"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/cgi/collection/" title="SUBJECT COLLECTIONS"><span>SUBJECT COLLECTIONS</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/site/misc/subscribe.xhtml" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="FEEDBACK"><span>FEEDBACK</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Cold Spring Harbor Perspectives in Biology" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=50833&amp;adclick=true&amp;url=http%3A%2F%2Fwww.genelink.com%2Fpct%2FSNP_Positive_Control_Template_Specifications.asp"
+                        target="_blank"><img class="adborder0" title="Gene Link"
+                             src="//cshperspectives.cshlp.org/adsystem/graphics/4021782640232636/cshperspect/SPCT_web_468x60.gif?ad=50833&amp;adview=true"
+                             alt="Gene Link" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Astroglial Calcium Signaling in Aging and Alzheimer's Disease</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="last" id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=Alexei+Verkhratsky&amp;sortspec=date&amp;submit=Submit">Alexei Verkhratsky</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Faculty of Biology, Medicine and Health, The University of Manchester, Manchester M13 9PT, United Kingdom
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Center for Basic and Translational Neuroscience, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen,
+                           Denmark
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Achucarro Center for Neuroscience, Ikerbasque, Basque Foundation for Science, 48011 Bilbao, Spain
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><em>Correspondence:</em> <span class="em-link"><span class="em-addr">Alexej.Verkhratsky{at}manchester.ac.uk</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">Astrocytes are the homeostatic and protective cells of the central nervous system (CNS). In neurological diseases, astrocytes
+                     undergo complex changes, which are subclassified into (1) reactive astrogliosis, an evolutionary conserved defensive rearrangement
+                     of cellular phenotype aimed at neuroprotection; (2) pathological remodeling, when astrocytes acquire new features driving
+                     pathology; and (3) astrodegeneration, which is manifested by astroglial atrophy and loss of homeostatic functions. In aging
+                     brains as well as in the brains affected by Alzheimer's disease (AD), astrocytes acquire both atrophic and reactive phenotypes
+                     in a region- and disease-stage-dependent manner. Prevalence of atrophy overreactivity, observed in certain brain regions and
+                     in terminal stages of the disease, arguably facilitates the development of neurological deficits. Astrocytes exhibit ionic
+                     excitability mediated by changes in intracellular concentration of ions, most importantly of Ca<sup>2+</sup> and Na<sup>+</sup>, with intracellular ion dynamics triggered by the activity of neural networks. AD astrocytes associated with senile plaques
+                     demonstrate Ca<sup>2+</sup> hyperactivity in the form of aberrant Ca<sup>2+</sup> oscillations and pathological long-range Ca<sup>2+</sup> waves. Astroglial Ca<sup>2+</sup> signaling originating from Ca<sup>2+</sup> release from the endoplasmic reticulum is a key factor in initiating astrogliotic response; deficient Ca<sup>2+</sup> signaling toolkits observed in entorhinal and prefrontal cortices of AD model animals may account for vulnerability of these
+                     regions to the pathology.
+                  </p>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.cshperspectives.org/site/misc/terms.xhtml">Copyright © 2019 Cold Spring Harbor Laboratory Press; all rights reserved</a></li>
+               </ul><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/short/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span>
+            <br />
+            <br />
+            
+            <div class="content-box" id="article-cb-mainy" style="background-color: #f8efd5;">
+               
+               <div class="cb-contents" style="background-color: #f8efd5;">
+                  
+                  <div style="background-color: #f8efd5;">
+                     
+                     <h4 class="cb-section-header" style="background-color: #f8efd5;padding-top:12px;">
+                        <span style="background-color: #f8efd5;">Also in this Collection</span>
+                        
+                     </h4>
+                     
+                     <ol></ol>
+                     
+                     <ol class="tweet" id="coll_list_abstract"></ol>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/11/7/a034587.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/11/8/a032227.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/11/7.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">May 20, 2019</span>,
+                                 doi:
+                                 <span title="10.1101/cshperspect.a035188" class="slug-doi">10.1101/cshperspect.a035188
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Perspectives in Biology" class="slug-jnl-abbrev">
+                                    Cold Spring Harb. Perspect. Biol.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2019.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    11: 
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml"><span class="copyright-statement">
+                                    <nlm:ext-link xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                  xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  xmlns:hwp="http://schema.highwire.org/Journal"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.cshperspectives.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.cshperspectives.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">Copyright © 2019 Cold Spring Harbor Laboratory Press; all rights reserved</nlm:ext-link></span></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/11/7/a035188.full" rel="view-full-text">Full Text</a><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/11/7/a035188.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2019/05/20/cshperspect.a035188">cshperspect.a035188v1</a></li>
+                                 <li class="current-li"><span>11/7/a035188</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings">
+                              <li>Perspective
+                                 <ul class="subject-sub-headings last-child">
+                                    <li><a class="tocsection-search"
+                                          href="/search?tocsectionid=Molecular+Pathology&amp;sortspec=date&amp;submit=Submit">Molecular Pathology</a></li>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshperspect%3B11%2F7%2Fa035188&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshperspectives.cshlp.org/content/11/7/a035188.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=11/7/a035188&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshperspectives.cshlp.org/content/11/7/a035188.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=cshperspect%3Bcshperspect.a035188&amp;citation=Verkhratsky%2011%20%287%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=cshperspect%3B11%2F7%2Fa035188&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=31110130&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=cshperspect%3B11%2F7%2Fa035188">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Updates/Comments</span></h4>
+                     <ol>
+                        <li><a href="/letters/submit/cshperspect;11/7/a035188">Submit Updates/Comments</a></li>
+                        <li><span class="eletters-no-responses-published">No Updates/Comments published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/11/7/a035188.abstract?cited-by=yes&amp;legid=cshperspect;11/7/a035188#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshperspect%2F11%2F7%2Fa035188&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://cshperspectives.cshlp.org/content/11/7/a035188.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AVerkhratsky%20author%3AA.%22">Articles by  Verkhratsky, A.</a></li>
+                        <li><a href="/external-ref?access_num=http://cshperspectives.cshlp.org/content/11/7/a035188.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=31110130&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Verkhratsky%20A&amp;link_type=AUTHORSEARCH">Articles by  Verkhratsky, A.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/31110130"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-art-col">
+                     <h4 class="cb-section-header"><span>Subject Collections</span></h4>
+                     <ol>
+                        <li><a href="/cgi/collection/calcium_signaling">Calcium Signaling</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshperspect%3B11%2F7%2Fa035188&amp;current-view-path=/content/11/7/a035188.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/short/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/11/7/a035188&amp;title=Astroglial%20Calcium%20Signaling%20in%20Aging%20and%20Alzheimer%27s%20Disease+--+Verkhratsky%2011%20%287%29+--+cshperspect&amp;doi=10.1101/cshperspect.a035188&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <style type="text/css">
+      
+#col-2 div#cb-biorxiv ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}
+#col-2 #article-cb-mainx {
+  display:visible;
+}
+
+#col-2 div#cb-art-coll ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}   
+    </style>
+            <div id="col-2-widget-placeholder">
+               
+               <div class="content-box" id="article-cb-main">
+                  
+                  <div class="cb-contents">
+                     <a href="http://biorxiv.org/" rel="external-nw">
+                        <img src="/site/misc/images/biorxiv_ad.gif" />
+                        </a>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium75/Symposium75/Interviews/Entries/2010/6/24_TOM_MISTELI.html"
+                           onclick="newWindow(this.href, 'popup', 640, 378, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Misteli interview" src="/site/misc/images/misteli3.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium75/Symposium75/Interviews/Entries/2010/6/24_TOM_MISTELI.html"
+                           onclick="newWindow(this.href, 'popup', 640, 380, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Tom Misteli </a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat1">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral.cshl.edu/symp09/cech.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Cech interview" src="/site/misc/images/tcech.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral.cshl.edu/symp09/cech.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Tom Cech </a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat2">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral.cshl.edu/symp09/shapiro.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Shapiro interview" src="/site/misc/images/Shapiro_pic.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral.cshl.edu/symp09/shapiro.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Lucy Shapiro</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat3">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Paolo_Sassone-Corsi.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Corsi interview" src="/site/misc/images/corsi.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Paolo_Sassone-Corsi.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Paolo Sassone-Corsi</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat4">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/3_Richard_Morimoto_1.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Corsi interview" src="/site/misc/images/rm.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/3_Richard_Morimoto_1.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Richard Morimoto</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat5">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium77/Estelle.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Estelle interview" src="/site/misc/images/estelle.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium77/Estelle.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Mark Estelle</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat6">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Craig_Thompson_1.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Craig Thompson interview" src="/site/misc/images/ct.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Craig_Thompson_1.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with  Craig Thompson</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat7">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/symposium78/Mathis.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Craig Thompson interview" src="/site/misc/images/dm.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/symposium78/Mathis.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with  Diane Mathis</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               <style type="text/css">
+#col-2 #article-cb-mainx {
+  display:visible;
+}
+
+#col-2 div#cb-art-coll ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}    </style>
+               <div class="content-box" id="article-cb-mainx">
+                  
+                  <div class="cb-contents">
+                     
+                     <div class="cb-section collapsible default-open" id="cb-art-coll">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In this Collection</span>
+                           
+                        </h4>
+                        
+                        <ol class="tweet" id="coll_list"></ol>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/JavaScript">
+var pageid = $("div.hw-gen-page").attr("id");
+//alert(pageid);
+</script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 15 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/15/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div> 
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a>A collage of collection cover images</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+                  <li><a href="/site/misc/sample.xhtml" title="Featured Articles"><span>Featured Articles</span></a></li>
+                  <li><a href="/cgi/collection/" title="Subject Collections"><span>Subject Collections</span></a></li>
+                  <li><a href="/content/by/year" title="Archive by Date"><span>Archive by Date</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="Alerts and RSS Feeds"><span>Alerts and RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/permissions_landing.xhtml" title="Permissions"><span>Permissions</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=50843&amp;adclick=true&amp;url=http%3A%2F%2Fwww.genelink.com%2Fsirna%2FRNAprice.asp"
+                     target="_blank"><img class="adborder0" title="Gene Link 90s siRNA"
+                          src="//cshperspectives.cshlp.org/adsystem/graphics/5029537015587687/cshperspect/90siRNA-120x600_2.gif?ad=50843&amp;adview=true"
+                          alt="Gene Link 90s siRNA" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:5px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing:6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <br />
+               <br />
+               
+               <div>
+                  
+                  <center><img alt="CSH Perspectives" src="/site/misc/covers_hompage/cshlp.jpg" /></center>
+                  
+               </div>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/cgi/collection/" title="Subject Collections"><span>Subject Collections</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/site/misc/subscribe.xhtml" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Feedback"><span>Feedback</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1943-0264</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-15");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

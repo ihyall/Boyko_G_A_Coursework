@@ -1,0 +1,279 @@
+
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2014 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="https://www.int-res.com/" />
+
+
+<meta name="generator" content="TYPO3 6.2 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_cc05bb6c12.css?1464095062" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/bootstrap/css/bootstrap.min.css?1475660316" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/css/style.css?1475660316" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/css/headers/header-default.css?1559135214" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_journal_meps.css?1552480539" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/plugins/font-awesome-5p/css/all.css?1559125610" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_abstracts.css?1629726118" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_advanced_abstract.css?1576655836" media="all" />
+
+
+<script src="fileadmin/templates/dist/vendor/jquery/jquery.min.js?1475660316" type="text/javascript"></script>
+<script src="fileadmin/templates/dist/vendor/bootstrap/js/bootstrap.min.js?1475660316" type="text/javascript"></script>
+<script src="fileadmin/templates/playground/scripts/intres.js?1589791313" type="text/javascript"></script>
+<script src="typo3temp/javascript_dd82474708.js?1464095062" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" media="all"  href="https://www.int-res.com/typo3conf/ext/mindshape_cookie_hint/Resources/Public/Css/dark-bottom.css" />
+<title>Inter Research&nbsp;&raquo;&nbsp;MEPS&nbsp;&raquo;&nbsp;v689&nbsp;&raquo;&nbsp;p109-126</title>
+
+<meta name="citation_title" content="New perspectives on Eastern Baltic cod movement patterns from historical and contemporary tagging data" />
+<meta name="citation_publication_date" content="2022/05/12" />
+<meta name="citation_journal_title" content="Marine Ecology Progress Series" />
+<meta name="citation_journal_abbreviation" content="Mar Ecol Prog Ser" />
+<meta name="citation_journal_abbreviation" content="MEPS" />
+<meta name="citation_issn" content="0171-8630" />
+<meta name="citation_issn" content="1616-1599" />
+<meta name="citation_journal_publisher" content="Inter-Research" />
+<meta name="citation_volume" content="689" />
+<meta name="citation_firstpage" content="109" />
+<meta name="citation_lastpage" content="126" />
+<meta name="citation_doi" content="10.3354/meps14047" />
+<meta name="citation_pdf_url" content="https://www.int-res.com/articles/meps2022/689/m689p109.pdf" />
+<meta name="citation_abstract_html_url" content="https://www.int-res.com/abstracts/meps/v689/p109-126/" />
+<meta name="citation_xml_url" content="https://www.int-res.com/articles/xml/meps/689/m689p109.xml" />
+<meta name="citation_author" content="Monica Mion" />
+<meta name="citation_author_email" content="monica.mion@slu.se" />
+<meta name="citation_author" content="Christopher A. Griffiths" />
+<meta name="citation_author" content="Valerio Bartolino" />
+<meta name="citation_author" content="Stefanie Haase" />
+<meta name="citation_author" content="Annelie Hilvarsson" />
+<meta name="citation_author" content="Karin Hüssy" />
+<meta name="citation_author" content="Maria Krüger-Johnsen" />
+<meta name="citation_author" content="Uwe Krumme" />
+<meta name="citation_author" content="Regitze Benedicte Carlstedt Lundgreen" />
+<meta name="citation_author" content="Johan Lövgren" />
+<meta name="citation_author" content="Kate McQueen" />
+<meta name="citation_author" content="Maris Plikshs" />
+<meta name="citation_author" content="Krzysztof Radtke" />
+<meta name="citation_author" content="Jari Raitaniemi" />
+<meta name="citation_author" content="Michele Casini" />
+<meta name="citation_keywords" content="Baltic Sea; Gadus morhua; Fish movement; Mark-recapture; Historical data; Home range; Kernel density estimation; Generalized additive model" />
+<meta property="og:title" content="New perspectives on Eastern Baltic cod movement patterns from historical and contemporary tagging data" />
+<meta name="dc.identifier" content="10.3354/meps14047" />
+
+<script src="fileadmin/templates/popuponce.js" language="javascript" type="text/javascript"></script><script src="fileadmin/templates/popupns4ie4.js" language="javascript1.2" type="text/javascript"></script><script src="fileadmin/templates/loadcitedby.js" language="javascript1.2" type="text/javascript"></script><script src="https://code.jquery.com/jquery-1.8.3.min.js" language="javascript1.2" type="text/javascript"></script>
+</head>
+<body>
+
+    
+    <script language="JavaScript" type="text/javascript">
+      // <!--
+      this.window.name = "page";
+      // -->
+    </script>
+    
+    <!-- Website Start -->
+    
+    <div class="wrapper">
+      <div class="header">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 col-md-9 col-sm-8 col-sx-12">
+              <div id="ir_logo">
+                <a href="/">
+                  <img src="/fileadmin/templates/playground/images/logo/intres_logo_icon.png" alt="IR" title="Home">              
+                  <span class="ir_logo_txt">Inter-Research Science Publisher</span>
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-3 col-sm-4 col-sx-12">
+              <div  class="ir_headersearch">
+                <form id="cse-search-box" action="/site-service/search/">
+                  <input name="cx" value="006176756919987965215:-3csxe1gxfm" type="hidden">
+                  <input name="ie" value="UTF-8" type="hidden">
+                  <input name="q" class="feld_search ir_input_text" type="text"  placeholder="Search e.g. title, author..." style="width: 250px;">         
+                  <button name="sa" class="ir_input_btn" type="submit"><i class="fa fa-search" style="font-size:14px;"></i></button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <button type="button" data-toggle="collapse" data-target=".navbar-responsive-collapse" class="navbar-toggle"><span class="fa fa-bars"></span></button>
+        </div>
+        <div class="ir_navbar">
+          <div class="container">
+            <ul class="nav navbar-nav navbar-collapse navbar-responsive-collapse collapse"><li class="dropdown"><a href="home/" >Journals</a><ul class="dropdown-menu"><li class="first"><a href="journals/meps/meps-home/" >MEPS</a></li><li class="first"><a href="journals/ame/ame-home/" >AME</a></li><li class="first"><a href="journals/dao/dao-home/" >DAO</a></li><li class="first"><a href="journals/esr/esr-home/" >ESR</a></li><li class="first"><a href="journals/aei/aei-home/" >AEI</a></li><li class="first"><a href="journals/cr/cr-home/" >CR</a></li><li class="first"><a href="journals/ab/ab-home/" >AB</a></li><li class="first"><a href="journals/esep/esep-home/" >ESEP</a></li><li class="first"><a href="journals/editorials/" >Editorials</a></li><li class="first"><a href="journals/subscription-information/" >Subscription Information</a></li><li class="first"><a href="journals/terms-of-use/" >Terms of Use</a></li></ul></li><li class="dropdown"><a href="book-series/" >Book Series</a><ul class="dropdown-menu"><li class="first"><a href="book-series/excellence-in-ecology-books/" >Excellence in Ecology Books</a></li><li class="first"><a href="book-series/top-books/home-english/" >Top Books</a></li><li class="first"><a href="book-series/esep-books/" >ESEP Books</a></li><li class="first"><a href="book-series/marine-ecology-books/" >Marine Ecology Books</a></li><li class="first"><a href="book-series/diseases-of-marine-animals-books/" >Diseases of Marine Animals Books</a></li></ul></li><li class="dropdown"><a href="for-authors/" >For Authors</a><ul class="dropdown-menu"><li class="first"><a href="journals/guidelines-for-authors/guidelines-authors/" >Author Guidelines</a></li><li class="first"><a href="journals/authorshippolicy/" >Authorship Policy</a></li><li class="first"><a href="for-authors/coi-policy/" >Conflict of Interest Policy</a></li><li class="first"><a href="journals/open-access/" >Open Access</a></li><li class="first"><a href="journals/permissions/" >Rights & Permissions</a></li><li class="first"><a href="journals/policies/" >Policies</a></li><li class="first"><a href="for-authors/transformative-journals/" >Transformative Journals</a></li></ul></li><li class="first"><a href="for-librarians/" >For Librarians</a></li><li class="dropdown"><a href="about-ir/" >About IR</a><ul class="dropdown-menu"><li class="first"><a href="about-ir/who-we-are/" >Who we are</a></li><li class="first"><a href="about-ir/irs-founder-otto-kinne/" >Founder</a></li><li class="first"><a href="ecology-institute/eci-home/" >Ecology Institute</a></li><li class="first"><a href="ecology-institute/okf/" >Otto Kinne Foundation</a></li><li class="first"><a href="about-ir/jobs/" >Job Openings</a></li></ul></li></li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="ir_breadcrumb">
+        <div class="container">&nbsp;<a href="home/" >Inter-Research</a>&nbsp;&gt;&nbsp;<a href="journals/meps/meps-home/" >MEPS</a>&nbsp;&gt;&nbsp;<a href="abstracts/meps/v689/" >v689</a>&nbsp;&gt;&nbsp;p109-126&nbsp;&nbsp;</div>
+      </div>
+      <div id="ir_abstract"><div class="ir-content">
+  <div class="container">
+    <div class="row">
+      <div id="ir_sidenav_col" class="col-md-3 col-sm-3 col-xs-12">
+        <div id="ir_sidenav_banner">
+  <div id="ir_inner_banner" class="ir_j">
+    <div id="ir_banner_short">MEPS</div>
+    <div id="ir_banner_long">Marine Ecology Progress Series</div>
+    <div id="ir_banner_follow">
+      <ul class="fa-ul">
+        <!-- ###CT### --><li style="margin-bottom: 30px;"><i class="fal fa-li fa-mailbox"></i><a href="javascript:linkTo_UnCryptMailto('nbjmup+nfqt.feAjou.sft/dpn');" title="Send message">Contact the journal</a></li><!-- ###CT### -->
+        <!-- ###FB### --><li><i class="fab fa-li fa-facebook"></i><a href="https://www.facebook.com/MarEcolProgSer/" title="Follow MEPS on facebook">Facebook</a></li><!-- ###FB### -->
+        <!-- ###TW### --><li><i class="fab fa-li fa-twitter"></i><a href="https://twitter.com/MEPS_IR" title="Follow MEPS on Twitter">Twitter</a></li><!-- ###TW### -->
+        <!-- ###RS### --><li><i class="fas fa-li fa-rss"></i><a href="https://www.int-res.com/rss/meps_rss.xml" title="Get the MEPS RSS feed">RSS</a></li><!-- ###RS### -->
+        <!-- ###MA### --><li><i class="fas fa-li fa-envelope"></i><a id="ir_mail_toggler" href="" title="Subscribe to the MEPS mailing list">Mailing List </a></li><!-- ###MA### -->
+      </ul>
+      
+      <div id="ir_mail_sub" class="ir_shadow ir_banner_mailsub">
+        <i id="ir_xclose" class="fas fa-window-close"></i>
+        <!-- Begin MailChimp Signup Form -->
+        
+        <div id="mc_embed_signup">
+          <form action="//int-res.us4.list-manage.com/subscribe/post?u=696e6a35f40f4d034134fcb96&id=c1fa17aab8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <label class="ir_txt" for="mce-EMAIL" style="margin-bottom:0px;">Subscribe to our mailing list</label>
+              <hr>
+              <input type="email" value="" name="EMAIL" class="email ir_input_text" id="mce-EMAIL" placeholder="email address" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_696e6a35f40f4d034134fcb96_c1fa17aab8" tabindex="-1" value=""></div>
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button ir_tab_btn ir_txt">
+            </div>
+          </form>
+          <div class="ir_infoline">via Mailchimp</div>
+        </div>
+      </div>
+      
+      <!-- End  MailChimp Signup Form -->
+    </div>
+  </div>
+  <div id="ir_journal_banner">
+  </div>
+</div>
+<div id="ir_j_sidenav"><ul id="ir_sidebarnav" class="ir_sidebarnav_box"><li class="ir_sidebarnav_item"><a href="journals/meps/meps-home/" >Home</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="abstracts/meps/v708/" >Latest Volume</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/meps/about-the-journal/" >About the Journal</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/meps/editors/" >Editors</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/meps/theme-sections/" >Theme Sections</a><i class="fa fa-angle-right"></i></li></ul></div>
+
+
+      </div>
+      <div id="ir_content_col" class="col-md-9 col-sm-9 col-xs-12 ir_equal panel-ir panel-default">
+        
+	<!--  CONTENT ELEMENT, uid:41772/intres_abstracts_pi1 [begin] -->
+		<div id="c41772" class="panel panel-default"><h1 class="csc-secondHeader">MEPS 689:109-126 (2022)<span style="font-size:12px;font-weight:normal">&nbsp;&nbsp;-&nbsp;&nbsp;DOI:  https://doi.org/10.3354/meps14047
+</span>
+</h1>
+<div class="bb"><h2><div style="float:right;">
+							<!-- Start Crossmark Snippet v2.0 -->
+								<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+								<a data-target="crossmark"><img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_square.svg" width="48" title="Check for Updates"></a>
+							<!-- End Crossmark Snippet -->
+						</div>New perspectives on Eastern Baltic cod movement patterns from historical and contemporary tagging data
+</h2></div>
+<div class="bb"><h3>Monica Mion<sup>1,</sup>*, Christopher A. Griffiths<sup>1,2,3</sup>, Valerio Bartolino<sup>1</sup>, Stefanie Haase<sup>4</sup>, Annelie Hilvarsson<sup>1</sup>, Karin Hüssy<sup>5</sup>, Maria Krüger-Johnsen<sup>5</sup>, Uwe Krumme<sup>4</sup>, Regitze Benedicte Carlstedt Lundgreen<sup>5</sup>, Johan Lövgren<sup>1</sup>, Kate McQueen<sup>4,6</sup>, Maris Plikshs<sup>7</sup>, Krzysztof Radtke<sup>8</sup>, Jari Raitaniemi<sup>9</sup>, Michele Casini<sup>1,10</sup>
+</h3></div>
+<div class="author_address"><sup>1</sup>Swedish University of Agricultural Sciences, Department of Aquatic Resources, Turistgatan 5, 45330 Lysekil, Sweden <br /><sup>2</sup>University of Sheffield, Department of Animal and Plant Sciences, Western Bank, Sheffield S10 2TN, UK <br /><sup>3</sup>Centre for Environment, Fisheries and Aquaculture Science, Lowestoft NR33 0HT, UK <br /><sup>4</sup>Thünen Institute of Baltic Sea Fisheries, Alter Hafen Süd 2, 18069 Rostock, Germany <br /><sup>5</sup>Technical University of Denmark, National Institute of Aquatic Resources, Kemitorvet, 2800 Kgs. Lyngby, Denmark <br /><sup>6</sup>Institute of Marine Research, PO Box 1870 Nordnes, 5817 Bergen, Norway <br /><sup>7</sup>Fish Resource Research Department, Institute of Food Safety, Animal Health and Environment, 3 Lejupes Street, 1076 Riga, Latvia <br /><sup>8</sup>National Marine Fisheries Research Institute, Ul. Ko&#322;&#322;&#261;taja 1, 81-332 Gdynia, Poland <br /><sup>9</sup>Natural Resources Institute Finland, Luke, Itäinen Pitkäkatu 4 A, 20520 Turku, Finland <br /><sup>10</sup>University of Bologna, Department of Biological, Geological and Environmental Sciences, Via Selmi 3, 40126 Bologna, Italy
+</div>
+<div class="footnote">*Corresponding author: <a class="email" href="mailto:monica.mion&#064;slu.se">monica.mion&#064;slu.se</a>
+</div>
+<p class="abstract_block">ABSTRACT: Knowledge of the movement patterns and area utilisation of commercially important fish stocks is critical to management. The Eastern Baltic cod <i>Gadus morhua</i>, one of the most commercially and ecologically important stocks in the Baltic Sea, is currently one of the most severely impacted fish stocks in Europe. During the last 2 decades, this stock has experienced drastic decreases in population size, distributional range, individual growth and body condition, all of which may have affected the movements between different areas of the Baltic Sea. In this study, we investigated the seasonal movement patterns of Eastern Baltic cod by re-analysing historical tagging data collected by the countries surrounding the Baltic Sea (1955-1988) and compared historical patterns with contemporary data from a recent international tagging experiment (2016-2019). Our re-analyses of historical data showed the presence of different movement behaviours, i.e. resident or seasonally migratory, with larger distances moved by cod released in the northern and central Baltic areas compared to cod released in the southern Baltic areas. Furthermore, trends from the recent tagging experiment indicate a persistent resident strategy in the southern Baltic area. These findings present additional information on general movement patterns and area utilisation of Eastern Baltic cod that could inform future management actions and aid stock recovery.
+</p>
+<br /><p>KEY WORDS: Baltic Sea &middot; <i>Gadus morhua</i> &middot; Fish movement &middot; Mark-recapture &middot; Historical data &middot; Home range &middot; Kernel density estimation &middot; Generalized additive model
+</p>
+<br />
+<table><tr valign="top" width="30%" align="left"><td>
+<a href="/articles/meps2022/689/m689p109.pdf" class="article-link"> Full text in pdf format</a><br />
+<b><a class="pdf" href="https://www.int-res.com/articles/suppl/m689p109_supp.pdf">Supplementary material</a></b>&nbsp;<div class="page-nav"><div class="page-prev"><a href="abstracts/meps/v689/p95-107/">Previous</a></div><div class="page-next"><a href="abstracts/meps/v689/p127-136/">Next</a></div></div></td><td width="60%"><div class="blue-bg-abstract"><span style="font-size:10px;line-height:110%"><b>Cite this article as:</b> Mion M, Griffiths CA, Bartolino V, Haase S and others (2022) New perspectives on Eastern Baltic cod movement patterns from historical and contemporary tagging data. Mar Ecol Prog Ser 689:109-126. <a href="https://doi.org/10.3354/meps14047
+">https://doi.org/10.3354/meps14047
+</a><br /><br /></span><b><a href="/fileadmin/citeExport.php?pid=36709&mode=refmanager" class="citeexport" rel="nofollow">Export citation</a></b><br />
+<a href="rss/meps_rss.xml"><b>RSS</b></a> - <i class="fab fa-facebook"></i><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fdoi.org%2F10.3354%2Fmeps14047%0D%0A"> Facebook</a> - <i class="fab fa-twitter"></i><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdoi.org%2F10.3354%2Fmeps14047%0D%0A&text=New+perspectives+on+Eastern+Baltic+cod+movement+patterns+from+historical+and+contemporary+tagging+data%0D%0A" class="twitter-share-button"> Tweet</a> - <i class="fab fa-linkedin"></i><a style="display:inline !important;" href="https://www.linkedin.com/shareArticle?mini=true&url=http://doi.org/10.3354/meps14047
+&title=New+perspectives+on+Eastern+Baltic+cod+movement+patterns+from+historical+and+contemporary+tagging+data%0D%0A"> linkedIn</a></div><br />
+</td></tr></table>
+<div class="blue-bg-cited"><span style="font-size:11px;line-height:110%"><b><a type="button" onclick="loadXMLDoc('10.3354/meps14047')" href="javascript:;">Cited by</a></b><div id="CitedByDiv" style="display: none"></div></span> </div> <br> <div class="abs-footer">Published in <a href="abstracts/meps/v689/">MEPS Vol. 689</a>. Online publication date: May 12, 2022<br/>
+Print ISSN: 0171-8630; Online ISSN: 1616-1599<br/>
+Copyright &copy; 2022 Inter-Research.</div>
+</div>
+	<!--  CONTENT ELEMENT, uid:41772/intres_abstracts_pi1 [end] -->
+		
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+    <footer><div id="intres_footer" class="container">&nbsp;<a href="site-service/copyright-and-disclaimer/" >Copyright and Disclaimer</a>&nbsp;&nbsp;<a href="privacypolicy/" >Privacy Policy</a>&nbsp;&nbsp;<a href="site-service/contact/" >Contact</a>&nbsp;</div></footer>
+    
+    <!-- Website End -->
+    
+    <script>
+      // Set to the same value as the web property used on the site
+      var gaProperty = 'UA-6376520-1';
+      // Disable tracking if the opt-out cookie exists.
+      var disableStr = 'ga-disable-' + gaProperty;
+      if (document.cookie.indexOf(disableStr + '=true') > -1) {
+        window[disableStr] = true;
+      }
+      // Opt-out function
+      function gaOptout() {
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+        window[disableStr] = true;
+        alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+      }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=XX-00000000-0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-6376520-1', { 'anonymize_ip': true });
+    </script>
+    
+    <script>
+      (function() {
+        var cx = '006176756919987965215:-3csxe1gxfm';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    
+    <html data-namespace-typo3-fluid="true" lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers">
+
+  <script>
+    window.cookieconsent_options = {
+      
+        learnMore: 'More info.',
+      
+      dismiss: 'OK',
+      message: 'This website uses cookies.<br><br>We save information relating to your visit using cookies. By using our website you consent to our cookies in accordance with our <a href="https://www.int-res.com/privacypolicy/">Privacy Policy</a>.',
+      
+        link: '',
+      
+      
+    };
+  </script>
+
+</html>
+
+<script src="typo3conf/ext/mindshape_cookie_hint/Resources/Public/Js/cookieconsent.js?1527167096" type="text/javascript"></script>
+
+
+</body>
+</html>

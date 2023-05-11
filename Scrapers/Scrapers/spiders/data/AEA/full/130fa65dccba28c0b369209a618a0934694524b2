@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices - American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="ANdrAmZ6Ij30HZUqLmDFEkoCo_H2uELGP_J7DYOQm5ozrR1QMioQCIBtrRhpUJ9gf1vSkJiBFLddl09Y3KXqrg==">
+    <meta name="Secure-Key" content="ejZLVU5rRzY1V3BzM2tMMFplRTlBc3JCWWFPSVA4TFplUEVwR3Nia200ZUI4Z0Rybmt8Z2VuZXJhbHxMbXg1WVhZMWRHNVBORUFvTDNrVEJCbGZGUlk5QXpjNFR6azhWZ1ZUSnpsalgwb25XMlVDTnc9PQ==">    <meta name="jerTk" value="">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38835597-1"></script>
+        <meta name="description" content="Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices by Jacob Goldin, Tatiana Homonoff and Katherine Meckel. Published in volume 14, issue 1, pages 152-78 of American Economic Journal: Economic Policy, February 2022, Abstract: Many safety net programs issue benefits as monthly lump-sum pay...">
+<meta name="keywords" content="Consumer Economics: Empirical Analysis, State and Local Government: Health; Education; Welfare; Public Pensions, Health: Government Policy; Regulation; Public Health, Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs, Retail and Wholesale Trade; e-Commerce">
+<meta name="citation_title" content="Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices">
+<meta name="citation_publication_date" content="2022/02">
+<meta name="citation_journal_title" content="American Economic Journal: Economic Policy">
+<meta name="citation_issn" content="1945-7731">
+<meta name="citation_volume" content="14">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="152">
+<meta name="citation_lastpage" content="78">
+<meta name="citation_doi" content="10.1257/pol.20190777">
+<meta name="citation_pdf_url" content="https://www.aeaweb.org/articles/pdf/doi/10.1257/pol.20190777">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aeajournals">
+<meta name="twitter:title" content="Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices">
+<meta name="twitter:description" content="(February 2022) - Many safety net programs issue benefits as monthly lump-sum payments. We investigate how the timing of Supplemental Nutrition Assistance Program (SNAP) benefit issuance affects food purchases and the incidence of the transfer. Using scanner data from a large sample of grocery stores and state and time variation in SNAP issuance schedules, we document large, SNAP-induced intramonth cycles in food expenditures. However, we find that retailers do not adjust prices based on these predictable patterns of demand. Our results therefore suggest that reforming issuance schedules may reduce costs from SNAP-induced demand surges but are unlikely to affect the incidence of SNAP benefits.">
+<meta name="twitter:image" content="https://www.aeaweb.org/journals/images/pol">
+<meta name="citation_author" content="Goldin, Jacob">
+<meta name="citation_author_institution" content="Stanford U">
+<meta name="citation_author" content="Homonoff, Tatiana">
+<meta name="citation_author_institution" content="New York U">
+<meta name="citation_author" content="Meckel, Katherine">
+<meta name="citation_author_institution" content="U of California, San Diego and CESifo, Munich">
+<link href="/assets/b1f13f1/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/ec52775/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/b1f13f1/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/214a2f4f/jquery.min.js"></script>
+<script src="/assets/264520fd/yii.js"></script>
+<script src="/js/ajaxPostProcessor.js"></script>
+<script src="/js/articles.js"></script>
+<script src="/assets/b1f13f1/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js"></script>
+<script src="/assets/ec52775/jquery-ui.js"></script>
+<script src="/assets/b1f13f1/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/4021672f/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/a9c22480/js/QueClientAsset-min.js"></script>
+<script src="/assets/ff14b9b/js/legal-cookie.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"VzYydHZQQmZFSXQ5MS1melJIZEFJTUxxeVlsTnVpQm14OUZKZVFUUENtUHVZZGFrN1N8cXVldWVjbGllbnR8ZVZaSFlrOXNkVWRJSGlFV0FqWXpQVUZtSkJkaUpnRS5UekEzQXgwdU9SWWVNUVlhSkRRWERnPT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="internal">
+    <div class="cookie-legal-banner">
+        <div class="cookie-content">
+            <div class="cookie-text-wrapper">
+                <h5 style="font-weight: bold !important; text-transform: none !important; font-size: 16px !important;">This website uses cookies.</h5>
+                <p class="cookie-text">By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our <a href="/privacypolicy">Privacy Policy</a>.</p>
+            </div>
+            <div class="cookie-button-wrapper">
+                <button class="button legal-cookie-accept-button">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        try{
+            $(document).ready(function() { try{ var lgCk = new LegalCookie(); }catch (e){}; });
+        }catch (e){};
+    </script>
+
+
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/b1f13f1/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/about-aea/committees">Committees</a>
+            </li>
+            <li>
+                <a href="/ethics">Ethics</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        /*var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();*/
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-38835597-1');
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+	<div class="breadcrumbs-wrapper"><div class="container"><ol class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/journals">Journals</a></li><li><a href="/journals/pol">American Economic Journal: Economic Policy</a></li><li><a href="/issues/667#10.1257/pol.20190777">February 2022</a></li><li class="is-active">Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices</li></ol></div></div>	<main class="main-content " role="main"><div class="container"><style>
+
+.hoverOverRide:hover{
+
+    text-decoration:none;
+
+}
+
+</style>
+
+<script type='text/javascript' src='/js/articlesTracking.js'></script>
+
+
+
+<section class="primary article-detail journal-article">
+    <h1 class="title">Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices</h1>
+    <ul class="attribution">
+            <li class='author' style='margin-bottom:0.5em; '>
+         Jacob Goldin    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Tatiana Homonoff    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Katherine Meckel    </li>
+
+        
+		<div style='margin-top:25px;'>
+
+						
+			<a href='/issues/667' class='hoverOverRide'>
+				<li class='journal'>American Economic Journal: Economic Policy </li>
+			</a>
+
+			
+				<a href='/issues/667' class='hoverOverRide'>
+					<li class='journal'>vol. 14,
+					no. 1, 					February 2022</li>
+				</a>
+
+		</div>
+                <li class="pages">(pp. 152-78)</li>
+		
+    </ul>
+
+	
+    <section class='download'>
+        <a class="button" href="/articles/pdf/doi/10.1257/pol.20190777">
+            Download Full Text PDF <br/>
+                    </a>
+    </section>
+
+	
+	
+    <div class="toggle-content-group">
+
+		   <ul class="toggle">
+				<li>
+					<a class="is-active" href="#article-information" style='text-decoration:none; cursor:default;'>Article Information</a>
+				</li>
+													<li>
+						<a href="#article-comments">Comments (<span id='commentCount'>1</span>)</a>
+					</li>
+							</ul>
+		
+		
+        <section class="article-information-group toggle-content is-visible" id="article-information">
+
+			
+							<section class="article-information abstract">
+					<h2>Abstract</h2>
+					Many safety net programs issue benefits as monthly lump-sum payments. We investigate how the timing of Supplemental Nutrition Assistance Program (SNAP) benefit issuance affects food purchases and the incidence of the transfer. Using scanner data from a large sample of grocery stores and state and time variation in SNAP issuance schedules, we document large, SNAP-induced intramonth cycles in food expenditures. However, we find that retailers do not adjust prices based on these predictable patterns of demand. Our results therefore suggest that reforming issuance schedules may reduce costs from SNAP-induced demand surges but are unlikely to affect the incidence of SNAP benefits.				</section>
+			
+							<section class="article-information citation">
+					<h2>Citation</h2>
+					<cite>
+
+                        Goldin, Jacob, Tatiana Homonoff, and Katherine Meckel.
+						<span class="year">2022.</span>
+
+						
+						
+							<span class="title">"Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices."</span>
+						
+						<span class="journal">American Economic Journal: Economic Policy</span>,
+
+							  <span class="vol">
+					14 (1):
+					 152-78<span
+									  class="pages">.</span>
+				  </span>
+						<span class="doi">DOI: 10.1257/pol.20190777</span>
+					</cite>
+
+					<form class="citation-export">
+												<div class="select input ">
+							<label>
+								<label>
+									<select id="export-dropdown" name="args[format]">
+										<option value="0">Choose Format:</option>
+										<option value="bib">BibTeX</option>
+										<option value="enw">EndNote</option>
+										<option value="txt">Refer/BibIX</option>
+										<option value="ris">RIS</option>
+										<option value="tab">Tab-Delimited</option>
+									</select>
+								</label>
+							</label>
+							<input type='hidden' name='args[doi]' value='10.1257/pol.20190777'/>
+						</div>
+
+						<div id='previewCitationExport'></div>
+
+					</form>
+				</section>
+								
+					<section class='article-information additional-materials'>
+						
+							<h2>Additional Materials</h2>
+
+						
+						<ul id='additionalMaterials'>
+							<li>                    <a class='track-icpsr' target='_blank' href="https://doi.org/10.3886/E134181V1" doi="10.1257/pol.20190777" accessType="Article View">
+                Replication Package                                            </a>
+        </li><li>                    <a class=''  href="/doi/10.1257/pol.20190777.appx" doi="10.1257/pol.20190777" accessType="Article View">
+                Online Appendix                                                    (425.68 KB)
+                            </a>
+        </li><li>                    <a class=''  href="/doi/10.1257/pol.20190777.ds" doi="10.1257/pol.20190777" accessType="Article View">
+                Author Disclosure Statement(s)                                                    (284.01 KB)
+                            </a>
+        </li>
+						</ul>
+					</section>
+
+
+				
+									<section class='article-information jel-classification'>
+						<h2>JEL Classification</h2>
+						<ul class='jel-codes'>
+														<li>
+								<strong class='code'>D12</strong>
+								Consumer Economics: Empirical Analysis
+															<li>
+								<strong class='code'>H75</strong>
+								State and Local Government: Health; Education; Welfare; Public Pensions
+															<li>
+								<strong class='code'>I18</strong>
+								Health: Government Policy; Regulation; Public Health
+															<li>
+								<strong class='code'>I38</strong>
+								Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs
+															<li>
+								<strong class='code'>L81</strong>
+								Retail and Wholesale Trade; e-Commerce
+															</li>
+						</ul>
+					</section>
+				
+			</section>
+
+		
+		
+			<section class="comments toggle-content" id="article-comments">
+								
+		<section class='article-information'>
+
+			
+				
+				
+					<p class='journal' style='text-overflow: clip; overflow: hidden;'>Establishing Scientific Plausibility</p>
+
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by Robert Kaestner											</li>
+
+							
+				<li>Posted on 3/31/2022 10:59:20 AM</li>
+
+				
+					<li>Updated on 3/31/2022 11:05:13 AM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>In this interesting article, the order of the analysis is:<br />
+<br />
+1. Show that SNAP benefit schedules increase food expenditures at a sample of grocery stores. <br />
+<br />
+2. Assess whether the increase in spending (5% to 20%) in a week is associated with prices.<br />
+<br />
+3. See if this pattern is consistent with a model of grocery store behavior developed by by DellaVigna and Gentzkow (2019).<br />
+<br />
+In my opinion, the ordering of the analysis is inconsistent with the scientific method.<br />
+<br />
+First, one develops a hypothesis from theory. In this setting, this implies establishing the scientific plausibility that shifts in demand due to SNAP plausibly affect prices. WHat is the evidence to support this question? Several studies have shown that food expenditures of SNAP households are greatest the day or two after receipt of benefits and then declines until the next receipt of benefits (e.g., https://www.ers.usda.gov/webdocs/publications/84780/eib176_summary.pdf?v=0, https://www.econ.iastate.edu/files/events/files/snap_kh_september10_2021.pdf, Smith et al. as cited in article)). So, #1 above has long been known.<br />
+<br />
+Second, based on this evidence, assess using an ex ante, theoretical model whether it is likely that grocery store prices would respond to the within-month pattern of food expenditures. Monthly patterns of food expenditures are unaffected. The model would need to make predictions about intra-month pricing decisions.<br />
+<br />
+The second step was not done in this order.  Instead, the article presents estimates of the effect of SNAP issuance on intra-month grocery prices (the model specification and theoretical motivation for that specification is not provided). The question is whether it is interesting to conduct this analysis? The answer to that question requires theory. Almost no theory or evidence was used to motivate the question.<br />
+<br />
+<br />
+The analysis indicated that there was no meaningful price response is found. Is this surprising? Who knows because no prediction was made and no evidence was provided to suggest that it should or should not be. As is common, the authors had a research design that would appeal to applied economists and found a use for it. It has become the norm not to bother much with theory and evidence to support a hypothesis.<br />
+<br />
+However, an interesting finding is that there seemed to be quite a bit of selection in the analysis of prices--SNAP issuance associated with unmeasured confounds--and adjusting for it eliminates any association between SNAP issuance and prices. There was no such selection on food expenditures. So, unobservables that affect grocery store prices have no effect on grocery store expenditures. This suggests that grocery store prices are not strongly linked to grocery store expenditures. <br />
+<br />
+Then, the model comes. It is a highly stylized model developed ex post to assess findings. I find this problematic. There was no theory or evidence provided to justify an investigation of SNAP issuance on prices, but we are asked to use evidence from this investigation to assess the validity of a theory?<br />
+<br />
+Not good science in my opinion.</div>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	 
+	<a style='margin-top:10px;' class='button' href='/login?return_path=/articles?id=10.1257%2Fpol.20190777'>Login to Comment</a>
+
+			</section>
+
+		
+        <section class="full-text toggle-content" id="article-full-text">
+
+        </section>
+		 </div> 
+</section>
+
+<aside class='secondary' role='complementary'>
+    </aside>
+
+<aside class="secondary" role="complementary">
+    <nav class="secondary-navigation" role="navigation">
+        <h2><a href="/journals">Journals</a></h2><ul><li><div class="nav-divider"></div></li><li><a href="/journals/aer"><em>American Economic Review</em></a></li><li><a href="/journals/aeri"><em>AER: Insights</em></a></li><li><a href="/journals/app"><em>AEJ: Applied Economics</em></a></li><li><a href="/journals/pol"><em>AEJ: Economic Policy</em></a><ul><li><a href="/journals/pol/about-pol">About <em>AEJ: Economic Policy</em></a></li><li><a href="/journals/pol/forthcoming">Forthcoming Articles</a></li><li class="is-active"><a href="/journals/pol/issues">Issues</a><ul></ul></li><li><a href="/journals/pol/submissions">Submissions</a></li><li><a href="/journals/aej/styleguide">Guidelines for Accepted Articles</a></li><li><a href="/journals/pol/reviewers">Reviewers</a></li><li><a href="/journals/pol/contact-pol">Contact <em>AEJ: Economic Policy</em></a></li></ul></li><li><a href="/journals/mac"><em>AEJ: Macroeconomics</em></a></li><li><a href="/journals/mic"><em>AEJ: Microeconomics</em></a></li><li><a href="/journals/jel"><em>Journal of Economic Literature</em></a></li><li><a href="/journals/jep"><em>Journal of Economic Perspectives</em></a></li><li><a href="/journals/pandp"><em>AEA Papers & Proceedings</em></a></li><li><div class="nav-divider"></div></li><li><a href="/journals/subscriptions">Subscriptions</a></li><li><a href="/about-aea/advertise/advertise-in-journals">Advertise in AEA Journals</a></li><li><a href="http://pubs.aeaweb.org/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens">Athens Subscriber Login</a></li><li><a href="/journals/subscriptions/backissues">Back Issues & SGML Metadata</a></li><li><a href="/journals/data">Data and Code</a></li><li><a href="/journals/get-journal-alerts">Journal Alerts</a></li><li><a href="/journals/jstor">JSTOR Access for AEA Members</a></li><li><a href="/journals/policies">Policies</a></li></ul>    </nav>
+    <section class="action-group">
+            </section>
+</aside>
+</div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+
+            <a href="/about-aea/committees">Committees</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+
+        <li>
+            <a href='https://twitter.com/AEAInformation' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAInformation</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2023 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>

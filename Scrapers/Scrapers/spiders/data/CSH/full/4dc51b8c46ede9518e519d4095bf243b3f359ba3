@@ -1,0 +1,618 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Characterization of RNA-based and protein-only RNases P from bacteria encoding both enzyme types </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A monthly journal publishing high-quality, peer-reviewed research on all topics related to RNA and its metabolism in all organisms" />
+      <meta content="/rna/29/3/376.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Characterization of RNA-based and protein-only RNases P from bacteria encoding both enzyme types"
+            name="DC.Title" />
+      <meta content="10.1261/rna.079459.122" name="DC.Identifier" />
+      <meta content="2023-03-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Markus Gößringer" name="DC.Contributor" />
+      <meta content="Nadine B. Wäber" name="DC.Contributor" />
+      <meta content="Jana C. Wiegard" name="DC.Contributor" />
+      <meta content="Roland K. Hartmann" name="DC.Contributor" />
+      <meta content="RNA" name="citation_journal_title" />
+      <meta content="RNA" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1355-8382" name="citation_issn" />
+      <meta content="1469-9001" name="citation_issn" />
+      <meta name="citation_author" content="Markus Gößringer" />
+      <meta name="citation_author_institution"
+            content="Philipps-Universität Marburg, Institut für Pharmazeutische Chemie, D-35037 Marburg, Germany" />
+      <meta name="citation_author" content="Nadine B. Wäber" />
+      <meta name="citation_author_institution"
+            content="Philipps-Universität Marburg, Institut für Pharmazeutische Chemie, D-35037 Marburg, Germany" />
+      <meta name="citation_author" content="Jana C. Wiegard" />
+      <meta name="citation_author_institution"
+            content="Philipps-Universität Marburg, Institut für Pharmazeutische Chemie, D-35037 Marburg, Germany" />
+      <meta name="citation_author" content="Roland K. Hartmann" />
+      <meta name="citation_author_orcid" content="0000-0001-8330-6459" />
+      <meta name="citation_author_institution"
+            content="Philipps-Universität Marburg, Institut für Pharmazeutische Chemie, D-35037 Marburg, Germany" />
+      <meta content="Characterization of RNA-based and protein-only RNases P from bacteria encoding both enzyme types"
+            name="citation_title" />
+      <meta content="03/01/2023" name="citation_date" />
+      <meta content="29" name="citation_volume" />
+      <meta content="3" name="citation_issue" />
+      <meta content="376" name="citation_firstpage" />
+      <meta content="391" name="citation_lastpage" />
+      <meta content="29/3/376" name="citation_id" />
+      <meta content="29/3/376" name="citation_id_from_sass_path" />
+      <meta content="rna;29/3/376" name="citation_mjid" />
+      <meta content="10.1261/rna.079459.122" name="citation_doi" />
+      <meta content="http://rnajournal.cshlp.org/content/29/3/376.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/3/376.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://rnajournal.cshlp.org/content/29/3/376.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/29/3.cover.gif" name="issue_cover_image" />
+      <meta content="http://rnajournal.cshlp.org/content/29/3/376"
+            name="citation_public_url" />
+      <meta content="36604113" name="citation_pmid" />
+      <meta name="citation_section" content="ARTICLE" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/29/3/361.short" rel="prev" />
+      <link href="/content/29/4/ix.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d4839014e1">var callbackToken='5674EA2A00AFE38';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://rnasociety.org/" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="RNA" alt="RNA" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search RNA" type="text" name="fulltext" id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57188&amp;adclick=true&amp;url=https%3A%2F%2Fwww.lexogen.com%2Fcorall-rna-seq%2F%3Futm_source%3Dcshl%26utm_medium%3Dbanner%26utm_campaign%3Dcorallv2"
+                        target="_blank"><img class="adborder0" title="Lexogen"
+                             src="//rnajournal.cshlp.org/adsystem/graphics/365741002166158/rna/CORALL-V2_CSHL_Banner_468x60.jpg?ad=57188&amp;adview=true"
+                             alt="Lexogen" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Characterization of RNA-based and protein-only RNases P from bacteria encoding both enzyme types</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Markus+G%C3%B6%C3%9Fringer&amp;sortspec=date&amp;submit=Submit">Markus Gößringer</a></span>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nadine+B.+W%C3%A4ber&amp;sortspec=date&amp;submit=Submit">Nadine B. Wäber</a></span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jana+C.+Wiegard&amp;sortspec=date&amp;submit=Submit">Jana C. Wiegard</a></span> and 
+                     </li>
+                     <li class="last" id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=Roland+K.+Hartmann&amp;sortspec=date&amp;submit=Submit">Roland K. Hartmann</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Philipps-Universität Marburg, Institut für Pharmazeutische Chemie, D-35037 Marburg, Germany</address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">roland.hartmann{at}staff.uni-marburg.de</span></span></li>
+                  </ol>
+                  <ul class="author-notes">
+                     <li class="fn-present-address" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">1</span> <strong>Present address:</strong> Justus-Liebig-Universität, Institut für Biochemie, 35392 Giessen, Germany
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">A small group of bacteria encode two types of RNase P, the classical ribonucleoprotein (RNP) RNase P as well as the protein-only
+                     RNase P HARP (<span class="underline">h</span>omolog of <em><span class="underline">A</span>quifex</em> <span class="underline">R</span>Nase <span class="underline">P</span>). We characterized the dual RNase P activities of five bacteria that belong to three different phyla. All five bacterial
+                     species encode functional RNA (gene <em>rnpB</em>) and protein (gene <em>rnpA</em>) subunits of RNP RNase P, but only the HARP of the thermophile <em>Thermodesulfatator indicus</em> (phylum Thermodesulfobacteria) was found to have robust tRNA 5′-end maturation activity in vitro and in vivo in an <em>Escherichia coli</em> RNase P depletion strain. These findings suggest that both types of RNase P are able to contribute to the essential tRNA
+                     5′-end maturation activity in <em>T. indicus</em>, thus resembling the predicted evolutionary transition state in the progenitor of the Aquificaceae before the loss of <em>rnpA</em> and <em>rnpB</em> genes in this family of bacteria. Remarkably, <em>T. indicus</em> RNase P RNA is transcribed with a P12 expansion segment that is posttranscriptionally excised in vivo, such that the major
+                     fraction of the RNA is fragmented and thereby truncated by ∼70 nt in the native <em>T. indicus</em> host as well as in the <em>E. coli</em> complementation strain. Replacing the native P12 element of <em>T. indicus</em> RNase P RNA with the short P12 helix of <em>Thermotoga maritima</em> RNase P RNA abolished fragmentation, but simultaneously impaired complementation efficiency in <em>E. coli</em> cells, suggesting that intracellular fragmentation and truncation of <em>T. indicus</em> RNase P RNA may be beneficial to RNA folding and/or enzymatic activity.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=bacterial%20RNase%20P&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">bacterial RNase P</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=RNA-based%20RNase%20P&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">RNA-based RNase P</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=protein-only%20RNase%20P&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">protein-only RNase P</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=HARP&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">HARP</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=fragmented%20RNase%20P%20RNA&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">fragmented RNase P RNA</a></span></li>
+               </ul>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-09-21"><span class="received-label">Received </span>September 21, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-12-17"><span class="accepted-label">Accepted </span>December 17, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.rnajournal.org/site/misc/terms.xhtml">© 2023 Gößringer et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by the RNA Society for the first 12 months after the full-issue publication date (see
+                     <a rel="license" href="/site/misc/terms.xhtml">http://rnajournal.cshlp.org/site/misc/terms.xhtml</a>). After 12 months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/29/3/361.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/29/4/ix.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/29/3.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">January 5, 2023</span>,
+                                 doi:
+                                 <span title="10.1261/rna.079459.122" class="slug-doi">10.1261/rna.079459.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="RNA" class="slug-jnl-abbrev">
+                                    RNA</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    29: 
+                                    </span><span class="slug-pages">
+                                    376-391
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Gößringer et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/29/3/376.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/29/3/376.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/29/3/376/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2023/01/05/rna.079459.122">rna.079459.122v1</a></li>
+                                 <li class="current-li"><span>29/3/376</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLE&amp;sortspec=date&amp;submit=Submit">ARTICLE</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=rna%3B29%2F3%2F376&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/3/376">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=29/3/376&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/3/376">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=rna%3Brna.079459.122&amp;citation=G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29:%20376&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F3%2F376&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=rna%3B29%2F3%2F376&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=rna;29/3/376" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=36604113&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=rna%3B29%2F3%2F376">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/29/3/376?cited-by=yes&amp;legid=rna;29/3/376#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Frna%2F29%2F3%2F376&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AG%C3%B6%C3%9Fringer%20author%3AM.%22">Articles by  Gößringer, M.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AHartmann%20author%3AR.K.%22">Articles by  Hartmann, R. K.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36604113&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=G%C3%B6%C3%9Fringer%20M&amp;link_type=AUTHORSEARCH">Articles by  Gößringer, M.</a></li>
+                        <li><a href="/external-ref?access_num=Hartmann%20RK&amp;link_type=AUTHORSEARCH">Articles by  Hartmann, R. K.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36604113"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Hartmann, R. K.<a class="orcid-link" href="http://orcid.org/0000-0001-8330-6459">http://orcid.org/0000-0001-8330-6459</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=rna%3B29%2F3%2F376&amp;current-view-path=/content/29/3/376"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/short/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://rnajournal.cshlp.org/cgi/content/long/29/3/376&amp;title=Characterization%20of%20RNA-based%20and%20protein-only%20RNases%20P%20from%20bacteria%20encoding%20both%20enzyme%20types+--+G%C3%B6%C3%9Fringer%20et%20al.%2029%20%283%29%3A%20376+--+RNA&amp;doi=10.1261/rna.079459.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 29 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/29/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <p>
+                           <a href="/content/29/4">The <em>RNA</em> journal is pleased to present here the second in our series of special issues, with a compendium of Perspectives on RNA Therapeutics.
+                              Edited by Adrian Krainer and Michelle Hastings, this issue presents the current views of this exciting field by prominent
+                              scientists.</a>
+                           
+                        </p>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 RNA
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.rnajournal.org/index.dtl" rel="external-nw"
+                        title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57141&amp;adclick=true&amp;url=https%3A%2F%2Fwww.origene.com%2Fproducts%2Fcdna-clones%2Ftrueorf-gold"
+                     target="_blank"><img class="adborder0" title="Origene"
+                          src="//rnajournal.cshlp.org/adsystem/graphics/4665164248005019/genesdev/Untitled%20design%20%2812%29.png?ad=57141&amp;adview=true"
+                          alt="Origene" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <p style="padding-top:12px;"> </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_rn.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://rnasociety.org/" rel="external-nw">Copyright © 2023 by the RNA Society</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1355-8382</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1469-9001</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-5");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

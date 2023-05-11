@@ -1,0 +1,616 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Sleep strengthens resting-state functional communication between brain areas involved in the consolidation of problem-solving
+         skills 
+      </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="Peer-reviewed scientific journal publishing basic neuroscience research in the areas of neuronal plasticity, learning and memory" />
+      <meta content="/learnmem/30/1/25.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Sleep strengthens resting-state functional communication between brain areas involved in the consolidation of problem-solving skills"
+            name="DC.Title" />
+      <meta content="10.1101/lm.053638.122" name="DC.Identifier" />
+      <meta content="2023-01-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Nicholas H. van den Berg" name="DC.Contributor" />
+      <meta content="Dylan Smith" name="DC.Contributor" />
+      <meta content="Zhuo Fang" name="DC.Contributor" />
+      <meta content="Alyssa Pozzobon" name="DC.Contributor" />
+      <meta content="Balmeet Toor" name="DC.Contributor" />
+      <meta content="Julia Al-Kuwatli" name="DC.Contributor" />
+      <meta content="Laura Ray" name="DC.Contributor" />
+      <meta content="Stuart M. Fogel" name="DC.Contributor" />
+      <meta content="Learning &amp; Memory" name="citation_journal_title" />
+      <meta content="Learn. Mem." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1072-0502" name="citation_issn" />
+      <meta content="1549-5485" name="citation_issn" />
+      <meta name="citation_author" content="Nicholas H. van den Berg" />
+      <meta name="citation_author_orcid" content="0000-0003-1099-2472" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Dylan Smith" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Zhuo Fang" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author_institution"
+            content="2The Royal's Institute of Mental Health Research, University of Ottawa, Ottawa, Ontario K1Z 7K4, Canada" />
+      <meta name="citation_author_institution"
+            content="3University of Ottawa Brain and Mind Institute, Ottawa, Ontario K1H 8M5, Canada" />
+      <meta name="citation_author" content="Alyssa Pozzobon" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Balmeet Toor" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Julia Al-Kuwatli" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Laura Ray" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author" content="Stuart M. Fogel" />
+      <meta name="citation_author_orcid" content="0000-0002-3227-5370" />
+      <meta name="citation_author_institution"
+            content="1School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada" />
+      <meta name="citation_author_institution"
+            content="2The Royal's Institute of Mental Health Research, University of Ottawa, Ottawa, Ontario K1Z 7K4, Canada" />
+      <meta name="citation_author_institution"
+            content="3University of Ottawa Brain and Mind Institute, Ottawa, Ontario K1H 8M5, Canada" />
+      <meta content="Sleep strengthens resting-state functional communication between brain areas involved in the consolidation of problem-solving skills"
+            name="citation_title" />
+      <meta content="01/01/2023" name="citation_date" />
+      <meta content="30" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="25" name="citation_firstpage" />
+      <meta content="35" name="citation_lastpage" />
+      <meta content="30/1/25" name="citation_id" />
+      <meta content="30/1/25" name="citation_id_from_sass_path" />
+      <meta content="learnmem;30/1/25" name="citation_mjid" />
+      <meta content="10.1101/lm.053638.122" name="citation_doi" />
+      <meta content="http://learnmem.cshlp.org/content/30/1/25.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/30/1/25.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/30/1/25.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/30/1.cover.gif" name="issue_cover_image" />
+      <meta content="http://learnmem.cshlp.org/content/30/1/25" name="citation_public_url" />
+      <meta content="36669853" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPER" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/30/1/12.short" rel="prev" />
+      <link href="/content/30/2/36.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d1941810e1">var callbackToken='567A80E01AFF8D3';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Learning &amp; Memory" alt="Learning &amp; Memory" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.learnmem.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/alerts" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Learning &amp; Memory" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=55554&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FAMPLIFIERS%2Fdpa.html"
+                        target="_blank"><img class="adborder0" title="Sutter"
+                             src="//learnmem.cshlp.org/adsystem/graphics/5858054711900647/learnmem/Sutter%20Banner.gif?ad=55554&amp;adview=true"
+                             alt="Sutter" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Sleep strengthens resting-state functional communication between brain areas involved in the consolidation of problem-solving
+                  skills
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nicholas+H.+van+den+Berg&amp;sortspec=date&amp;submit=Submit">Nicholas H. van den Berg</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Dylan+Smith&amp;sortspec=date&amp;submit=Submit">Dylan Smith</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Zhuo+Fang&amp;sortspec=date&amp;submit=Submit">Zhuo Fang</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Alyssa+Pozzobon&amp;sortspec=date&amp;submit=Submit">Alyssa Pozzobon</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Balmeet+Toor&amp;sortspec=date&amp;submit=Submit">Balmeet Toor</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Julia+Al-Kuwatli&amp;sortspec=date&amp;submit=Submit">Julia Al-Kuwatli</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Laura+Ray&amp;sortspec=date&amp;submit=Submit">Laura Ray</a></span><a id="xref-aff-1-7" class="xref-aff" href="#aff-1">1</a> and 
+                     </li>
+                     <li class="last" id="contrib-8"><span class="name"><a class="name-search"
+                              href="/search?author1=Stuart+M.+Fogel&amp;sortspec=date&amp;submit=Submit">Stuart M. Fogel</a></span><a id="xref-aff-1-8" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-2" class="xref-aff" href="#aff-3">3</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>School of Psychology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>The Royal's Institute of Mental Health Research, University of Ottawa, Ottawa, Ontario K1Z 7K4, Canada
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>University of Ottawa Brain and Mind Institute, Ottawa, Ontario K1H 8M5, Canada
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">sfogel{at}uottawa.ca</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">Sleep consolidates procedural memory for motor skills, and this process is associated with strengthened functional connectivity
+                     in hippocampal–striatal–cortical areas. It is unknown whether similar processes occur for procedural memory that requires
+                     cognitive strategies needed for problem-solving. It is also unclear whether a full night of sleep is indeed necessary for
+                     consolidation to occur, compared with a daytime nap. We examined how resting-state functional connectivity within the hippocampal–striatal–cortical
+                     network differs after offline consolidation intervals of sleep, nap, or wake. Resting-state fMRI data were acquired immediately
+                     before and after training on a procedural problem-solving task that requires the acquisition of a novel cognitive strategy
+                     and immediately prior to the retest period (i.e., following the consolidation interval). ROI to ROI and seed to whole-brain
+                     functional connectivity analyses both specifically and consistently demonstrated strengthened hippocampal–prefrontal functional
+                     connectivity following a period of sleep versus wake. These results were associated with task-related gains in behavioral
+                     performance. Changes in functional communication were also observed between groups using the striatum as a seed. Here, we
+                     demonstrate that at the behavioral level, procedural strategies benefit from both a nap and a night of sleep. However, a full
+                     night of sleep is associated with enhanced functional communication between regions that support problem-solving skills.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-1">
+                        <p id="p-66">[Supplemental material is available for this article.]</p>
+                     </li>
+                     <li class="fn" id="fn-2">
+                        <p id="p-67">Article is online at <a href="http://www.learnmem.org/cgi/doi/10.1101/lm.053638.122">http://www.learnmem.org/cgi/doi/10.1101/lm.053638.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-08-03"><span class="received-label">Received </span>August 3, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-12-22"><span class="accepted-label">Accepted </span>December 22, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1">
+                     <a href="http://www.learnmem.org/site/misc/terms.xhtml">© 2023 van den Berg et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first 12 months after the full-issue
+                     publication date (see <a href="http://learnmem.cshlp.org/site/misc/terms.xhtml" rel="license">http://learnmem.cshlp.org/site/misc/terms.xhtml</a>). After 12 months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/30/1/12.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/30/2/36.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/30/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/lm.053638.122" class="slug-doi">10.1101/lm.053638.122
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Learning &amp; Memory" class="slug-jnl-abbrev">
+                                    Learn. Mem.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    30: 
+                                    </span><span class="slug-pages">
+                                    25-35
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.learnmem.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.learnmem.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 van den Berg et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/30/1/25.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/30/1/25.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/30/1/25/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPER&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPER</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=learnmem%3B30%2F1%2F25&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/30/1/25">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=30/1/25&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/30/1/25">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=learnmem%3B30%2F1%2F25&amp;citation=van%20den%20Berg%20et%20al.%2030%20%281%29:%2025&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=learnmem%3B30%2F1%2F25&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=36669853&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=learnmem%3B30%2F1%2F25">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/30/1/25?cited-by=yes&amp;legid=learnmem;30/1/25#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Flearnmem%2F30%2F1%2F25&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3Avan%20den%20Berg%20author%3AN.H.%22">Articles by  van den Berg, N. H.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AFogel%20author%3AS.M.%22">Articles by  Fogel, S. M.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36669853&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=van%20den%20Berg%20NH&amp;link_type=AUTHORSEARCH">Articles by  van den Berg, N. H.</a></li>
+                        <li><a href="/external-ref?access_num=Fogel%20SM&amp;link_type=AUTHORSEARCH">Articles by  Fogel, S. M.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36669853"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for van den Berg, N. H.<a class="orcid-link" href="http://orcid.org/0000-0003-1099-2472">http://orcid.org/0000-0003-1099-2472</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Fogel, S. M.<a class="orcid-link" href="http://orcid.org/0000-0002-3227-5370">http://orcid.org/0000-0002-3227-5370</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=learnmem%3B30%2F1%2F25&amp;current-view-path=/content/30/1/25"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/30/1/25&amp;title=Sleep%20strengthens%20resting-state%20functional%20communication%20between%20brain%20areas%20involved%20in%20the%20consolidation%20of%20problem-solving%20skills+--+van%20den%20Berg%20et%20al.%2030%20%281%29%3A%2025+--+learnmem&amp;doi=10.1101/lm.053638.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 30 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/30/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Learning &amp; Memory
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href="/site/subscriptions" title="Subscriptions"><span>Subscriptions</span></a></li>
+                  <li class="last"><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=55553&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FMICROSCOPES%2Fnan.html"
+                     target="_blank"><img class="adborder0" title="Sutter NAN"
+                          src="//learnmem.cshlp.org/adsystem/graphics/5858054711900647/learnmem/NAN%20Banner.png?ad=55553&amp;adview=true"
+                          alt="Sutter NAN" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;padding-top:15px;padding-bottom:12px;">
+                  <script type="text/javascript" src="http://www.cshlpress.com/rss_get.asp?st=gr"></script>
+                  </p>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.learnmem.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/alerts" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1072-0502</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5485</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-3");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

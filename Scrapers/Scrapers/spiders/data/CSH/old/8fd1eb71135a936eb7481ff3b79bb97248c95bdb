@@ -1,0 +1,495 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Persistent activation of protein kinase C during the development of long-term facilitation in Aplysia. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="Peer-reviewed scientific journal publishing basic neuroscience research in the areas of neuronal plasticity, learning and memory" />
+      <meta content="/learnmem/1/3/189.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Persistent activation of protein kinase C during the development of long-term facilitation in Aplysia."
+            name="DC.Title" />
+      <meta content="10.1101/lm.1.3.189" name="DC.Identifier" />
+      <meta content="1994-09-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="W S Sossin" name="DC.Contributor" />
+      <meta content="T C Sacktor" name="DC.Contributor" />
+      <meta content="J H Schwartz" name="DC.Contributor" />
+      <meta content="Learning &amp; Memory" name="citation_journal_title" />
+      <meta content="Learn. Mem." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1072-0502" name="citation_issn" />
+      <meta content="1549-5485" name="citation_issn" />
+      <meta name="citation_author" content="W S Sossin" />
+      <meta name="citation_author" content="T C Sacktor" />
+      <meta name="citation_author" content="J H Schwartz" />
+      <meta content="Persistent activation of protein kinase C during the development of long-term facilitation in Aplysia."
+            name="citation_title" />
+      <meta content="09/01/1994" name="citation_date" />
+      <meta content="1" name="citation_volume" />
+      <meta content="3" name="citation_issue" />
+      <meta content="189" name="citation_firstpage" />
+      <meta content="202" name="citation_lastpage" />
+      <meta content="1/3/189" name="citation_id" />
+      <meta content="1/3/189" name="citation_id_from_sass_path" />
+      <meta content="learnmem;1/3/189" name="citation_mjid" />
+      <meta content="10.1101/lm.1.3.189" name="citation_doi" />
+      <meta content="http://learnmem.cshlp.org/content/1/3/189.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/1/3/189.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/1/3.cover.gif" name="issue_cover_image" />
+      <meta content="http://learnmem.cshlp.org/content/1/3/189" name="citation_public_url" />
+      <meta content="10467596" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPERS" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/1/3/180.short" rel="prev" />
+      <link href="/content/1/3/203.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d2012259e1">var callbackToken='567A80E01AFF8D3';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Learning &amp; Memory" alt="Learning &amp; Memory" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.learnmem.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/alerts" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Learning &amp; Memory" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=55554&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FAMPLIFIERS%2Fdpa.html"
+                        target="_blank"><img class="adborder0" title="Sutter"
+                             src="//learnmem.cshlp.org/adsystem/graphics/5840165659830985/learnmem/Sutter%20Banner.gif?ad=55554&amp;adview=true"
+                             alt="Sutter" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Persistent activation of protein kinase C during the development of long-term facilitation in Aplysia.</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=W+S+Sossin&amp;sortspec=date&amp;submit=Submit">W S Sossin</a></span>, 
+                     </li>
+                     <li id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=T+C+Sacktor&amp;sortspec=date&amp;submit=Submit">T C Sacktor</a></span>,  and 
+                     </li>
+                     <li id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=J+H+Schwartz&amp;sortspec=date&amp;submit=Submit">J H Schwartz</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Center for Neurobiology and Behavior, Columbia University College of Physicians and Surgeons, New York, New York 10032, USA.</address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-1">We investigated activation of the two major neuronal protein kinase C (PKC) isoforms in Aplysia, Ca(2+)-activated Apl I and
+                     Ca(2+)-independent Apl II, during the induction and maintenance of behavioral sensitization of Aplysia defensive reflexes.
+                     Activation of PKC occurred during the training stimulus and persisted for at least 2 hr thereafter but was not maintained
+                     for 24 hr. The persistent activation required protein synthesis and was blocked by cyproheptidine, an agent that also blocked
+                     the initial activation of PKC. Persistent activation involved both an increase in membrane-associated Apl I and an increase
+                     in an autonomous kinase activity that may be related to a post-translational modification of Apl II. These results are consistent
+                     with the hypothesis that in addition to its role in producing the presynaptic facilitation of mechanosensory-motor neuron
+                     synapses that underlie short-term facilitation, PKC is needed for maintaining synaptic changes in an intermediate period that
+                     precedes the modifications accompanying consolidation of memory.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="copyright-statement" id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</li>
+                  </ul>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/1/3/180.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/1/3/203.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/1/3.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/lm.1.3.189" class="slug-doi">10.1101/lm.1.3.189
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Learning &amp; Memory" class="slug-jnl-abbrev">
+                                    Learn. Mem.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    1994.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    1: 
+                                    </span><span class="slug-pages">
+                                    189-202
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/1/3/189.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/1/3/189.refs" rel="view-references-only">References</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPERS&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPERS</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=learnmem%3B1%2F3%2F189&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/1/3/189.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=1/3/189&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/1/3/189.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=learnmem%3B1%2F3%2F189&amp;citation=Sossin%20et%20al.%201%20%283%29:%20189&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=learnmem%3B1%2F3%2F189&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=10467596&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=learnmem%3B1%2F3%2F189">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/1/3/189.abstract?cited-by=yes&amp;legid=learnmem;1/3/189#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Flearnmem%2F1%2F3%2F189&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://learnmem.cshlp.org/content/1/3/189.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ASossin%20author%3AW.S.%22">Articles by  Sossin, W. S.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ASchwartz%20author%3AJ.H.%22">Articles by  Schwartz, J. H.</a></li>
+                        <li><a href="/external-ref?access_num=http://learnmem.cshlp.org/content/1/3/189.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=10467596&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Sossin%20WS&amp;link_type=AUTHORSEARCH">Articles by  Sossin, W. S.</a></li>
+                        <li><a href="/external-ref?access_num=Schwartz%20JH&amp;link_type=AUTHORSEARCH">Articles by  Schwartz, J. H.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/10467596"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=learnmem%3B1%2F3%2F189&amp;current-view-path=/content/1/3/189.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/1/3/189&amp;title=Persistent%20activation%20of%20protein%20kinase%20C%20during%20the%20development%20of%20long-term%20facilitation%20in%20Aplysia.+--+Sossin%20et%20al.%201%20%283%29%3A%20189+--+&amp;doi=10.1101/lm.1.3.189&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 30 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/30/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Learning &amp; Memory
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href="/site/subscriptions" title="Subscriptions"><span>Subscriptions</span></a></li>
+                  <li class="last"><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=55553&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FMICROSCOPES%2Fnan.html"
+                     target="_blank"><img class="adborder0" title="Sutter NAN"
+                          src="//learnmem.cshlp.org/adsystem/graphics/5840165659830985/learnmem/NAN%20Banner.png?ad=55553&amp;adview=true"
+                          alt="Sutter NAN" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;padding-top:15px;padding-bottom:12px;">
+                  <script type="text/javascript" src="http://www.cshlpress.com/rss_get.asp?st=gr"></script>
+                  </p>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.learnmem.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/alerts" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1072-0502</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5485</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-3");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

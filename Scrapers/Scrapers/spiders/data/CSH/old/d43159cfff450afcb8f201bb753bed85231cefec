@@ -1,0 +1,700 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Precision oncogenomics </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/full/5/2/a004150" />
+      <meta content="/cshmcs/5/2/a004150.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Precision oncogenomics" name="DC.Title" />
+      <meta content="10.1101/mcs.a004150" name="DC.Identifier" />
+      <meta content="2019-04-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Andrea Ferreira-Gonzalez" name="DC.Contributor" />
+      <meta content="Elaine R. Mardis" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Andrea Ferreira-Gonzalez" />
+      <meta name="citation_author_institution"
+            content="1Virginia Commonwealth University, Richmond, Virginia 23284, USA;" />
+      <meta name="citation_author" content="Elaine R. Mardis" />
+      <meta name="citation_author_institution"
+            content="2Nationwide Children's Hospital and the Ohio State University, Columbus, Ohio 43215, USA" />
+      <meta content="Precision oncogenomics" name="citation_title" />
+      <meta content="04/01/2019" name="citation_date" />
+      <meta content="5" name="citation_volume" />
+      <meta content="2" name="citation_issue" />
+      <meta content="a004150" name="citation_firstpage" />
+      <meta content="5/2/a004150" name="citation_id" />
+      <meta content="5/2/a004150" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;5/2/a004150" name="citation_mjid" />
+      <meta content="10.1101/mcs.a004150" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a004150.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a004150.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/5/2.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a004150"
+            name="citation_public_url" />
+      <meta content="30936200" name="citation_pmid" />
+      <meta name="citation_section" content="EDITORIAL" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/5/2/a003889.short" rel="prev" />
+      <link href="/content/5/3/a003251.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d137890525e1">var callbackToken='5679204ADC17612';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57292&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cancercareers.org%2Fprofiles%2Fsign_up"
+                        target="_blank"><img class="adborder0" title="AACR"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/5002728904178227/cshmcs/2206012Q_AACR23AM_CarFair-UpWin_468x60_1.jpg?ad=57292&amp;adview=true"
+                             alt="AACR" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article fulltext-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Precision oncogenomics</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Andrea+Ferreira-Gonzalez&amp;sortspec=date&amp;submit=Submit">Andrea Ferreira-Gonzalez</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a> and 
+                     </li>
+                     <li class="last" id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=Elaine+R.+Mardis&amp;sortspec=date&amp;submit=Submit">Elaine R. Mardis</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Virginia Commonwealth University, Richmond, Virginia 23284, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Nationwide Children's Hospital and the Ohio State University, Columbus, Ohio 43215, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">elaine.mardis{at}nationwidechildrens.org</span></span></li>
+                  </ol>
+               </div>
+               <div class="section" id="sec-1">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#ref-list-1" title="REFERENCES" class="next-section-link"><span>Next Section</span></a></div>
+                  <p id="p-2">Decades of research has led to the knowledge that cancer is a genetic disease driven by the accumulation of molecular alterations
+                     that negatively impact control of cell division (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">Vogelstein et al. 2013</a>). This understanding of cancer as a genetic disease has led to a focus on the genomes of cancer cells, looking for the leading
+                     cause(s) of the pathological cellular proliferation that ultimately results in cancer. Early work identifying specific driver
+                     genomic alterations led to the development of targeted therapies, more effective and less toxic compared to standard chemotherapies.
+                     Trastuzumab (FDA-approved in 1998) and imatinib (FDA-approved in 2001) were the first two drugs to illustrate the potential
+                     of targeted therapy for the treatment of breast cancer and chronic myeloid leukemia (CML), respectively. These early successes
+                     were followed by a multitude of small molecule inhibitors that have FDA approval for the treatment of many types of cancer
+                     (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">Fischer et al. 2003</a>). Today, both imatinib and trastuzumab are cited as “essential medicines” by the World Health Organization, available as
+                     a generic and biosimilar, respectively.
+                  </p>
+                  <p id="p-3">Coincident with the emergence of targeted therapy for cancers, the sequencing and assembly of the human genome nearly two
+                     decades ago heralded the advent of massively parallel sequencing technologies capable of producing enormous quantities of
+                     genomic data. The success of the Human Genome Project enabled the application of next-generation sequencing (NGS) technologies
+                     and bioinformatics tools to identify genome-wide alterations. NGS allowed faster and simpler sequencing by using microscopic,
+                     spatially separated DNA templates to massively parallelize the capture of data. With such platforms in hand, it became possible
+                     to sequence all the coding exons of a genome and even a whole human genome in a short time and at an affordable price. In
+                     addition, bioinformatics tools were developed that allowed the processing and analysis of these data with high accuracy and
+                     reproducibility. With a Human Genome Reference in hand, it finally became possible to catalog the pathogenic alterations in
+                     cancers, to discover frequently altered genes and their putative role in cancer, and to identify “druggable” targets (i.e.,
+                     genes with mutations known to be responsive to targeted therapies). Furthermore, the development of publicly available databases
+                     of cancer genomic data, such as The Cancer Genome Atlas (TCGA), has been instrumental in the discovery of novel cancer-associated
+                     genes and advancing the field of translational cancer genomics by cataloging genes and variants from more than 40 common human
+                     cancers. Cumulatively, these developments in technology, bioinformatics, therapeutics and databases have given birth to the
+                     “genomic era” of cancer research. Of course, the disadvantage of this comprehensive cataloging is that NGS often identifies
+                     new variants in genes that we cannot readily interpret in terms of their pathogenicity or likely response to therapy. Coincidentally,
+                     this is one of the strongest arguments for a journal like <em>Cold Spring Harbor Molecular Case Studies</em>—namely, the rapid communication of new variants and/or therapeutic responses. This special issue offers several such case
+                     reports as examples.
+                  </p>
+                  <p id="p-4">The ability to deeply sequence the genomes of cancers, at rapidly decreasing cost, has provided translational cancer researchers
+                     with unprecedented opportunities to gain insights into the biology of cancer initiation, progression, identification of actionable
+                     somatic and germline variants, and even the identification of genomic changes conferring acquired resistance to these therapies.
+                     Whole-genome and -exome sequencing studies of primary and metastatic tumors in different cancers have revealed intratumoral
+                     heterogeneity as a key driver of acquired resistance and clonal evolution (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">Jamal-Hanjani et al. 2017</a>). Furthermore, NGS technology has allowed us to identify alterations even in scarce biopsy tissues or in simple blood draws
+                     (liquid biopsy) for cases in which collecting tissue for molecular testing might be unsafe for the patient (<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">Ignatiadis and Dawson 2014</a>). This special issue contains several such reports of the use of liquid biopsy for patient diagnosis or monitoring—evidence
+                     that this approach is being used with increasing frequency in the clinical setting.
+                  </p>
+                  <p id="p-5">These advances in cancer genomics have paved the way for a new era of precision medicine in oncology—an era in which a patient's
+                     tumor can be characterized extensively for mutations and other molecular abnormalities, and treatment can be based on the
+                     identified molecular changes along with the cancer's tissue of origin. It is not a new concept, but the use of NGS, bioinformatics
+                     tools, and large-scale cancer variant databases have created an opportunity for significant onward movement of this approach.
+                  </p>
+                  <p id="p-6">In current clinical practice, providers encounter the growing challenge of interpreting variants for each patient, who may
+                     have one to 10 somatic mutations involving 50 to 500 genes. Furthermore, the types of mutations that can be detected continue
+                     to expand. The <em>BRAF</em> oncogene provides an illustration of this challenge. This oncogene may contain mutations that either lead to kinase activation
+                     (Class I and II point mutations), kinase-dead activity (Class III point mutations), kinase domain duplication, or may be involved
+                     in a gene fusion. Each of these classes of mutations may be responsive to a RAF inhibitor, MEK inhibitor, or combination therapy
+                     depending on the biology it determines. However, sifting through these mutations, biological evidence, and potential matching
+                     therapies is a time-consuming and arduous task that lacks harmonization and guidelines. This complex process, called variant
+                     prioritization, is aided by large publicly accessible databases like CIViC (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">Griffith et al. 2017</a>), the GA4GH VICC (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">Wagner et al. 2018</a>), or OncoKB/cBioPortal (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">Chakravarty et al. 2017</a>), among others. These resources have been designed as a translational bridge between researchers and clinicians, to lower
+                     the barriers of access and make comprehensible the individual genes and their alterations with functional and/or drug therapy
+                     responses. However, because the reality is that functional consequences are known for only a small fraction of the many variants
+                     identified by NGS, increasingly there are decision-support tools emerging to facilitate the interpretation of cancer genomes
+                     in this context. Two of the case reports in this issue highlight how such tools can be utilized in cancer precision medicine.
+                  </p>
+                  <p id="p-7">Each incremental advance in cancer knowledge is ultimately an improvement in patient care. Although the scientific value of
+                     NGS-based advancements is undoubtedly critical, the derived clinical benefits are still being discussed. Nevertheless, NGS
+                     is driving the field of translational precision cancer medicine at a rapid pace, coupled with increasing evidence from patient-based
+                     studies and ensuing therapeutic management strategies. This issue of <em>Cold Spring Harbor Molecular Case Studies</em> provides insights into the current state and clinical practice of precision oncology, the challenges that we currently face,
+                     and the enormous opportunities to come. These contributed manuscripts provide a glimpse into our understanding of novel genomic
+                     features such as druggable fusions, new analytical approaches, the complexity of data generated, and how to interpret these
+                     complex data in the context of patient care.
+                  </p>
+                  <p id="p-8">We are thankful to the many groups and individuals who contributed their work and points of view to this issue, and also to
+                     the patients who consented to have their stories told in order to benefit all future patients. We hope that you will find
+                     these contributions enlightening regarding the current status of precision oncology and inspirational of what is to come.
+                  </p>
+                  <div id="sec-2" class="subsection">
+                     <h3>Competing Interest Statement</h3>
+                     <p id="p-9">The authors have declared no competing interest.</p>
+                  </div>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2019 Ferreira-Gonzalez and Mardis; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#sec-1" title="Previous Section" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2 class="">REFERENCES</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference  in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.1"
+                             data-doi="10.1200/PO.17.00011">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Chakravarty</span>  <span class="cit-name-given-names">D</span></span>, <span class="cit-auth"><span class="cit-name-surname">Gao</span>  <span class="cit-name-given-names">J</span></span>, <span class="cit-auth"><span class="cit-name-surname">Phillips</span>  <span class="cit-name-given-names">SM</span></span>, <span class="cit-auth"><span class="cit-name-surname">Kundra</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Zhang</span>  <span class="cit-name-given-names">H</span></span>, <span class="cit-auth"><span class="cit-name-surname">Wang</span>  <span class="cit-name-given-names">J</span></span>, <span class="cit-auth"><span class="cit-name-surname">Rudolph</span>  <span class="cit-name-given-names">JE</span></span>, <span class="cit-auth"><span class="cit-name-surname">Yaeger</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Soumerai</span>  <span class="cit-name-given-names">T</span></span>, <span class="cit-auth"><span class="cit-name-surname">Nissan</span>  <span class="cit-name-given-names">MH</span></span>, <span class="cit-etal">et al.</span> <span class="cit-pub-date">2017</span>. <span class="cit-article-title">OncoKB: a precision oncology knowledge base</span>. <abbr class="cit-jnl-abbrev">JCO Precis Oncol</abbr> <span class="cit-vol">1</span>: <span class="cit-fpage">1</span>–<span class="cit-lpage">16</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1200/PO.17.00011</span></cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1200/PO.17.00011&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=OncoKB%3A%20a%20precision%20oncology%20knowledge%20base&amp;publication_year=2017&amp;journal=JCO%20Precis%20Oncol&amp;volume=1&amp;pages=1-16&amp;doi=10.1200%2FPO.17.00011">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference  in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.2"
+                             data-doi="10.1016/S1367-5931(03)00082-6">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Fischer</span>  <span class="cit-name-given-names">OM</span></span>, <span class="cit-auth"><span class="cit-name-surname">Streit</span>  <span class="cit-name-given-names">S</span></span>, <span class="cit-auth"><span class="cit-name-surname">Hart</span>  <span class="cit-name-given-names">S</span></span>, <span class="cit-auth"><span class="cit-name-surname">Ullrich</span>  <span class="cit-name-given-names">A</span></span>. <span class="cit-pub-date">2003</span>. <span class="cit-article-title">Beyond herceptin and gleevec</span>. <abbr class="cit-jnl-abbrev">Curr Opin Chem Biol</abbr> <span class="cit-vol">7</span>: <span class="cit-fpage">490</span>–<span class="cit-lpage">495</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1016/S1367-5931(03)00082-6</span></cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1367-5931(03)00082-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=12941424&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Beyond%20herceptin%20and%20gleevec&amp;publication_year=2003&amp;journal=Curr%20Opin%20Chem%20Biol&amp;volume=7&amp;pages=490-495&amp;doi=10.1016%2FS1367-5931%2803%2900082-6">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference  in text"
+                           id="ref-3">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.3"
+                             data-doi="10.1038/ng.3774">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Griffith</span>  <span class="cit-name-given-names">M</span></span>, <span class="cit-auth"><span class="cit-name-surname">Spies</span>  <span class="cit-name-given-names">NC</span></span>, <span class="cit-auth"><span class="cit-name-surname">Krysiak</span>  <span class="cit-name-given-names">K</span></span>, <span class="cit-auth"><span class="cit-name-surname">McMichael</span>  <span class="cit-name-given-names">JF</span></span>, <span class="cit-auth"><span class="cit-name-surname">Coffman</span>  <span class="cit-name-given-names">AC</span></span>, <span class="cit-auth"><span class="cit-name-surname">Danos</span>  <span class="cit-name-given-names">AM</span></span>, <span class="cit-auth"><span class="cit-name-surname">Ainscough</span>  <span class="cit-name-given-names">BJ</span></span>, <span class="cit-auth"><span class="cit-name-surname">Ramirez</span>  <span class="cit-name-given-names">CA</span></span>, <span class="cit-auth"><span class="cit-name-surname">Rieke</span>  <span class="cit-name-given-names">DT</span></span>, <span class="cit-auth"><span class="cit-name-surname">Kujan</span>  <span class="cit-name-given-names">L</span></span>, <span class="cit-etal">et al.</span> <span class="cit-pub-date">2017</span>. <span class="cit-article-title">CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer</span>. <abbr class="cit-jnl-abbrev">Nat Genet</abbr> <span class="cit-vol">49</span>: <span class="cit-fpage">170</span>–<span class="cit-lpage">174</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1038/ng.3774</span></cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/ng.3774&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=CIViC%20is%20a%20community%20knowledgebase%20for%20expert%20crowdsourcing%20the%20clinical%20interpretation%20of%20variants%20in%20cancer&amp;publication_year=2017&amp;journal=Nat%20Genet&amp;volume=49&amp;pages=170-174&amp;doi=10.1038%2Fng.3774">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference  in text"
+                           id="ref-4">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.4"
+                             data-doi="10.1093/annonc/mdu480">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Ignatiadis</span>  <span class="cit-name-given-names">M</span></span>, <span class="cit-auth"><span class="cit-name-surname">Dawson</span>  <span class="cit-name-given-names">SJ</span></span>. <span class="cit-pub-date">2014</span>. <span class="cit-article-title">Circulating tumor cells and circulating tumor DNA for precision medicine: dream or reality?</span> <abbr class="cit-jnl-abbrev">Ann Oncol</abbr> <span class="cit-vol">25</span>: <span class="cit-fpage">2304</span>–<span class="cit-lpage">2313</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1093/annonc/mdu480</span></cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1093/annonc/mdu480&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=25336116&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Circulating%20tumor%20cells%20and%20circulating%20tumor%20DNA%20for%20precision%20medicine%3A%20dream%20or%20reality%3F&amp;publication_year=2014&amp;journal=Ann%20Oncol&amp;volume=25&amp;pages=2304-2313&amp;doi=10.1093%2Fannonc%2Fmdu480">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference  in text"
+                           id="ref-5">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.5"
+                             data-doi="10.1056/NEJMoa1616288">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Jamal-Hanjani</span>  <span class="cit-name-given-names">M</span></span>, <span class="cit-auth"><span class="cit-name-surname">Wilson</span>  <span class="cit-name-given-names">GA</span></span>, <span class="cit-auth"><span class="cit-name-surname">McGranahan</span>  <span class="cit-name-given-names">N</span></span>, <span class="cit-auth"><span class="cit-name-surname">Birkbak</span>  <span class="cit-name-given-names">NJ</span></span>, <span class="cit-auth"><span class="cit-name-surname">Watkins</span>  <span class="cit-name-given-names">TBK</span></span>, <span class="cit-auth"><span class="cit-name-surname">Veeriah</span>  <span class="cit-name-given-names">S</span></span>, <span class="cit-auth"><span class="cit-name-surname">Shafi</span>  <span class="cit-name-given-names">S</span></span>, <span class="cit-auth"><span class="cit-name-surname">Johnson</span>  <span class="cit-name-given-names">DH</span></span>, <span class="cit-auth"><span class="cit-name-surname">Mitter</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Rosenthal</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-etal">et al.</span> <span class="cit-pub-date">2017</span>. <span class="cit-article-title">Tracking the evolution of non-small-cell lung cancer</span>. <abbr class="cit-jnl-abbrev">N Engl J Med</abbr> <span class="cit-vol">376</span>: <span class="cit-fpage">2109</span>–<span class="cit-lpage">2121</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1056/NEJMoa1616288</span></cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1056/NEJMoa1616288&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=28445112&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Tracking%20the%20evolution%20of%20non-small-cell%20lung%20cancer&amp;publication_year=2017&amp;journal=N%20Engl%20J%20Med&amp;volume=376&amp;pages=2109-2121&amp;doi=10.1056%2FNEJMoa1616288">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference  in text"
+                           id="ref-6">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.6"
+                             data-doi="10.1126/science.1235122">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Vogelstein</span>  <span class="cit-name-given-names">B</span></span>, <span class="cit-auth"><span class="cit-name-surname">Papadopoulos</span>  <span class="cit-name-given-names">N</span></span>, <span class="cit-auth"><span class="cit-name-surname">Velculescu</span>  <span class="cit-name-given-names">VE</span></span>, <span class="cit-auth"><span class="cit-name-surname">Zhou</span>  <span class="cit-name-given-names">S</span></span>, <span class="cit-auth"><span class="cit-name-surname">Diaz</span>  <span class="cit-name-given-names">LA</span>  <span class="cit-name-suffix">Jr</span>.</span>, <span class="cit-auth"><span class="cit-name-surname">Kinzler</span>  <span class="cit-name-given-names">KW</span></span>. <span class="cit-pub-date">2013</span>. <span class="cit-article-title">Cancer genome landscapes</span>. <abbr class="cit-jnl-abbrev">Science</abbr> <span class="cit-vol">339</span>: <span class="cit-fpage">1546</span>–<span class="cit-lpage">1558</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1126/science.1235122</span></cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=sci&amp;resid=339/6127/1546"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference  in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-5.2.a004150.7"
+                             data-doi="10.1101/366856">
+                           <div class="cit-metadata"><cite><span class="cit-auth"><span class="cit-name-surname">Wagner</span>  <span class="cit-name-given-names">AH</span></span>, <span class="cit-auth"><span class="cit-name-surname">Walsh</span>  <span class="cit-name-given-names">B</span></span>, <span class="cit-auth"><span class="cit-name-surname">Mayfield</span>  <span class="cit-name-given-names">G</span></span>, <span class="cit-auth"><span class="cit-name-surname">Tamborero</span>  <span class="cit-name-given-names">D</span></span>, <span class="cit-auth"><span class="cit-name-surname">Sonkin</span>  <span class="cit-name-given-names">D</span></span>, <span class="cit-auth"><span class="cit-name-surname">Krysiak</span>  <span class="cit-name-given-names">K</span></span>, <span class="cit-auth"><span class="cit-name-surname">Deu-Pons</span>  <span class="cit-name-given-names">J</span></span>, <span class="cit-auth"><span class="cit-name-surname">Duren</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Gao</span>  <span class="cit-name-given-names">J</span></span>, <span class="cit-auth"><span class="cit-name-surname">McMurry</span>  <span class="cit-name-given-names">J</span></span>, <span class="cit-etal">et al.</span> <span class="cit-pub-date">2018</span>. <span class="cit-article-title">A harmonized meta-knowledgebase of clinical interpretations of cancer genomic variants</span>. <abbr class="cit-jnl-abbrev">bioRxiv</abbr> <span class="cit-fpage">366856</span>.<span class="cit-pub-id-sep cit-pub-id-doi-sep"> </span><span class="cit-pub-id cit-pub-id-doi"><span class="cit-pub-id-scheme-doi">doi:</span>10.1101/366856</span></cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=biorxiv&amp;resid=366856v2"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/5/2/a003889.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/5/3/a003251.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/5/2.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/mcs.a004150" class="slug-doi">10.1101/mcs.a004150
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    5: 
+                                    </span><span class="slug-pages">
+                                    a004150
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2019 Ferreira-Gonzalez and Mardis; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="notice full-text-view-link primary"><span class="variant-indicator">» <span>Full Text</span></span></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/5/2/a004150.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=EDITORIAL&amp;sortspec=date&amp;submit=Submit">EDITORIAL</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B5%2F2%2Fa004150&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a004150.full">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=5/2/a004150&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a004150.full">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=5/2/a004150&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a004150.full">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;5/2/a004150" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a004150&amp;citation=Ferreira-Gonzalez%20and%20Mardis%205%20%282%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B5%2F2%2Fa004150&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=30936200&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B5%2F2%2Fa004150">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;5/2/a004150"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/5/2/a004150.full?cited-by=yes&amp;legid=cshmcs;5/2/a004150#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F5%2F2%2Fa004150&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/2/a004150.full&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AFerreira-Gonzalez%20author%3AA.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Ferreira-Gonzalez, A.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AMardis%20author%3AE.R.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Mardis, E. R.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/2/a004150.full&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=30936200&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Ferreira-Gonzalez%20A&amp;link_type=AUTHORSEARCH">Articles by  Ferreira-Gonzalez, A.</a></li>
+                        <li><a href="/external-ref?access_num=Mardis%20ER&amp;link_type=AUTHORSEARCH">Articles by  Mardis, E. R.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/30936200"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/5/2/a004150.full?related-urls=yes&amp;legid=cshmcs;5/2/a004150#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B5%2F2%2Fa004150&amp;current-view-path=/content/5/2/a004150.full"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a004150&amp;title=Precision%20oncogenomics+--+Ferreira-Gonzalez%20and%20Mardis%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a004150&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#ref-list-1">REFERENCES</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57343&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fprofessionals%2Fmeetings%2Fmeetings-and-workshops-calendar%2F"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/13334773960560065/genesdev/2303063B_MCS_SciConf_160x800_1.jpg?ad=57343&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

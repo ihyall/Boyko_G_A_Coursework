@@ -1,0 +1,929 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>ALL-tRNAseq enables robust tRNA profiling in tissue samples </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A biweekly scientific journal publishing high-quality research in molecular biology and genetics, cancer biology, biochemistry, and related fields" />
+      <meta content="/genesdev/37/5-6/243.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="ALL-tRNAseq enables robust tRNA profiling in tissue samples"
+            name="DC.Title" />
+      <meta content="10.1101/gad.350233.122" name="DC.Identifier" />
+      <meta content="2023-03-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Chantal Scheepbouwer" name="DC.Contributor" />
+      <meta content="Ernesto Aparicio-Puerta" name="DC.Contributor" />
+      <meta content="Cristina Gomez-Martin" name="DC.Contributor" />
+      <meta content="Heleen Verschueren" name="DC.Contributor" />
+      <meta content="Monique van Eijndhoven" name="DC.Contributor" />
+      <meta content="Laurine E. Wedekind" name="DC.Contributor" />
+      <meta content="Stavros Giannoukakos" name="DC.Contributor" />
+      <meta content="Nathalie Hijmering" name="DC.Contributor" />
+      <meta content="Lisa Gasparotto" name="DC.Contributor" />
+      <meta content="Hilde T. van der Galien" name="DC.Contributor" />
+      <meta content="Roos S. van Rijn" name="DC.Contributor" />
+      <meta content="Eleonora Aronica" name="DC.Contributor" />
+      <meta content="Robby Kibbelaar" name="DC.Contributor" />
+      <meta content="Vivi M. Heine" name="DC.Contributor" />
+      <meta content="Pieter Wesseling" name="DC.Contributor" />
+      <meta content="David P. Noske" name="DC.Contributor" />
+      <meta content="W. Peter Vandertop" name="DC.Contributor" />
+      <meta content="Daphne de Jong" name="DC.Contributor" />
+      <meta content="D. Michiel Pegtel" name="DC.Contributor" />
+      <meta content="Michael Hackenberg" name="DC.Contributor" />
+      <meta content="Tom Wurdinger" name="DC.Contributor" />
+      <meta content="Alan Gerber" name="DC.Contributor" />
+      <meta content="Danijela Koppers-Lalic" name="DC.Contributor" />
+      <meta content="Genes &amp; Development" name="citation_journal_title" />
+      <meta content="Genes Dev." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="0890-9369" name="citation_issn" />
+      <meta content="1549-5477" name="citation_issn" />
+      <meta name="citation_author" content="Chantal Scheepbouwer" />
+      <meta name="citation_author_orcid" content="0000-0003-4243-0095" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Ernesto Aparicio-Puerta" />
+      <meta name="citation_author_orcid" content="0000-0002-3470-1425" />
+      <meta name="citation_author_institution"
+            content="4Genetics Department, Faculty of Science, University of Granada, 18071 Granada, Spain;" />
+      <meta name="citation_author" content="Cristina Gomez-Martin" />
+      <meta name="citation_author_orcid" content="0000-0003-0866-4103" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Heleen Verschueren" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Monique van Eijndhoven" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Laurine E. Wedekind" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Stavros Giannoukakos" />
+      <meta name="citation_author_orcid" content="0000-0001-8190-4199" />
+      <meta name="citation_author_institution"
+            content="4Genetics Department, Faculty of Science, University of Granada, 18071 Granada, Spain;" />
+      <meta name="citation_author" content="Nathalie Hijmering" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Lisa Gasparotto" />
+      <meta name="citation_author_institution"
+            content="5Department of Child and Adolescent Psychiatry, Emma Children's Hospital, Amsterdam UMC, Neuroscience, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Hilde T. van der Galien" />
+      <meta name="citation_author_orcid" content="0000-0003-4940-3321" />
+      <meta name="citation_author_institution"
+            content="6Department of Hematology, Medical Center Leeuwarden, 8934 AD Leeuwarden, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="7HemoBase Population Registry Consortium, 8934 AD Leeuwarden, the Netherlands;" />
+      <meta name="citation_author" content="Roos S. van Rijn" />
+      <meta name="citation_author_institution"
+            content="6Department of Hematology, Medical Center Leeuwarden, 8934 AD Leeuwarden, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="7HemoBase Population Registry Consortium, 8934 AD Leeuwarden, the Netherlands;" />
+      <meta name="citation_author" content="Eleonora Aronica" />
+      <meta name="citation_author_orcid" content="0000-0002-3542-3770" />
+      <meta name="citation_author_institution"
+            content="8Department of (Neuro)Pathology Amsterdam Neuroscience, Amsterdam UMC location University of Amsterdam, 1105 AZ Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Robby Kibbelaar" />
+      <meta name="citation_author_institution"
+            content="7HemoBase Population Registry Consortium, 8934 AD Leeuwarden, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="9Department of Pathology, Pathology Friesland, 8917 EN Leeuwarden, the Netherlands;" />
+      <meta name="citation_author" content="Vivi M. Heine" />
+      <meta name="citation_author_orcid" content="0000-0003-4416-3875" />
+      <meta name="citation_author_institution"
+            content="5Department of Child and Adolescent Psychiatry, Emma Children's Hospital, Amsterdam UMC, Neuroscience, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="10Department of Complex Trait Genetics, Center for Neurogenomics and Cognitive Research, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Pieter Wesseling" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="11Laboratory for Childhood Cancer Pathology, Princess Máxima Center for Pediatric Oncology, University Medical Center Utrecht, 3584 CS Utrecht, the Netherlands" />
+      <meta name="citation_author" content="David P. Noske" />
+      <meta name="citation_author_orcid" content="0000-0001-5992-4468" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="W. Peter Vandertop" />
+      <meta name="citation_author_orcid" content="0000-0001-5417-0265" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Daphne de Jong" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="D. Michiel Pegtel" />
+      <meta name="citation_author_institution"
+            content="3Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Michael Hackenberg" />
+      <meta name="citation_author_orcid" content="0000-0003-2248-3114" />
+      <meta name="citation_author_institution"
+            content="4Genetics Department, Faculty of Science, University of Granada, 18071 Granada, Spain;" />
+      <meta name="citation_author" content="Tom Wurdinger" />
+      <meta name="citation_author_orcid" content="0000-0001-9849-9011" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Alan Gerber" />
+      <meta name="citation_author_orcid" content="0000-0003-3909-3606" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author" content="Danijela Koppers-Lalic" />
+      <meta name="citation_author_orcid" content="0000-0002-1050-7521" />
+      <meta name="citation_author_institution"
+            content="1Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta name="citation_author_institution"
+            content="2Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;" />
+      <meta content="ALL-tRNAseq enables robust tRNA profiling in tissue samples"
+            name="citation_title" />
+      <meta content="03/01/2023" name="citation_date" />
+      <meta content="37" name="citation_volume" />
+      <meta content="5-6" name="citation_issue" />
+      <meta content="243" name="citation_firstpage" />
+      <meta content="257" name="citation_lastpage" />
+      <meta content="37/5-6/243" name="citation_id" />
+      <meta content="37/5-6/243" name="citation_id_from_sass_path" />
+      <meta content="genesdev;37/5-6/243" name="citation_mjid" />
+      <meta content="10.1101/gad.350233.122" name="citation_doi" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/243.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/243.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/243.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/37/5-6.cover.gif" name="issue_cover_image" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/243"
+            name="citation_public_url" />
+      <meta content="36810209" name="citation_pmid" />
+      <meta name="citation_section" content="RESOURCE/METHODOLOGY" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/37/5-6/218.short" rel="prev" />
+      <link href="/content/37/1-2/1.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d258273052e1">var callbackToken='567A322BBF855E6';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/csh-library.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genes &amp; Development" alt="Genes &amp; Development" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.genesdev.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genes &amp; Development" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57167&amp;adclick=true&amp;url=https%3A%2F%2Fwww.blotcycler.com%2F"
+                        target="_blank"><img class="adborder0" title="BlotCycler"
+                             src="//genesdev.cshlp.org/adsystem/graphics/8140735297908749/genesdev/banner.gif?ad=57167&amp;adview=true"
+                             alt="BlotCycler" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">ALL-tRNAseq enables robust tRNA profiling in tissue samples</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Chantal+Scheepbouwer&amp;sortspec=date&amp;submit=Submit">Chantal Scheepbouwer</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ernesto+Aparicio-Puerta&amp;sortspec=date&amp;submit=Submit">Ernesto Aparicio-Puerta</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Cristina+Gomez-Martin&amp;sortspec=date&amp;submit=Submit">Cristina Gomez-Martin</a></span><a id="xref-aff-3-2" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Heleen+Verschueren&amp;sortspec=date&amp;submit=Submit">Heleen Verschueren</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Monique+van+Eijndhoven&amp;sortspec=date&amp;submit=Submit">Monique van Eijndhoven</a></span><a id="xref-aff-3-3" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Laurine+E.+Wedekind&amp;sortspec=date&amp;submit=Submit">Laurine E. Wedekind</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Stavros+Giannoukakos&amp;sortspec=date&amp;submit=Submit">Stavros Giannoukakos</a></span><a id="xref-aff-4-2" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Nathalie+Hijmering&amp;sortspec=date&amp;submit=Submit">Nathalie Hijmering</a></span><a id="xref-aff-3-4" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Lisa+Gasparotto&amp;sortspec=date&amp;submit=Submit">Lisa Gasparotto</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Hilde+T.+van+der+Galien&amp;sortspec=date&amp;submit=Submit">Hilde T. van der Galien</a></span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a><span class="xref-sep">,</span><a id="xref-aff-7-1" class="xref-aff" href="#aff-7">7</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Roos+S.+van+Rijn&amp;sortspec=date&amp;submit=Submit">Roos S. van Rijn</a></span><a id="xref-aff-6-2" class="xref-aff" href="#aff-6">6</a><span class="xref-sep">,</span><a id="xref-aff-7-2" class="xref-aff" href="#aff-7">7</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Eleonora+Aronica&amp;sortspec=date&amp;submit=Submit">Eleonora Aronica</a></span><a id="xref-aff-8-1" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Robby+Kibbelaar&amp;sortspec=date&amp;submit=Submit">Robby Kibbelaar</a></span><a id="xref-aff-7-3" class="xref-aff" href="#aff-7">7</a><span class="xref-sep">,</span><a id="xref-aff-9-1" class="xref-aff" href="#aff-9">9</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Vivi+M.+Heine&amp;sortspec=date&amp;submit=Submit">Vivi M. Heine</a></span><a id="xref-aff-5-2" class="xref-aff" href="#aff-5">5</a><span class="xref-sep">,</span><a id="xref-aff-10-1" class="xref-aff" href="#aff-10">10</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-15" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Pieter+Wesseling&amp;sortspec=date&amp;submit=Submit">Pieter Wesseling</a></span><a id="xref-aff-3-5" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-11-1" class="xref-aff" href="#aff-11">11</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-16" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=David+P.+Noske&amp;sortspec=date&amp;submit=Submit">David P. Noske</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-4" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-17" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=W.+Peter+Vandertop&amp;sortspec=date&amp;submit=Submit">W. Peter Vandertop</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-5" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-18" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Daphne+de+Jong&amp;sortspec=date&amp;submit=Submit">Daphne de Jong</a></span><a id="xref-aff-3-6" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-19" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=D.+Michiel+Pegtel&amp;sortspec=date&amp;submit=Submit">D. Michiel Pegtel</a></span><a id="xref-aff-3-7" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-20" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Michael+Hackenberg&amp;sortspec=date&amp;submit=Submit">Michael Hackenberg</a></span><a id="xref-aff-4-3" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-21" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Tom+Wurdinger&amp;sortspec=date&amp;submit=Submit">Tom Wurdinger</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-6" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-22" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Alan+Gerber&amp;sortspec=date&amp;submit=Submit">Alan Gerber</a></span><a id="xref-aff-1-7" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-7" class="xref-aff" href="#aff-2">2</a> and 
+                     </li>
+                     <li class="last" id="contrib-23"><span class="name"><a class="name-search"
+                              href="/search?author1=Danijela+Koppers-Lalic&amp;sortspec=date&amp;submit=Submit">Danijela Koppers-Lalic</a></span><a id="xref-aff-1-8" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-8" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">12</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Neurosurgery, Cancer Center Amsterdam, Amsterdam University Medical Center (UMC) location Vrije Universiteit
+                           Amsterdam, 1081 HV Amsterdam, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Brain Tumor Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Department of Pathology, Cancer Center Amsterdam, Amsterdam UMC location Vrije Universiteit Amsterdam, 1081 HV Amsterdam,
+                           the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Genetics Department, Faculty of Science, University of Granada, 18071 Granada, Spain;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Department of Child and Adolescent Psychiatry, Emma Children's Hospital, Amsterdam UMC, Neuroscience, Vrije Universiteit Amsterdam,
+                           1081 HV Amsterdam, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Department of Hematology, Medical Center Leeuwarden, 8934 AD Leeuwarden, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address><sup>7</sup>HemoBase Population Registry Consortium, 8934 AD Leeuwarden, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address><sup>8</sup>Department of (Neuro)Pathology Amsterdam Neuroscience, Amsterdam UMC location University of Amsterdam, 1105 AZ Amsterdam,
+                           the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-9" name="aff-9"></a><address><sup>9</sup>Department of Pathology, Pathology Friesland, 8917 EN Leeuwarden, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-10" name="aff-10"></a><address><sup>10</sup>Department of Complex Trait Genetics, Center for Neurogenomics and Cognitive Research, Amsterdam Neuroscience, Vrije Universiteit
+                           Amsterdam, 1081 HV Amsterdam, the Netherlands;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-11" name="aff-11"></a><address><sup>11</sup>Laboratory for Childhood Cancer Pathology, Princess Máxima Center for Pediatric Oncology, University Medical Center Utrecht,
+                           3584 CS Utrecht, the Netherlands
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">c.scheepbouwer{at}amsterdamumc.nl</span></span>, <span class="em-link"><span class="em-addr">d.koppers{at}math.leidenuniv.nl</span></span></li>
+                  </ol>
+                  <ul class="author-notes">
+                     <li class="fn-present-address" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">12</span> Present address: Applied Statistics Research Group, Mathematical Institute, Leiden University, 2333 CA Leiden, the Netherlands.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <div class="section abstract" id="abstract-2">
+                  <h2>Abstract</h2>
+                  <p id="p-4">Transfer RNAs (tRNAs) are small adaptor RNAs essential for mRNA translation. Alterations in the cellular tRNA population can
+                     directly affect mRNA decoding rates and translational efficiency during cancer development and progression. To evaluate changes
+                     in the composition of the tRNA pool, multiple sequencing approaches have been developed to overcome reverse transcription
+                     blocks caused by the stable structures of these molecules and their numerous base modifications. However, it remains unclear
+                     whether current sequencing protocols faithfully capture tRNAs existing in cells or tissues. This is specifically challenging
+                     for clinical tissue samples that often present variable RNA qualities. For this reason, we developed ALL-tRNAseq, which combines
+                     the highly processive MarathonRT and RNA demethylation for the robust assessment of tRNA expression, together with a randomized
+                     adapter ligation strategy prior to reverse transcription to assess tRNA fragmentation levels in both cell lines and tissues.
+                     Incorporation of tRNA fragments not only informed on sample integrity but also significantly improved tRNA profiling of tissue
+                     samples. Our data showed that our profiling strategy effectively improves classification of oncogenic signatures in glioblastoma
+                     and diffuse large B-cell lymphoma tissues, particularly for samples presenting higher levels of RNA fragmentation, further
+                     highlighting the utility of ALL-tRNAseq for translational research.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=cancer&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">cancer</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=high-throughput%20sequencing&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">high-throughput sequencing</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=tissue%20samples&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">tissue samples</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=transfer%20RNA&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">transfer RNA</a></span></li>
+               </ul>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-46">Supplemental material is available for this article.</p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-47">Article published online ahead of print. Article and publication date are online at <a href="http://www.genesdev.org/cgi/doi/10.1101/gad.350233.122">http://www.genesdev.org/cgi/doi/10.1101/gad.350233.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-10-31"><span class="received-label">Received </span>October 31, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2023-01-26"><span class="accepted-label">Accepted </span>January 26, 2023.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="/site/misc/terms.xhtml">© 2023 Scheepbouwer et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue
+                     publication date (see <a rel="license" href="/site/misc/terms.xhtml">http://genesdev.cshlp.org/site/misc/terms.xhtml</a>). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/37/5-6/218.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/37/1-2/1.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/37/5-6.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">February 21, 2023</span>,
+                                 doi:
+                                 <span title="10.1101/gad.350233.122" class="slug-doi">10.1101/gad.350233.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Genes &amp; Development" class="slug-jnl-abbrev">
+                                    Genes &amp; Dev.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    37: 
+                                    </span><span class="slug-pages">
+                                    243-257
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Scheepbouwer et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/37/5-6/243.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/37/5-6/243.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/37/5-6/243/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2023/02/20/gad.350233.122">gad.350233.122v1</a></li>
+                                 <li class="current-li"><span>37/5-6/243</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESOURCE/METHODOLOGY&amp;sortspec=date&amp;submit=Submit">RESOURCE/METHODOLOGY</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genesdev%3B37%2F5-6%2F243&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/37/5-6/243.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=37/5-6/243&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/37/5-6/243.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genesdev%3Bgad.350233.122&amp;citation=Scheepbouwer%20et%20al.%2037%20%285-6%29:%20243&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genesdev%3B37%2F5-6%2F243&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=36810209&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genesdev%3B37%2F5-6%2F243">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/37/5-6/243.abstract?cited-by=yes&amp;legid=genesdev;37/5-6/243#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenesdev%2F37%2F5-6%2F243&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AScheepbouwer%20author%3AC.%22">Articles by  Scheepbouwer, C.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AKoppers-Lalic%20author%3AD.%22">Articles by  Koppers-Lalic, D.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36810209&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Scheepbouwer%20C&amp;link_type=AUTHORSEARCH">Articles by  Scheepbouwer, C.</a></li>
+                        <li><a href="/external-ref?access_num=Koppers-Lalic%20D&amp;link_type=AUTHORSEARCH">Articles by  Koppers-Lalic, D.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36810209"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Scheepbouwer, C.<a class="orcid-link" href="http://orcid.org/0000-0003-4243-0095">http://orcid.org/0000-0003-4243-0095</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Aparicio-Puerta, E.<a class="orcid-link" href="http://orcid.org/0000-0002-3470-1425">http://orcid.org/0000-0002-3470-1425</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Gomez-Martin, C.<a class="orcid-link" href="http://orcid.org/0000-0003-0866-4103">http://orcid.org/0000-0003-0866-4103</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Giannoukakos, S.<a class="orcid-link" href="http://orcid.org/0000-0001-8190-4199">http://orcid.org/0000-0001-8190-4199</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for van der Galien, H. T.<a class="orcid-link" href="http://orcid.org/0000-0003-4940-3321">http://orcid.org/0000-0003-4940-3321</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Aronica, E.<a class="orcid-link" href="http://orcid.org/0000-0002-3542-3770">http://orcid.org/0000-0002-3542-3770</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Heine, V. M.<a class="orcid-link" href="http://orcid.org/0000-0003-4416-3875">http://orcid.org/0000-0003-4416-3875</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Noske, D. P.<a class="orcid-link" href="http://orcid.org/0000-0001-5992-4468">http://orcid.org/0000-0001-5992-4468</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Vandertop, W. P.<a class="orcid-link" href="http://orcid.org/0000-0001-5417-0265">http://orcid.org/0000-0001-5417-0265</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Hackenberg, M.<a class="orcid-link" href="http://orcid.org/0000-0003-2248-3114">http://orcid.org/0000-0003-2248-3114</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Wurdinger, T.<a class="orcid-link" href="http://orcid.org/0000-0001-9849-9011">http://orcid.org/0000-0001-9849-9011</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Gerber, A.<a class="orcid-link" href="http://orcid.org/0000-0003-3909-3606">http://orcid.org/0000-0003-3909-3606</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Koppers-Lalic, D.<a class="orcid-link" href="http://orcid.org/0000-0002-1050-7521">http://orcid.org/0000-0002-1050-7521</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genesdev%3B37%2F5-6%2F243&amp;current-view-path=/content/37/5-6/243.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/243&amp;title=ALL-tRNAseq%20enables%20robust%20tRNA%20profiling%20in%20tissue%20samples+--+Scheepbouwer%20et%20al.%2037%20%285-6%29%3A%20243+--+GAD&amp;doi=10.1101/gad.350233.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-open" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>G&amp;D Most Read</span>
+                        
+                     </h4>
+                     <script type="text/javascript"
+                             src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gd"></script>
+                     <p style="padding-top:0;margin-top:0;margin-bottom:10px;text-align:right;">
+                        <a href="/site/misc/top_ten.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div style="margin-top:20px;margin-bottom:20px;">
+               <a data-widget-id="364429657619189760" href="https://twitter.com/genesdev"
+                  class="twitter-timeline"
+                  style="font-size:10px;">Tweets by @genesdev</a>
+               <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+               <div id="twitter-feed"></div>
+               <a href="https://twitter.com/genesdev" rel="external-nw"
+                  style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                  <img src="/site/misc/images/twitteruslg.gif" alt="follow us on twitter"
+                       title="Twitter" />
+                  </a>
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 1, 2023, 37 (5-6)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/37/5-6.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In This Issue</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/37/5-6/191">Localization of KIF1C to protrusions in nonneuronal cells and cell migration</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/218">Pioneer factor control of human neural stem cell differentiation</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/171">Mechanisms of adaptation to aneuploidy</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of G&amp;D</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genesdev.org" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/press_releases.xhtml" title="G&amp;D in the News"><span>G&amp;D in the News</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/careertracks.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57140&amp;adclick=true&amp;url=https%3A%2F%2Fwww.origene.com%2Fproducts%2Fcdna-clones%2Ftrueorf-gold"
+                     target="_blank"><img class="adborder0" title="Origene"
+                          src="//genesdev.cshlp.org/adsystem/graphics/8140735297908749/genesdev/Untitled%20design%20%2812%29.png?ad=57140&amp;adview=true"
+                          alt="Origene" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.life-science-alliance.org/?v=genes_and_development">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_lib.js"></script>
+               <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_gd.js"></script>
+               </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.genesdev.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">0890-9369</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5477</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-1");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

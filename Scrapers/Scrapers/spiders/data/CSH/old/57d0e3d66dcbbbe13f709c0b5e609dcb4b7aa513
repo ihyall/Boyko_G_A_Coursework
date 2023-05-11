@@ -1,0 +1,846 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Marker-free characterization of full-length transcriptomes of single live circulating tumor cells </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all organisms" />
+      <meta content="/genome/33/1/80.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Marker-free characterization of full-length transcriptomes of single live circulating tumor cells"
+            name="DC.Title" />
+      <meta content="10.1101/gr.276600.122" name="DC.Identifier" />
+      <meta content="2023-01-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Sarita Poonia" name="DC.Contributor" />
+      <meta content="Anurag Goel" name="DC.Contributor" />
+      <meta content="Smriti Chawla" name="DC.Contributor" />
+      <meta content="Namrata Bhattacharya" name="DC.Contributor" />
+      <meta content="Priyadarshini Rai" name="DC.Contributor" />
+      <meta content="Yi Fang Lee" name="DC.Contributor" />
+      <meta content="Yoon Sim Yap" name="DC.Contributor" />
+      <meta content="Jay West" name="DC.Contributor" />
+      <meta content="Ali Asgar Bhagat" name="DC.Contributor" />
+      <meta content="Juhi Tayal" name="DC.Contributor" />
+      <meta content="Anurag Mehta" name="DC.Contributor" />
+      <meta content="Gaurav Ahuja" name="DC.Contributor" />
+      <meta content="Angshul Majumdar" name="DC.Contributor" />
+      <meta content="Naveen Ramalingam" name="DC.Contributor" />
+      <meta content="Debarka Sengupta" name="DC.Contributor" />
+      <meta content="Genome Research" name="citation_journal_title" />
+      <meta content="Genome Res." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1088-9051" name="citation_issn" />
+      <meta content="1549-5469" name="citation_issn" />
+      <meta name="citation_author" content="Sarita Poonia" />
+      <meta name="citation_author_institution"
+            content="1Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author" content="Anurag Goel" />
+      <meta name="citation_author_orcid" content="0000-0003-2660-7540" />
+      <meta name="citation_author_institution"
+            content="2Department of Computer Science and Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author_institution"
+            content="3Department of Computer Science and Engineering, Delhi Technological University, New Delhi 110042, India;" />
+      <meta name="citation_author" content="Smriti Chawla" />
+      <meta name="citation_author_institution"
+            content="1Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author" content="Namrata Bhattacharya" />
+      <meta name="citation_author_institution"
+            content="2Department of Computer Science and Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author" content="Priyadarshini Rai" />
+      <meta name="citation_author_institution"
+            content="1Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author" content="Yi Fang Lee" />
+      <meta name="citation_author_institution"
+            content="4Biolidics Limited, Singapore 118257, Singapore;" />
+      <meta name="citation_author" content="Yoon Sim Yap" />
+      <meta name="citation_author_institution"
+            content="5National Cancer Centre Singapore, Singapore 169610, Singapore;" />
+      <meta name="citation_author" content="Jay West" />
+      <meta name="citation_author_institution"
+            content="6Fluidigm Corporation, South San Francisco, California 94080, USA;" />
+      <meta name="citation_author" content="Ali Asgar Bhagat" />
+      <meta name="citation_author_institution"
+            content="4Biolidics Limited, Singapore 118257, Singapore;" />
+      <meta name="citation_author" content="Juhi Tayal" />
+      <meta name="citation_author_institution"
+            content="7Department of Research, Rajiv Gandhi Cancer Institute and Research Centre-Delhi (RGCIRC-Delhi), New Delhi 110085, India;" />
+      <meta name="citation_author" content="Anurag Mehta" />
+      <meta name="citation_author_institution"
+            content="8Department of Laboratory Services and Molecular Diagnostics, Rajiv Gandhi Cancer Institute and Research Centre-Delhi (RGCIRC-Delhi), New Delhi 110085, India;" />
+      <meta name="citation_author" content="Gaurav Ahuja" />
+      <meta name="citation_author_orcid" content="0000-0002-2837-9361" />
+      <meta name="citation_author_institution"
+            content="1Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author" content="Angshul Majumdar" />
+      <meta name="citation_author_institution"
+            content="2Department of Computer Science and Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author_institution"
+            content="9Centre for Artificial Intelligence, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author_institution"
+            content="10Department of Electronics &amp; Communications Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India" />
+      <meta name="citation_author" content="Naveen Ramalingam" />
+      <meta name="citation_author_institution"
+            content="6Fluidigm Corporation, South San Francisco, California 94080, USA;" />
+      <meta name="citation_author" content="Debarka Sengupta" />
+      <meta name="citation_author_orcid" content="0000-0002-6353-5411" />
+      <meta name="citation_author_institution"
+            content="1Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author_institution"
+            content="2Department of Computer Science and Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta name="citation_author_institution"
+            content="9Centre for Artificial Intelligence, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020, India;" />
+      <meta content="Marker-free characterization of full-length transcriptomes of single live circulating tumor cells"
+            name="citation_title" />
+      <meta content="01/01/2023" name="citation_date" />
+      <meta content="33" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="80" name="citation_firstpage" />
+      <meta content="95" name="citation_lastpage" />
+      <meta content="33/1/80" name="citation_id" />
+      <meta content="33/1/80" name="citation_id_from_sass_path" />
+      <meta content="genome;33/1/80" name="citation_mjid" />
+      <meta content="10.1101/gr.276600.122" name="citation_doi" />
+      <meta content="https://genome.cshlp.org/content/33/1/80.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="https://genome.cshlp.org/content/33/1/80.full"
+            name="citation_fulltext_html_url" />
+      <meta content="https://genome.cshlp.org/content/33/1/80.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/33/1.cover.gif" name="issue_cover_image" />
+      <meta content="https://genome.cshlp.org/content/33/1/80" name="citation_public_url" />
+      <meta content="36414416" name="citation_pmid" />
+      <meta name="citation_section" content="Method" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/33/1/71.short" rel="prev" />
+      <link href="/content/33/1/96.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d7271914e1">var callbackToken='56739E403523E64';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genome Research" alt="Genome Research" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.genome.org/" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genome Research" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57185&amp;adclick=true&amp;url=https%3A%2F%2Flabs.epigendx.com%2Fproducts%2Fmethylation-assay-panels%2Ffoxp3-panel%2F"
+                        target="_blank"><img class="adborder0" title="EpigenDx"
+                             src="//genome.cshlp.org/adsystem/graphics/41221274126853824/genome/line1_foxp3_methylation_wList--468x60_v1.jpg?ad=57185&amp;adview=true"
+                             alt="EpigenDx" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Marker-free characterization of full-length transcriptomes of single live circulating tumor cells</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sarita+Poonia&amp;sortspec=date&amp;submit=Submit">Sarita Poonia</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Anurag+Goel&amp;sortspec=date&amp;submit=Submit">Anurag Goel</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Smriti+Chawla&amp;sortspec=date&amp;submit=Submit">Smriti Chawla</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Namrata+Bhattacharya&amp;sortspec=date&amp;submit=Submit">Namrata Bhattacharya</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Priyadarshini+Rai&amp;sortspec=date&amp;submit=Submit">Priyadarshini Rai</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Yi+Fang+Lee&amp;sortspec=date&amp;submit=Submit">Yi Fang Lee</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">11</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Yoon+Sim+Yap&amp;sortspec=date&amp;submit=Submit">Yoon Sim Yap</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search" href="/search?author1=Jay+West&amp;sortspec=date&amp;submit=Submit">Jay West</a></span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a><span class="xref-sep">,</span><a id="xref-fn-1-2" class="xref-fn" href="#fn-1">12</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ali+Asgar+Bhagat&amp;sortspec=date&amp;submit=Submit">Ali Asgar Bhagat</a></span><a id="xref-aff-4-2" class="xref-aff" href="#aff-4">4</a><span class="xref-sep">,</span><a id="xref-fn-1-3" class="xref-fn" href="#fn-1">13</a><span class="xref-sep">,</span><a id="xref-fn-1-4" class="xref-fn" href="#fn-1">14</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Juhi+Tayal&amp;sortspec=date&amp;submit=Submit">Juhi Tayal</a></span><a id="xref-aff-7-1" class="xref-aff" href="#aff-7">7</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Anurag+Mehta&amp;sortspec=date&amp;submit=Submit">Anurag Mehta</a></span><a id="xref-aff-8-1" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Gaurav+Ahuja&amp;sortspec=date&amp;submit=Submit">Gaurav Ahuja</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Angshul+Majumdar&amp;sortspec=date&amp;submit=Submit">Angshul Majumdar</a></span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-9-1" class="xref-aff" href="#aff-9">9</a><span class="xref-sep">,</span><a id="xref-aff-10-1" class="xref-aff" href="#aff-10">10</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Naveen+Ramalingam&amp;sortspec=date&amp;submit=Submit">Naveen Ramalingam</a></span><a id="xref-aff-6-2" class="xref-aff" href="#aff-6">6</a> and 
+                     </li>
+                     <li class="last" id="contrib-15"><span class="name"><a class="name-search"
+                              href="/search?author1=Debarka+Sengupta&amp;sortspec=date&amp;submit=Submit">Debarka Sengupta</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-4" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-9-2" class="xref-aff" href="#aff-9">9</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Computational Biology, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020,
+                           India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Computer Science and Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi
+                           110020, India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Department of Computer Science and Engineering, Delhi Technological University, New Delhi 110042, India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Biolidics Limited, Singapore 118257, Singapore;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>National Cancer Centre Singapore, Singapore 169610, Singapore;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Fluidigm Corporation, South San Francisco, California 94080, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address><sup>7</sup>Department of Research, Rajiv Gandhi Cancer Institute and Research Centre-Delhi (RGCIRC-Delhi), New Delhi 110085, India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address><sup>8</sup>Department of Laboratory Services and Molecular Diagnostics, Rajiv Gandhi Cancer Institute and Research Centre-Delhi (RGCIRC-Delhi),
+                           New Delhi 110085, India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-9" name="aff-9"></a><address><sup>9</sup>Centre for Artificial Intelligence, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi), New Delhi 110020,
+                           India;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-10" name="aff-10"></a><address><sup>10</sup>Department of Electronics &amp; Communications Engineering, Indraprastha Institute of Information Technology-Delhi (IIIT-Delhi),
+                           New Delhi 110020, India
+                        </address>
+                     </li>
+                  </ol>
+                  <ul class="author-notes">
+                     <li class="fn-present-address" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a>Present addresses: <sup>11</sup>Thermo Fisher Scientific, Singapore 739256, Singapore; <sup>12</sup>BioSkryb Corporation, Durham, NC 27701, USA; <sup>13</sup>Department of Biomedical Engineering, Faculty of Engineering, National University of Singapore, Singapore 117575, Singapore;
+                           <sup>14</sup>Institute for Health Innovation and Technology (iHealthtech), National University of Singapore, Singapore 117599, Singapore
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">debarka{at}iiitd.ac.in</span></span>, <span class="em-link"><span class="em-addr">naveen.ramalingam{at}fluidigm.com</span></span>, <span class="em-link"><span class="em-addr">angshul{at}iiitd.ac.in</span></span></li>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">The identification and characterization of circulating tumor cells (CTCs) are important for gaining insights into the biology
+                     of metastatic cancers, monitoring disease progression, and medical management of the disease. The limiting factor in the enrichment
+                     of purified CTC populations is their sparse availability, heterogeneity, and altered phenotypes relative to the primary tumor.
+                     Intensive research both at the technical and molecular fronts led to the development of assays that ease CTC detection and
+                     identification from peripheral blood. Most CTC detection methods based on single-cell RNA sequencing (scRNA-seq) use a mix
+                     of size selection, marker-based white blood cell (WBC) depletion, and antibodies targeting tumor-associated antigens. However,
+                     the majority of these methods either miss out on atypical CTCs or suffer from WBC contamination. We present unCTC, an R package
+                     for unbiased identification and characterization of CTCs from single-cell transcriptomic data. unCTC features many standard
+                     and novel computational and statistical modules for various analyses. These include a novel method of scRNA-seq clustering,
+                     named deep dictionary learning using <em>k</em>-means clustering cost (DDLK), expression-based copy number variation (CNV) inference, and combinatorial, marker-based verification
+                     of the malignant phenotypes. DDLK enables robust segregation of CTCs and WBCs in the pathway space, as opposed to the gene
+                     expression space. We validated the utility of unCTC on scRNA-seq profiles of breast CTCs from six patients, captured and profiled
+                     using an integrated ClearCell FX and Polaris workflow that works by the principles of size-based separation of CTCs and marker-based
+                     WBC depletion.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-71">[Supplemental material is available for this article.]</p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-72">Article published online before print. Article, supplemental material, and publication date are at <a href="https://www.genome.org/cgi/doi/10.1101/gr.276600.122">https://www.genome.org/cgi/doi/10.1101/gr.276600.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-01-16"><span class="received-label">Received </span>January 16, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-11-10"><span class="accepted-label">Accepted </span>November 10, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="/site/misc/terms.xhtml">© 2023 Poonia et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue
+                     publication date (see <a href="https://genome.cshlp.org/site/misc/terms.xhtml" rel="license">https://genome.cshlp.org/site/misc/terms.xhtml</a>). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/33/1/71.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/33/1/96.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/33/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">November 22, 2022</span>,
+                                 doi:
+                                 <span title="10.1101/gr.276600.122" class="slug-doi">10.1101/gr.276600.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Genome Research" class="slug-jnl-abbrev">
+                                    Genome Res.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    33: 
+                                    </span><span class="slug-pages">
+                                    80-95
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://genome.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://genome.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Poonia et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/33/1/80.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/33/1/80.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/33/1/80/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2022/11/22/gr.276600.122">gr.276600.122v1</a></li>
+                                 <li><a href="/content/early/2023/01/17/gr.276600.122">gr.276600.122v2</a></li>
+                                 <li class="current-li"><span>33/1/80</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Method&amp;sortspec=date&amp;submit=Submit">Method</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genome%3B33%2F1%2F80&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/33/1/80.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=33/1/80&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/33/1/80.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genome%3Bgr.276600.122&amp;citation=Poonia%20et%20al.%2033%20%281%29:%2080&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genome%3B33%2F1%2F80&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=genome;33/1/80" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=36414416&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genome%3B33%2F1%2F80">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              		Permissions 
+                              	    </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/33/1/80.abstract?cited-by=yes&amp;legid=genome;33/1/80#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenome%2F33%2F1%2F80&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3APoonia%20author%3AS.%22">Articles by  Poonia, S.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ASengupta%20author%3AD.%22">Articles by  Sengupta, D.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36414416&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Poonia%20S&amp;link_type=AUTHORSEARCH">Articles by  Poonia, S.</a></li>
+                        <li><a href="/external-ref?access_num=Sengupta%20D&amp;link_type=AUTHORSEARCH">Articles by  Sengupta, D.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36414416"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Goel, A.<a class="orcid-link" href="http://orcid.org/0000-0003-2660-7540">http://orcid.org/0000-0003-2660-7540</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Ahuja, G.<a class="orcid-link" href="http://orcid.org/0000-0002-2837-9361">http://orcid.org/0000-0002-2837-9361</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Sengupta, D.<a class="orcid-link" href="http://orcid.org/0000-0002-6353-5411">http://orcid.org/0000-0002-6353-5411</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genome%3B33%2F1%2F80&amp;current-view-path=/content/33/1/80.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/33/1/80&amp;title=Marker-free%20characterization%20of%20full-length%20transcriptomes%20of%20single%20live%20circulating%20tumor%20cells+--+Poonia%20et%20al.%2033%20%281%29%3A%2080+--+GENOME&amp;doi=10.1101/gr.276600.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="art-history-pane">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Preprint Server</span>
+                        
+                     </h4>
+                     
+                     <div id="art-history"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section" id="cb-art-fbr">
+                      
+                  </div>
+                  
+                  <div class="cb-section" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Recent Updates</span>
+                        
+                     </h4>
+                     <a href="http://twitter.com/genomeresearch" rel="external-nw"
+                        style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                        <img src="/site/misc/images/twitterus.gif" alt="follow us on twitter"
+                             title="Twitter" />
+                        </a>
+                     <a data-widget-id="364429657619189760" href="https://twitter.com/genomeresearch"
+                        class="twitter-timeline"
+                        style="font-size:10px;">Tweets by @genomeresearch</a>
+                     <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                     <div id="twitter-feed"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Most Read Articles</span>
+                        
+                     </h4>
+                     <script src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gr"
+                             type="text/javascript"></script>
+                     <p style="padding-top:0;margin-top:0;text-align:right;">
+                        <a href="/site/misc/top.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="col-2-widget-placeholder">
+               <br />
+               <br />
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 33 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/33/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/33/3/435">Splicing-associated tandem repeats in humans</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/299">SARS-CoV-2 infection and RNA methylation loss</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/314">
+                                 <em>Twist2</em> regulates adipogenesis</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/346">Enhancers display constrained sequence flexibility</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/site/cl/CL_33_3_spa_seq.xhtml">Spatial metatranscriptome and strand-specific RNA sequencing</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Genome Research
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genome.org/" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/press/Announcements.xhtml" title="GR in the News "><span>GR in the News </span></a></li>
+                  <li><a href="/site/misc/about.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/permissions_landing.xhtml" title="Permissions"><span>Permissions</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=56858&amp;adclick=true&amp;url=https%3A%2F%2Fwww.pacb.com%2F%3Futm_source%3DAdvertising%26utm_medium%3Dbanner%26utm_term%3DGR-Suite1%26utm_content%3DGenomeResearchTowerAd%26utm_campaign%3D2022-Product-Launch"
+                     target="_blank"><img class="adborder0" title="PacBio"
+                          src="//genome.cshlp.org/adsystem/graphics/5129881788040435/genome/Game-changed-PacBio-suite-160x800.png?ad=56858&amp;adview=true"
+                          alt="PacBio" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="http://www.life-science-alliance.org/?v=genome_research">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.genome.org/" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1088-9051</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5469</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-2");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

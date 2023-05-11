@@ -1,0 +1,721 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>An integrated YAC map of the human X chromosome. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all organisms" />
+      <meta content="/genome/6/10/943.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="An integrated YAC map of the human X chromosome." name="DC.Title" />
+      <meta content="10.1101/gr.6.10.943" name="DC.Identifier" />
+      <meta content="1996-10-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="H Roest Crollius" name="DC.Contributor" />
+      <meta content="M T Ross" name="DC.Contributor" />
+      <meta content="A Grigoriev" name="DC.Contributor" />
+      <meta content="C J Knights" name="DC.Contributor" />
+      <meta content="E Holloway" name="DC.Contributor" />
+      <meta content="J Misfud" name="DC.Contributor" />
+      <meta content="K Li" name="DC.Contributor" />
+      <meta content="M Playford" name="DC.Contributor" />
+      <meta content="S G Gregory" name="DC.Contributor" />
+      <meta content="S J Humphray" name="DC.Contributor" />
+      <meta content="A J Coffey" name="DC.Contributor" />
+      <meta content="C G See" name="DC.Contributor" />
+      <meta content="S Marsh" name="DC.Contributor" />
+      <meta content="R Vatcheva" name="DC.Contributor" />
+      <meta content="J Kumlien" name="DC.Contributor" />
+      <meta content="T Labella" name="DC.Contributor" />
+      <meta content="V Lam" name="DC.Contributor" />
+      <meta content="K H Rak" name="DC.Contributor" />
+      <meta content="K Todd" name="DC.Contributor" />
+      <meta content="R Mott" name="DC.Contributor" />
+      <meta content="D Graeser" name="DC.Contributor" />
+      <meta content="G Rappold" name="DC.Contributor" />
+      <meta content="G Zehetner" name="DC.Contributor" />
+      <meta content="A Poustka" name="DC.Contributor" />
+      <meta content="H Lehrach" name="DC.Contributor" />
+      <meta content="Genome Research" name="citation_journal_title" />
+      <meta content="Genome Res." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1088-9051" name="citation_issn" />
+      <meta content="1549-5469" name="citation_issn" />
+      <meta name="citation_author" content="H Roest Crollius" />
+      <meta name="citation_author" content="M T Ross" />
+      <meta name="citation_author" content="A Grigoriev" />
+      <meta name="citation_author" content="C J Knights" />
+      <meta name="citation_author" content="E Holloway" />
+      <meta name="citation_author" content="J Misfud" />
+      <meta name="citation_author" content="K Li" />
+      <meta name="citation_author" content="M Playford" />
+      <meta name="citation_author" content="S G Gregory" />
+      <meta name="citation_author" content="S J Humphray" />
+      <meta name="citation_author" content="A J Coffey" />
+      <meta name="citation_author" content="C G See" />
+      <meta name="citation_author" content="S Marsh" />
+      <meta name="citation_author" content="R Vatcheva" />
+      <meta name="citation_author" content="J Kumlien" />
+      <meta name="citation_author" content="T Labella" />
+      <meta name="citation_author" content="V Lam" />
+      <meta name="citation_author" content="K H Rak" />
+      <meta name="citation_author" content="K Todd" />
+      <meta name="citation_author" content="R Mott" />
+      <meta name="citation_author" content="D Graeser" />
+      <meta name="citation_author" content="G Rappold" />
+      <meta name="citation_author" content="G Zehetner" />
+      <meta name="citation_author" content="A Poustka" />
+      <meta name="citation_author" content="H Lehrach" />
+      <meta content="An integrated YAC map of the human X chromosome."
+            name="citation_title" />
+      <meta content="10/01/1996" name="citation_date" />
+      <meta content="6" name="citation_volume" />
+      <meta content="10" name="citation_issue" />
+      <meta content="943" name="citation_firstpage" />
+      <meta content="955" name="citation_lastpage" />
+      <meta content="6/10/943" name="citation_id" />
+      <meta content="6/10/943" name="citation_id_from_sass_path" />
+      <meta content="genome;6/10/943" name="citation_mjid" />
+      <meta content="10.1101/gr.6.10.943" name="citation_doi" />
+      <meta content="https://genome.cshlp.org/content/6/10/943.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="https://genome.cshlp.org/content/6/10/943.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/6/10.cover.gif" name="issue_cover_image" />
+      <meta content="https://genome.cshlp.org/content/6/10/943" name="citation_public_url" />
+      <meta content="8908513" name="citation_pmid" />
+      <meta name="citation_section" content="ARTICLES" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/6/10/935.short" rel="prev" />
+      <link href="/content/6/10/956.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d7320256e1">var callbackToken='56739E403523E64';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genome Research" alt="Genome Research" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.genome.org/" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genome Research" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57083&amp;adclick=true&amp;url=https%3A%2F%2Fwww.gencove.com%2F"
+                        target="_blank"><img class="adborder0" title="Gencove"
+                             src="//genome.cshlp.org/adsystem/graphics/3731825993842979/genome/gencove-ad-468x60.gif?ad=57083&amp;adview=true"
+                             alt="Gencove" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">An integrated YAC map of the human X chromosome.</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=H+Roest+Crollius&amp;sortspec=date&amp;submit=Submit">H Roest Crollius</a></span>, 
+                     </li>
+                     <li id="contrib-2"><span class="name"><a class="name-search" href="/search?author1=M+T+Ross&amp;sortspec=date&amp;submit=Submit">M T Ross</a></span>, 
+                     </li>
+                     <li id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=A+Grigoriev&amp;sortspec=date&amp;submit=Submit">A Grigoriev</a></span>, 
+                     </li>
+                     <li id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=C+J+Knights&amp;sortspec=date&amp;submit=Submit">C J Knights</a></span>, 
+                     </li>
+                     <li id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=E+Holloway&amp;sortspec=date&amp;submit=Submit">E Holloway</a></span>, 
+                     </li>
+                     <li id="contrib-6"><span class="name"><a class="name-search" href="/search?author1=J+Misfud&amp;sortspec=date&amp;submit=Submit">J Misfud</a></span>, 
+                     </li>
+                     <li id="contrib-7"><span class="name"><a class="name-search" href="/search?author1=K+Li&amp;sortspec=date&amp;submit=Submit">K Li</a></span>, 
+                     </li>
+                     <li id="contrib-8"><span class="name"><a class="name-search"
+                              href="/search?author1=M+Playford&amp;sortspec=date&amp;submit=Submit">M Playford</a></span>, 
+                     </li>
+                     <li id="contrib-9"><span class="name"><a class="name-search"
+                              href="/search?author1=S+G+Gregory&amp;sortspec=date&amp;submit=Submit">S G Gregory</a></span>, 
+                     </li>
+                     <li id="contrib-10"><span class="name"><a class="name-search"
+                              href="/search?author1=S+J+Humphray&amp;sortspec=date&amp;submit=Submit">S J Humphray</a></span>, 
+                     </li>
+                     <li id="contrib-11"><span class="name"><a class="name-search"
+                              href="/search?author1=A+J+Coffey&amp;sortspec=date&amp;submit=Submit">A J Coffey</a></span>, 
+                     </li>
+                     <li id="contrib-12"><span class="name"><a class="name-search" href="/search?author1=C+G+See&amp;sortspec=date&amp;submit=Submit">C G See</a></span>, 
+                     </li>
+                     <li id="contrib-13"><span class="name"><a class="name-search" href="/search?author1=S+Marsh&amp;sortspec=date&amp;submit=Submit">S Marsh</a></span>, 
+                     </li>
+                     <li id="contrib-14"><span class="name"><a class="name-search"
+                              href="/search?author1=R+Vatcheva&amp;sortspec=date&amp;submit=Submit">R Vatcheva</a></span>, 
+                     </li>
+                     <li id="contrib-15"><span class="name"><a class="name-search"
+                              href="/search?author1=J+Kumlien&amp;sortspec=date&amp;submit=Submit">J Kumlien</a></span>, 
+                     </li>
+                     <li id="contrib-16"><span class="name"><a class="name-search"
+                              href="/search?author1=T+Labella&amp;sortspec=date&amp;submit=Submit">T Labella</a></span>, 
+                     </li>
+                     <li id="contrib-17"><span class="name"><a class="name-search" href="/search?author1=V+Lam&amp;sortspec=date&amp;submit=Submit">V Lam</a></span>, 
+                     </li>
+                     <li id="contrib-18"><span class="name"><a class="name-search" href="/search?author1=K+H+Rak&amp;sortspec=date&amp;submit=Submit">K H Rak</a></span>, 
+                     </li>
+                     <li id="contrib-19"><span class="name"><a class="name-search" href="/search?author1=K+Todd&amp;sortspec=date&amp;submit=Submit">K Todd</a></span>, 
+                     </li>
+                     <li id="contrib-20"><span class="name"><a class="name-search" href="/search?author1=R+Mott&amp;sortspec=date&amp;submit=Submit">R Mott</a></span>, 
+                     </li>
+                     <li id="contrib-21"><span class="name"><a class="name-search"
+                              href="/search?author1=D+Graeser&amp;sortspec=date&amp;submit=Submit">D Graeser</a></span>, 
+                     </li>
+                     <li id="contrib-22"><span class="name"><a class="name-search"
+                              href="/search?author1=G+Rappold&amp;sortspec=date&amp;submit=Submit">G Rappold</a></span>, 
+                     </li>
+                     <li id="contrib-23"><span class="name"><a class="name-search"
+                              href="/search?author1=G+Zehetner&amp;sortspec=date&amp;submit=Submit">G Zehetner</a></span>, 
+                     </li>
+                     <li id="contrib-24"><span class="name"><a class="name-search"
+                              href="/search?author1=A+Poustka&amp;sortspec=date&amp;submit=Submit">A Poustka</a></span>,  and 
+                     </li>
+                     <li id="contrib-25"><span class="name"><a class="name-search"
+                              href="/search?author1=H+Lehrach&amp;sortspec=date&amp;submit=Submit">H Lehrach</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Max-Planck-Institut für Molekulare Genetik, Berlin, Germany. roest@mpimg-berlin-dahlem.mpg.de</address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-1">The human X chromosome is associated with a large number of disease phenotypes, principally because of its unique mode of
+                     inheritance that tends to reveal all recessive disorders in males. With the longer term goal of identifying and characterizing
+                     most of these genes, we have adopted a chromosome-wide strategy to establish a YAC contig map. We have performed &gt; 3250 inter
+                     Alu-PCR product hybridizations to identify overlaps between YAC clones. Positional information associated with many of these
+                     YAC clones has been derived from our Reference Library Database and a variety of other public sources. We have constructed
+                     a YAC contig map of the X chromosome covering 125 Mb of DNA in 25 contigs and containing 906 YAC clones. These contigs have
+                     been verified extensively by FISH and by gel and hybridization fingerprinting techniques. This independently derived map exceeds
+                     the coverage of recently reported X chromosome maps built as part of whole-genome YAC maps.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="copyright-statement" id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</li>
+                  </ul>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/6/10/935.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/6/10/956.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/6/10.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/gr.6.10.943" class="slug-doi">10.1101/gr.6.10.943
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Genome Research" class="slug-jnl-abbrev">
+                                    Genome Res.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    1996.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    6: 
+                                    </span><span class="slug-pages">
+                                    943-955
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/6/10/943.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">ARTICLES</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genome%3B6%2F10%2F943&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/6/10/943.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=6/10/943&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genome.cshlp.org/content/6/10/943.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genome%3B6%2F10%2F943&amp;citation=Roest%20Crollius%20et%20al.%206%20%2810%29:%20943&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genome%3B6%2F10%2F943&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=genome;6/10/943" rel="nofollow">Article Metrics</a></li>
+                        <li><a href="/external-ref?access_num=8908513&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genome%3B6%2F10%2F943">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              		Permissions 
+                              	    </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/6/10/943.abstract?cited-by=yes&amp;legid=genome;6/10/943#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenome%2F6%2F10%2F943&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=https://genome.cshlp.org/content/6/10/943.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ARoest%20Crollius%20author%3AH.%22">Articles by  Roest Crollius, H.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ALehrach%20author%3AH.%22">Articles by  Lehrach, H.</a></li>
+                        <li><a href="/external-ref?access_num=https://genome.cshlp.org/content/6/10/943.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=8908513&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Roest%20Crollius%20H&amp;link_type=AUTHORSEARCH">Articles by  Roest Crollius, H.</a></li>
+                        <li><a href="/external-ref?access_num=Lehrach%20H&amp;link_type=AUTHORSEARCH">Articles by  Lehrach, H.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/8908513"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genome%3B6%2F10%2F943&amp;current-view-path=/content/6/10/943.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/short/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=https://genome.cshlp.org/cgi/content/long/6/10/943&amp;title=An%20integrated%20YAC%20map%20of%20the%20human%20X%20chromosome.+--+Roest%20Crollius%20et%20al.%206%20%2810%29%3A%20943+--+&amp;doi=10.1101/gr.6.10.943&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="art-history-pane">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Preprint Server</span>
+                        
+                     </h4>
+                     
+                     <div id="art-history"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section" id="cb-art-fbr">
+                      
+                  </div>
+                  
+                  <div class="cb-section" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Recent Updates</span>
+                        
+                     </h4>
+                     <a href="http://twitter.com/genomeresearch" rel="external-nw"
+                        style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                        <img src="/site/misc/images/twitterus.gif" alt="follow us on twitter"
+                             title="Twitter" />
+                        </a>
+                     <a data-widget-id="364429657619189760" href="https://twitter.com/genomeresearch"
+                        class="twitter-timeline"
+                        style="font-size:10px;">Tweets by @genomeresearch</a>
+                     <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                     <div id="twitter-feed"></div>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>Most Read Articles</span>
+                        
+                     </h4>
+                     <script src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gr"
+                             type="text/javascript"></script>
+                     <p style="padding-top:0;margin-top:0;text-align:right;">
+                        <a href="/site/misc/top.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div id="col-2-widget-placeholder">
+               <br />
+               <br />
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 33 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/33/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/33/3/435">Splicing-associated tandem repeats in humans</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/299">SARS-CoV-2 infection and RNA methylation loss</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/314">
+                                 <em>Twist2</em> regulates adipogenesis</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/33/3/346">Enhancers display constrained sequence flexibility</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/site/cl/CL_33_3_spa_seq.xhtml">Spatial metatranscriptome and strand-specific RNA sequencing</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Genome Research
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genome.org/" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/press/Announcements.xhtml" title="GR in the News "><span>GR in the News </span></a></li>
+                  <li><a href="/site/misc/about.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/permissions_landing.xhtml" title="Permissions"><span>Permissions</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=56858&amp;adclick=true&amp;url=https%3A%2F%2Fwww.pacb.com%2F%3Futm_source%3DAdvertising%26utm_medium%3Dbanner%26utm_term%3DGR-Suite1%26utm_content%3DGenomeResearchTowerAd%26utm_campaign%3D2022-Product-Launch"
+                     target="_blank"><img class="adborder0" title="PacBio"
+                          src="//genome.cshlp.org/adsystem/graphics/3731825993842979/genome/Game-changed-PacBio-suite-160x800.png?ad=56858&amp;adview=true"
+                          alt="PacBio" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="http://www.life-science-alliance.org/?v=genome_research">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+            </div>
+            <script type="text/javascript" src="https://www.cshsymposium.org/vxz2.js"></script>
+            
+            </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.genome.org/" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1088-9051</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5469</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-2");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

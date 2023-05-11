@@ -1,0 +1,1023 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Discovering NF-κB </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A new type of review journal, featuring comprehensive collections of expert review articles on important topics in the molecular life sciences" />
+      <meta content="/cshperspect/1/1/a000026.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Discovering NF-κB" name="DC.Title" />
+      <meta content="10.1101/cshperspect.a000026" name="DC.Identifier" />
+      <meta content="2009-07-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="David Baltimore" name="DC.Contributor" />
+      <meta content="040" name="citation_collection_id" />
+      <meta content="Cold Spring Harbor Perspectives in Biology"
+            name="citation_journal_title" />
+      <meta content="Cold Spring Harb Perspect Biol" name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="" name="citation_issn" />
+      <meta content="1943-0264" name="citation_issn" />
+      <meta name="citation_author" content="David Baltimore" />
+      <meta name="citation_author_email" content="baltimo@caltech.edu" />
+      <meta content="Discovering NF-κB" name="citation_title" />
+      <meta content="07/01/2009" name="citation_date" />
+      <meta content="1" name="citation_volume" />
+      <meta content="1" name="citation_issue" />
+      <meta content="a000026" name="citation_firstpage" />
+      <meta content="1/1/a000026" name="citation_id" />
+      <meta content="1/1/a000026" name="citation_id_from_sass_path" />
+      <meta content="cshperspect;1/1/a000026" name="citation_mjid" />
+      <meta content="10.1101/cshperspect.a000026" name="citation_doi" />
+      <meta content="http://cshperspectives.cshlp.org/content/1/1/a000026.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://cshperspectives.cshlp.org/content/1/1/a000026.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/1/1.cover.gif" name="issue_cover_image" />
+      <meta content="http://cshperspectives.cshlp.org/content/1/1/a000026"
+            name="citation_public_url" />
+      <meta content="20066072" name="citation_pmid" />
+      <meta name="citation_section" content="Molecular Biology" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/1/1/a000463.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d5425304e1">var callbackToken='5678B1D63135D78';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Perspectives in Biology"
+                    alt="Cold Spring Harbor Perspectives in Biology"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/cgi/collection/" title="SUBJECT COLLECTIONS"><span>SUBJECT COLLECTIONS</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/site/misc/subscribe.xhtml" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="FEEDBACK"><span>FEEDBACK</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Cold Spring Harbor Perspectives in Biology" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57305&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cellecta.net%2Faacr2023-pib-400x200-2304"
+                        target="_blank"><img class="adborder0" title="Cellecta"
+                             src="//cshperspectives.cshlp.org/adsystem/graphics/8520065007446702/genesdev/AACR-2023-400x200.gif?ad=57305&amp;adview=true"
+                             alt="Cellecta" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article fulltext-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Discovering NF-κB</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=David+Baltimore&amp;sortspec=date&amp;submit=Submit">David Baltimore</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>California Institute of Technology, Pasadena, California 91125</address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1"><span class="corresp-label"></span><em>Correspondence:</em> <span class="em-link"><span class="em-addr">baltimo{at}caltech.edu</span></span></li>
+                  </ol>
+               </div>
+               <p id="p-4">NF-κB is a protein transcription factor that can orchestrate complex biological processes, such as the inflammatory response.
+                  It was discovered in a very different and very limited context, and only over time has its protean nature become evident.
+               </p>
+               <p id="p-5">It was actually a very logical process that led us to NF-κB. Although the discovery was very exciting, NF-κB was not the protein
+                  we were seeking at the time. To explain this, I must go back to when my laboratory first became interested in immunology.
+               </p>
+               <p id="p-6">My first independent position was at the Salk Institute, where I arrived in the spring of 1965. For the previous 4 years that
+                  I had been in research, my interests had revolved around the biochemistry of viruses. At Salk, although my work continued
+                  to be on viruses, I was exposed to the fascinating questions of immunology. The main issue was how the enormous diversity
+                  of antibodies is generated from a limited amount of genetic information. Like so many others, I thought about the question,
+                  but it took the experimental attention of Susumu Tonegawa, in 1976, to crack the problem and show that the solution involved
+                  DNA rearrangement.
+               </p>
+               <p id="p-7">In 1974, the methods of recombinant DNA technology were first developed and it was clear that previously intractable complex
+                  systems, like the immune system, could be examined with these methods. In 1976, knowing that the methods were available and
+                  that the paradigm of DNA rearrangement had been established, some postdoctoral students in my laboratory and I decided to
+                  plunge into this field. I wanted to apply our biochemical skills to this suddenly tractable system. We were already working
+                  on one enzyme that was involved in immunoglobulin gene specification, terminal transferase, and had a useful viral transformation
+                  system in the laboratory that affected lymphoid cells, the Abelson mouse leukemia virus. So, immunology was not totally new
+                  to us.
+               </p>
+               <p id="p-8">We had to develop our skills with recombinant DNA methods, become familiar with the awful lingo of immunology, and define
+                  some questions for ourselves, but all of that came to pass. In time, I began to see the question of how immune cells develop
+                  as the key one for my laboratory. It seemed likely that the problem would come down to understanding the control of transcription
+                  factors. So, we focused on transcription of immune cell genes as our primary interest. We had produced evidence that in the
+                  development of B lymphocytes, the heavy-chain locus is first to rearrange its DNA, followed by the light-chain locus (<a id="xref-ref-7-1" class="xref-bibr" href="#ref-7">Siden et al. 1981</a>). Cary Queen joined the laboratory and studied the transcription of the κ light-chain gene and demonstrated that it contains
+                  an intragenic transcriptional enhancer (<a id="xref-ref-4-1" class="xref-bibr" href="#ref-4">Queen and Baltimore 1983</a>). These developments led us to ask whether it might be possible to understand the transition of a cell from heavy-chain only
+                  to heavy-plus-light chain by understanding the transcription factors that bind to the κ light-chain enhancer. Understanding
+                  the proteins that bind to the regulatory sites in both the heavy- and the light-chain genes became the project of a new postdoctorate,
+                  Ranjan Sen. He worked closely with people in Phil Sharp’s laboratory, who had similar interests.
+               </p>
+               <p id="p-9">Ranjan and Harinder Singh, from the Sharp laboratory, worked out how to use mobility shift assays to find transcription factors,
+                  and first published on the existence of the Oct factors (<a id="xref-ref-8-1" class="xref-bibr" href="#ref-8">Singh et al. 1986</a>). Then Ranjan applied the methods to enhancers and found multiple factors binding to both the heavy- and κ light-chain enhancers
+                  (<a id="xref-ref-5-1" class="xref-bibr" href="#ref-5">Sen and Baltimore 1986a</a>). Among the factors he discovered was one that bound only to the κ light-chain enhancer—it covered the sequence GGGACTTTCC.
+                  We called it NF-κB because it was a nuclear factor that bound selectively to the κ enhancer and was found in extracts of B-cell
+                  tumors but not other cell lines (<a id="xref-ref-5-2" class="xref-bibr" href="#ref-5">Sen and Baltimore 1986a</a>).
+               </p>
+               <p id="p-10">The next step was supposed to be the killer experiment. 70Z/3 cells were known to have a rearranged κ light chain but not
+                  to express it and did not have detectable NF-κB. We knew also that treatment of the cells with lipopolysaccharide (LPS) induced
+                  transcription of the κ gene. The killer result would be that LPS induced NF-κB. Sure enough, it did (<a id="xref-ref-6-1" class="xref-bibr" href="#ref-6">Sen and Baltimore 1986b</a>). Furthermore, it did so without the need for new protein synthesis. Thus, we concluded that NF-κB is a factor that pre-exists
+                  in an apparently inhibited state and is released from that inhibition by LPS treatment. It looked like we had found a factor
+                  that might cause cells to go from making only heavy chain to making heavy and light chains, which could thus explain a step
+                  in differentiation. However, history has treated this optimistic conclusion with total disrespect, as is shown below.
+               </p>
+               <p id="p-11">I will not describe all that we have done on the NF-κB system but will only take this story one step further. That step was
+                  taken by Patrick Baeuerle, who joined my laboratory as a postdoctoral fellow. He found that the inactive form of NF-κB is
+                  in the cytoplasm of 70Z/3 cells and can be liberated from its inhibited form by treatment of cytoplasmic extracts with a detergent
+                  (<a id="xref-ref-1-1" class="xref-bibr" href="#ref-1">Baeuerle and Baltimore 1988a</a>). This discovery allowed us to purify the inhibitor, which we named IκB (<a id="xref-ref-2-1" class="xref-bibr" href="#ref-2">Baeuerle and Baltimore 1988b</a>). That set the stage for a detailed biochemical study of the activation process, an effort that has involved many investigators
+                  and is not complete to this day.
+               </p>
+               <p id="p-12">The seeds of doubt about the role of NF-κB as a regulator of B-cell development were sown in these early papers. We showed
+                  that the inhibited NF-κB is not specific to B-lineage cells: it was evident in T cells and even HeLa cells (<a id="xref-ref-6-2" class="xref-bibr" href="#ref-6">Sen and Baltimore 1988b</a>)—we know now that virtually all cells have it. Another paper showed this even more directly (<a id="xref-ref-1-2" class="xref-bibr" href="#ref-1">Baeuerle and Baltimore 1988a</a>). Thus, it was evident that NF-κB could be active in a wide range of cells and further work has borne this out.
+               </p>
+               <p id="p-13">A later postdoctorate, Yang Xu, provided the <em>coup de grace</em> for the notion that NF-κB is critical to κ-chain transcription. He knocked out the intronic κ enhancer—containing the NF-κB
+                  binding site—in mice and showed that, in those cells that rearrange κ, the gene is transcribed at a normal rate (<a id="xref-ref-9-1" class="xref-bibr" href="#ref-9">Xu et al. 1996</a>). There is a second enhancer, lacking an NF-κB binding site, that can control κ gene transcription. Each enhancer plays a
+                  quantitative role in κ-gene rearrangement, but not a qualitative one (<a id="xref-ref-3-1" class="xref-bibr" href="#ref-3">Inlay et al. 2002</a>).
+               </p>
+               <p id="p-14">Meanwhile, over the 24 years since its discovery, NF-κB has been implicated in a wide range of normal and disease processes.
+                  No transcription factor has attracted more experimental attention. Its role in inflammatory processes is especially important.
+                  Yet, its role in the transcription of the κ light chain, for which it was named, remains uncertain.
+               </p>
+               <div class="section fn-group" id="fn-group-1">
+                  <div class="section-nav">
+                     <div class="nav-placeholder"> </div><a href="#ref-list-1" title="REFERENCES" class="next-section-link"><span>Next Section</span></a></div>
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn" id="fn-1">
+                        <p id="p-1">Editors: Louis M. Staudt and Michael Karin</p>
+                     </li>
+                     <li class="fn" id="fn-2">
+                        <p id="p-2">Additional Perspectives on NF-κB available at <a href="http://www.cshperspectives.org">www.cshperspectives.org</a></p>
+                     </li>
+                     <li class="copyright-statement" id="copyright-statement-1">Copyright © 2009 Cold Spring Harbor Laboratory Press; all rights reserved</li>
+                  </ul>
+               </div>
+               <div class="section ref-list" id="ref-list-1">
+                  <div class="section-nav"><a href="#fn-group-1" title="Footnotes" class="prev-section-link"><span>Previous Section</span></a><div class="nav-placeholder"> </div>
+                  </div>
+                  <h2>REFERENCES</h2>
+                  <ol class="cit-list ref-use-labels">
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-1-1" title="View reference in text"
+                           id="ref-1">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.1"
+                             data-doi="10.1016/0092-8674(88)90382-0">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baeuerle</span> <span class="cit-name-given-names">PA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Baeuerle</span>  <span class="cit-name-given-names">PA</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1988a</span>. <span class="cit-article-title">Activation of DNA-binding activity in an apparently cytoplasmic precursor of the NF-κB transcription factor</span>. <abbr class="cit-jnl-abbrev">Cell</abbr> <span class="cit-vol">53:</span> <span class="cit-fpage">211</span>–<span class="cit-lpage">217</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0092-8674(88)90382-0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3129195&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1988N126600006&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Activation%20of%20DNA-binding%20activity%20in%20an%20apparently%20cytoplasmic%20precursor%20of%20the%20NF-%C3%8E%C2%BAB%20transcription%20factor&amp;publication_year=1988a&amp;journal=Cell&amp;volume=53%3A&amp;pages=211-217">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-2-1" title="View reference in text"
+                           id="ref-2">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.2"
+                             data-doi="10.1126/science.3140380">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baeuerle</span> <span class="cit-name-given-names">PA</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Baeuerle</span>  <span class="cit-name-given-names">PA</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1988b</span>. <span class="cit-article-title">IκB: a specific inhibitor of the NF-κB transcription factor</span>. <abbr class="cit-jnl-abbrev">Science</abbr> <span class="cit-vol">242:</span> <span class="cit-fpage">540</span>–<span class="cit-lpage">546</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=sci&amp;resid=242/4878/540"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-3-1" title="View reference in text"
+                           id="ref-3">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.3" data-doi="10.1038/ni790">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Inlay</span> <span class="cit-name-given-names">M</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Alt</span> <span class="cit-name-given-names">FW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Xu</span> <span class="cit-name-given-names">Y</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Inlay</span>  <span class="cit-name-given-names">M</span></span>, <span class="cit-auth"><span class="cit-name-surname">Alt</span>  <span class="cit-name-given-names">FW</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>, <span class="cit-auth"><span class="cit-name-surname">Xu</span>  <span class="cit-name-given-names">Y</span></span>. <span class="cit-pub-date">2002</span>. <span class="cit-article-title">Essential roles of the κ light chain intronic enhancer and 3’ enhancer in κ rearrangement and demethylation</span>. <abbr class="cit-jnl-abbrev">Nature Immunology</abbr> <span class="cit-vol">3:</span> <span class="cit-fpage">463</span>–<span class="cit-lpage">468</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/ni790&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=11967540&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=000175411200015&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Essential%20roles%20of%20the%20%C3%8E%C2%BA%20light%20chain%20intronic%20enhancer%20and%203%C3%A2%C2%80%C2%99%20enhancer%20in%20%C3%8E%C2%BA%20rearrangement%20and%20demethylation&amp;publication_year=2002&amp;journal=Nature%20Immunology&amp;volume=3%3A&amp;pages=463-468">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-4-1" title="View reference in text"
+                           id="ref-4">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.4"
+                             data-doi="10.1016/0092-8674(83)90016-8">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Queen</span> <span class="cit-name-given-names">C</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Queen</span>  <span class="cit-name-given-names">C</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1983</span>. <span class="cit-article-title">Immunoglobulin gene transcription is activated by downstream sequence elements</span>. <abbr class="cit-jnl-abbrev">Cell</abbr> <span class="cit-vol">33:</span> <span class="cit-fpage">741</span>–<span class="cit-lpage">748</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0092-8674(83)90016-8&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=6409419&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1983QZ67500015&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Immunoglobulin%20gene%20transcription%20is%20activated%20by%20downstream%20sequence%20elements&amp;publication_year=1983&amp;journal=Cell&amp;volume=33%3A&amp;pages=741-748">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-5-1" title="View reference in text"
+                           id="ref-5">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.5"
+                             data-doi="10.1016/0092-8674(86)90346-6">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Sen</span> <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Sen</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1986a</span>. <span class="cit-article-title">Multiple nuclear factors interact with the immunoglobulin enhancer sequences</span>. <abbr class="cit-jnl-abbrev">Cell</abbr> <span class="cit-vol">46:</span> <span class="cit-fpage">705</span>–<span class="cit-lpage">716</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0092-8674(86)90346-6&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3091258&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986D837600009&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Multiple%20nuclear%20factors%20interact%20with%20the%20immunoglobulin%20enhancer%20sequences&amp;publication_year=1986a&amp;journal=Cell&amp;volume=46%3A&amp;pages=705-716">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-6-1" title="View reference in text"
+                           id="ref-6">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.6"
+                             data-doi="10.1016/0092-8674(86)90807-X">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Sen</span> <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Sen</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1986b</span>. <span class="cit-article-title">Inducibility of κ immunoglobulin enhancer-binding protein NF-κB by a posttranslational mechanism</span>. <abbr class="cit-jnl-abbrev">Cell</abbr> <span class="cit-vol">47:</span> <span class="cit-fpage">921</span>–<span class="cit-lpage">928</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/0092-8674(86)90807-X&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3096580&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a href="/external-ref?access_num=A1986F429600010&amp;link_type=ISI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">Web of Science</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Inducibility%20of%20%C3%8E%C2%BA%20immunoglobulin%20enhancer-binding%20protein%20NF-%C3%8E%C2%BAB%20by%20a%20posttranslational%20mechanism&amp;publication_year=1986b&amp;journal=Cell&amp;volume=47%3A&amp;pages=921-928">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-7-1" title="View reference in text"
+                           id="ref-7">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.7"
+                             data-doi="10.1073/pnas.78.3.1823">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Siden</span> <span class="cit-name-given-names">E</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Alt</span> <span class="cit-name-given-names">FW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Shinefeld</span> <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Sato</span> <span class="cit-name-given-names">V</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Siden</span>  <span class="cit-name-given-names">E</span></span>, <span class="cit-auth"><span class="cit-name-surname">Alt</span>  <span class="cit-name-given-names">FW</span></span>, <span class="cit-auth"><span class="cit-name-surname">Shinefeld</span>  <span class="cit-name-given-names">L</span></span>, <span class="cit-auth"><span class="cit-name-surname">Sato</span>  <span class="cit-name-given-names">V</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1981</span>. <span class="cit-article-title">Synthesis of immunoglobulin μ chain gene products precedes synthesis of light chains during B-lymphocyte development</span>. <abbr class="cit-jnl-abbrev">Proc Natl Acad Sci</abbr> <span class="cit-vol">78:</span> <span class="cit-fpage">1823</span>–<span class="cit-lpage">1827</span>.</cite></div>
+                           <div class="cit-extra"><a href="/cgi/ijlink?linkType=ABST&amp;journalCode=pnas&amp;resid=78/3/1823"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-ijlinks"><span class="cit-reflinks-abstract">Abstract</span><span class="cit-sep cit-reflinks-variant-name-sep">/</span><span class="cit-reflinks-full-text"><span class="free-full-text">FREE </span>Full Text</span></a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-8-1" title="View reference in text"
+                           id="ref-8">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.8"
+                             data-doi="10.1038/319154a0">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Singh</span> <span class="cit-name-given-names">H</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Sen</span> <span class="cit-name-given-names">R</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Sharp</span> <span class="cit-name-given-names">PA</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Singh</span>  <span class="cit-name-given-names">H</span></span>, <span class="cit-auth"><span class="cit-name-surname">Sen</span>  <span class="cit-name-given-names">R</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>, <span class="cit-auth"><span class="cit-name-surname">Sharp</span>  <span class="cit-name-given-names">PA</span></span>. <span class="cit-pub-date">1986</span>. <span class="cit-article-title">A nuclear factor that binds to a conserved sequence motif in transcriptional control elements of immunoglobulin genes</span>. <abbr class="cit-jnl-abbrev">Nature</abbr> <span class="cit-vol">319:</span> <span class="cit-fpage">154</span>–<span class="cit-lpage">158</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1038/319154a0&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=3079885&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=A%20nuclear%20factor%20that%20binds%20to%20a%20conserved%20sequence%20motif%20in%20transcriptional%20control%20elements%20of%20immunoglobulin%20genes&amp;publication_year=1986&amp;journal=Nature&amp;volume=319%3A&amp;pages=154-158">Google Scholar</a></div>
+                        </div>
+                     </li>
+                     <li><span class="ref-label ref-label-empty"></span><a class="rev-xref-ref" href="#xref-ref-9-1" title="View reference in text"
+                           id="ref-9">↵</a><div class="cit ref-cit ref-journal" id="cit-1.1.a000026.9"
+                             data-doi="10.1016/S1074-7613(00)80251-4">
+                           <div class="cit-metadata">
+                              <ol class="cit-authors-list duplicate">
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Xu</span> <span class="cit-name-given-names">Y</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Davidson</span> <span class="cit-name-given-names">L</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Alt</span> <span class="cit-name-given-names">FW</span></span>, 
+                                 </li>
+                                 <li><span class="cit-authors"><span class="cit-name-surname">Baltimore</span> <span class="cit-name-given-names">D</span></span></li>
+                              </ol><cite><span class="cit-auth"><span class="cit-name-surname">Xu</span>  <span class="cit-name-given-names">Y</span></span>, <span class="cit-auth"><span class="cit-name-surname">Davidson</span>  <span class="cit-name-given-names">L</span></span>, <span class="cit-auth"><span class="cit-name-surname">Alt</span>  <span class="cit-name-given-names">FW</span></span>, <span class="cit-auth"><span class="cit-name-surname">Baltimore</span>  <span class="cit-name-given-names">D</span></span>. <span class="cit-pub-date">1996</span>. <span class="cit-article-title">Deletion of the Igκ light chain intronic enhancer/matrix attachment region impairs but does not abolish VκJκ rearrangement</span>. <abbr class="cit-jnl-abbrev">Immunity</abbr> <span class="cit-vol">4:</span> <span class="cit-fpage">377</span>–<span class="cit-lpage">385</span>.</cite></div>
+                           <div class="cit-extra"><a href="/external-ref?access_num=10.1016/S1074-7613(00)80251-4&amp;link_type=DOI"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-webofscience">CrossRef</a><a href="/external-ref?access_num=8612132&amp;link_type=MED"
+                                 class="cit-ref-sprinkles cit-ref-sprinkles-medline">Medline</a><a target="_blank"
+                                 href="http://scholar.google.com/scholar_lookup?title=Deletion%20of%20the%20Ig%C3%8E%C2%BA%20light%20chain%20intronic%20enhancer%2Fmatrix%20attachment%20region%20impairs%20but%20does%20not%20abolish%20V%C3%8E%C2%BAJ%C3%8E%C2%BA%20rearrangement&amp;publication_year=1996&amp;journal=Immunity&amp;volume=4%3A&amp;pages=377-385">Google Scholar</a></div>
+                        </div>
+                     </li>
+                  </ol>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/short/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/1/1/a000463.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/1/1.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/cshperspect.a000026" class="slug-doi">10.1101/cshperspect.a000026
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Perspectives in Biology" class="slug-jnl-abbrev">
+                                    Cold Spring Harb. Perspect. Biol.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2009.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    1: 
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml"><span class="copyright-statement">Copyright © 2009 Cold Spring Harbor Laboratory Press; all rights reserved</span></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li class="notice"><span class="variant-indicator">» <span>Full Text</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/1/1/a000026.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings">
+                              <li>RETROSPECTIVE
+                                 <ul class="subject-sub-headings last-child">
+                                    <li><a class="tocsection-search"
+                                          href="/search?tocsectionid=Molecular+Biology&amp;sortspec=date&amp;submit=Submit">Molecular Biology</a></li>
+                                 </ul>
+                              </li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshperspect%3B1%2F1%2Fa000026&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshperspectives.cshlp.org/content/1/1/a000026.full">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=1/1/a000026&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshperspectives.cshlp.org/content/1/1/a000026.full">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=cshperspect%3B1%2F1%2Fa000026&amp;citation=Baltimore%201%20%281%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=cshperspect%3B1%2F1%2Fa000026&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=20066072&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=cshperspect%3B1%2F1%2Fa000026">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Updates/Comments</span></h4>
+                     <ol>
+                        <li><a href="/letters/submit/cshperspect;1/1/a000026">Submit Updates/Comments</a></li>
+                        <li><span class="eletters-no-responses-published">No Updates/Comments published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/1/1/a000026.full?cited-by=yes&amp;legid=cshperspect;1/1/a000026#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshperspect%2F1%2F1%2Fa000026&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://cshperspectives.cshlp.org/content/1/1/a000026.full&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ABaltimore%20author%3AD.%22">Articles by  Baltimore, D.</a></li>
+                        <li><a href="/external-ref?access_num=http://cshperspectives.cshlp.org/content/1/1/a000026.full&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=20066072&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Baltimore%20D&amp;link_type=AUTHORSEARCH">Articles by  Baltimore, D.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/20066072"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-art-col">
+                     <h4 class="cb-section-header"><span>Subject Collections</span></h4>
+                     <ol>
+                        <li><a href="/cgi/collection/nf-kb">NF-κB</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshperspect%3B1%2F1%2Fa000026&amp;current-view-path=/content/1/1/a000026.full"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/short/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshperspectives.cshlp.org/cgi/content/long/1/1/a000026&amp;title=Discovering%20NF-%CE%BAB+--+Baltimore%201%20%281%29+--+cshperspect&amp;doi=10.1101/cshperspect.a000026&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <style type="text/css">
+      
+#col-2 div#cb-biorxiv ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}
+#col-2 #article-cb-mainx {
+  display:visible;
+}
+
+#col-2 div#cb-art-coll ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}   
+    </style>
+            <div id="col-2-widget-placeholder">
+               
+               <div class="content-box" id="article-cb-main">
+                  
+                  <div class="cb-contents">
+                     <a href="http://biorxiv.org/" rel="external-nw">
+                        <img src="/site/misc/images/biorxiv_ad.gif" />
+                        </a>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium75/Symposium75/Interviews/Entries/2010/6/24_TOM_MISTELI.html"
+                           onclick="newWindow(this.href, 'popup', 640, 378, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Misteli interview" src="/site/misc/images/misteli3.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium75/Symposium75/Interviews/Entries/2010/6/24_TOM_MISTELI.html"
+                           onclick="newWindow(this.href, 'popup', 640, 380, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Tom Misteli </a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat1">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral.cshl.edu/symp09/cech.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Cech interview" src="/site/misc/images/tcech.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral.cshl.edu/symp09/cech.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Tom Cech </a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat2">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral.cshl.edu/symp09/shapiro.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Shapiro interview" src="/site/misc/images/Shapiro_pic.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral.cshl.edu/symp09/shapiro.mov"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Lucy Shapiro</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat3">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Paolo_Sassone-Corsi.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Corsi interview" src="/site/misc/images/corsi.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Paolo_Sassone-Corsi.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Paolo Sassone-Corsi</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat4">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/3_Richard_Morimoto_1.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Corsi interview" src="/site/misc/images/rm.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/3_Richard_Morimoto_1.html"
+                           onclick="newWindow(this.href, 'popup', 324, 260, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Richard Morimoto</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat5">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium77/Estelle.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Estelle interview" src="/site/misc/images/estelle.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium77/Estelle.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with subject collection editor Mark Estelle</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat6">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Craig_Thompson_1.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Craig Thompson interview" src="/site/misc/images/ct.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/Symposium76/Symposium76/Interviews/Entries/2011/6/2_Craig_Thompson_1.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with  Craig Thompson</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               <div class="content-box" id="author_chat7">
+                  
+                  <div class="cb-contents">
+                     
+                     <h3 class="cb-contents-header"><span>Interview</span></h3>
+                     
+                     <center><a href="http://mediacentral2.cshl.edu/symposium78/Mathis.html"
+                           onclick="newWindow(this.href, 'popup', 1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;">
+                           <img alt="Craig Thompson interview" src="/site/misc/images/dm.jpg"
+                                style="margin-top:15px;margin-bottom:4px;" />
+                           </a></center>
+                     
+                     <div style="padding-left:2px;padding-right:2px;">
+                        <a href="http://mediacentral2.cshl.edu/symposium78/Mathis.html"
+                           onclick="newWindow(this.href, 'popup',1124, 960, 1, 1, 0, 0, 0, 1, 0); return false;"
+                           style="font-size:8pt;">Click to see an interview with  Diane Mathis</a>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               <style type="text/css">
+#col-2 #article-cb-mainx {
+  display:visible;
+}
+
+#col-2 div#cb-art-coll ol {
+    font-weight:normal;
+    list-style-position:outside;
+  list-style-type:none;
+  list-style-image:url(/publisher/icons/col2-dash.gif);
+    margin-left:4px;
+    
+}    </style>
+               <div class="content-box" id="article-cb-mainx">
+                  
+                  <div class="cb-contents">
+                     
+                     <div class="cb-section collapsible default-open" id="cb-art-coll">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In this Collection</span>
+                           
+                        </h4>
+                        
+                        <ol class="tweet" id="coll_list"></ol>
+                        
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/JavaScript">
+var pageid = $("div.hw-gen-page").attr("id");
+//alert(pageid);
+</script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            <div class="content-box" id="article-dyn-nav">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Navigate This Article</span></h3>
+                  <div class="cb-section" id="cb-art-nav">
+                     <ol>
+                        <li><a href="#content-block">Top</a></li>
+                        <li><a href="#fn-group-1">Footnotes</a></li>
+                        <li><a href="#ref-list-1">REFERENCES</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 15 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/15/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div> 
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a>A collage of collection cover images</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+                  <li><a href="/site/misc/sample.xhtml" title="Featured Articles"><span>Featured Articles</span></a></li>
+                  <li><a href="/cgi/collection/" title="Subject Collections"><span>Subject Collections</span></a></li>
+                  <li><a href="/content/by/year" title="Archive by Date"><span>Archive by Date</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="Alerts and RSS Feeds"><span>Alerts and RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/permissions_landing.xhtml" title="Permissions"><span>Permissions</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57306&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cellecta.net%2Faacr2023-pib-160x800-2304"
+                     target="_blank"><img class="adborder0" title="Cellecta"
+                          src="//cshperspectives.cshlp.org/adsystem/graphics/9527819233790141/cshperspect/AACR-2023-160x800.gif?ad=57306&amp;adview=true"
+                          alt="Cellecta" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:5px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing:6px;font-size: 80%;">
+                  <tr>
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                  </tr>
+               </table>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <br />
+               <br />
+               
+               <div>
+                  
+                  <center><img alt="CSH Perspectives" src="/site/misc/covers_hompage/cshlp.jpg" /></center>
+                  
+               </div>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/cgi/collection/" title="Subject Collections"><span>Subject Collections</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/site/misc/subscribe.xhtml" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Feedback"><span>Feedback</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1943-0264</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-15");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

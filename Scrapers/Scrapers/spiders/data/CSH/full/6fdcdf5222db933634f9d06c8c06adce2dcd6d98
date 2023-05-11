@@ -1,0 +1,505 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="Peer-reviewed scientific journal publishing basic neuroscience research in the areas of neuronal plasticity, learning and memory" />
+      <meta content="/learnmem/3/4/289.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms."
+            name="DC.Title" />
+      <meta content="10.1101/lm.3.4.289" name="DC.Identifier" />
+      <meta content="1996-11-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="J E Haley" name="DC.Contributor" />
+      <meta content="E Schaible" name="DC.Contributor" />
+      <meta content="P Pavlidis" name="DC.Contributor" />
+      <meta content="A Murdock" name="DC.Contributor" />
+      <meta content="D V Madison" name="DC.Contributor" />
+      <meta content="Learning &amp; Memory" name="citation_journal_title" />
+      <meta content="Learn. Mem." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1072-0502" name="citation_issn" />
+      <meta content="1549-5485" name="citation_issn" />
+      <meta name="citation_author" content="J E Haley" />
+      <meta name="citation_author" content="E Schaible" />
+      <meta name="citation_author" content="P Pavlidis" />
+      <meta name="citation_author" content="A Murdock" />
+      <meta name="citation_author" content="D V Madison" />
+      <meta content="Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms."
+            name="citation_title" />
+      <meta content="11/01/1996" name="citation_date" />
+      <meta content="3" name="citation_volume" />
+      <meta content="4" name="citation_issue" />
+      <meta content="289" name="citation_firstpage" />
+      <meta content="295" name="citation_lastpage" />
+      <meta content="3/4/289" name="citation_id" />
+      <meta content="3/4/289" name="citation_id_from_sass_path" />
+      <meta content="learnmem;3/4/289" name="citation_mjid" />
+      <meta content="10.1101/lm.3.4.289" name="citation_doi" />
+      <meta content="http://learnmem.cshlp.org/content/3/4/289.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://learnmem.cshlp.org/content/3/4/289.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/3/4.cover.gif" name="issue_cover_image" />
+      <meta content="http://learnmem.cshlp.org/content/3/4/289" name="citation_public_url" />
+      <meta content="10456098" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPERS" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/3/2-3/279.short" rel="prev" />
+      <link href="/content/3/4/296.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d2417268e1">var callbackToken='5674CB6A9C775C0';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Learning &amp; Memory" alt="Learning &amp; Memory" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.learnmem.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/alerts" title="ALERTS"><span>ALERTS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Learning &amp; Memory" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=55554&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FAMPLIFIERS%2Fdpa.html"
+                        target="_blank"><img class="adborder0" title="Sutter"
+                             src="//learnmem.cshlp.org/adsystem/graphics/0947703644428024/learnmem/Sutter%20Banner.gif?ad=55554&amp;adview=true"
+                             alt="Sutter" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms.</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=J+E+Haley&amp;sortspec=date&amp;submit=Submit">J E Haley</a></span>, 
+                     </li>
+                     <li id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=E+Schaible&amp;sortspec=date&amp;submit=Submit">E Schaible</a></span>, 
+                     </li>
+                     <li id="contrib-3"><span class="name"><a class="name-search"
+                              href="/search?author1=P+Pavlidis&amp;sortspec=date&amp;submit=Submit">P Pavlidis</a></span>, 
+                     </li>
+                     <li id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=A+Murdock&amp;sortspec=date&amp;submit=Submit">A Murdock</a></span>,  and 
+                     </li>
+                     <li id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=D+V+Madison&amp;sortspec=date&amp;submit=Submit">D V Madison</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Department of Molecular and Cellular Physiology, Stanford University School of Medicine, California 94305, USA.</address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-1">Nitric oxide (NO) production has been widely reported to be required for the induction of long-term potentiation (LTP) in
+                     hippocampal CA1 cells. Of the two constitutive isoforms of NO synthase, the endothelial form (eNOS) has been implicated in
+                     the induction of LTP in these cells. The distribution of eNOS within CA1 cells is not uniform, however, being present in the
+                     cell bodies and apical dendrites but absent from the basal dendrites. Using extracellular and intracellular recording techniques,
+                     we demonstrate that LTP induction in stratum radiatum synapses (onto apical dendrites) is dependent on NO production, being
+                     attenuated by pretreatment with a NOS inhibitor. LTP induced in stratum oriens synapses (onto basal dendrites) is, however,
+                     resistant to NOS inhibitors. Both forms of LTP require the activation of N-methyl-D-aspartate (NMDA) receptors because induction
+                     of LTP in both stratum radiatum and stratum oriens is blocked by AP5. Thus, it appears that synapses onto apical and basal
+                     dendrites of CA1 cells use different cellular mechanisms of LTP induction.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="copyright-statement" id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</li>
+                  </ul>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/3/2-3/279.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/3/4/296.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/3/4.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/lm.3.4.289" class="slug-doi">10.1101/lm.3.4.289
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Learning &amp; Memory" class="slug-jnl-abbrev">
+                                    Learn. Mem.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    1996.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    3: 
+                                    </span><span class="slug-pages">
+                                    289-295
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/3/4/289.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/3/4/289.refs" rel="view-references-only">References</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPERS&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPERS</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=learnmem%3B3%2F4%2F289&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/3/4/289.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=3/4/289&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://learnmem.cshlp.org/content/3/4/289.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=learnmem%3B3%2F4%2F289&amp;citation=Haley%20et%20al.%203%20%284%29:%20289&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=learnmem%3B3%2F4%2F289&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=10456098&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=learnmem%3B3%2F4%2F289">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/3/4/289.abstract?cited-by=yes&amp;legid=learnmem;3/4/289#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Flearnmem%2F3%2F4%2F289&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://learnmem.cshlp.org/content/3/4/289.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AHaley%20author%3AJ.E.%22">Articles by  Haley, J. E.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AMadison%20author%3AD.V.%22">Articles by  Madison, D. V.</a></li>
+                        <li><a href="/external-ref?access_num=http://learnmem.cshlp.org/content/3/4/289.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=10456098&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Haley%20JE&amp;link_type=AUTHORSEARCH">Articles by  Haley, J. E.</a></li>
+                        <li><a href="/external-ref?access_num=Madison%20DV&amp;link_type=AUTHORSEARCH">Articles by  Madison, D. V.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/10456098"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=learnmem%3B3%2F4%2F289&amp;current-view-path=/content/3/4/289.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/short/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://learnmem.cshlp.org/cgi/content/long/3/4/289&amp;title=Basal%20and%20apical%20synapses%20of%20CA1%20pyramidal%20cells%20employ%20different%20LTP%20induction%20mechanisms.+--+Haley%20et%20al.%203%20%284%29%3A%20289+--+&amp;doi=10.1101/lm.3.4.289&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 2023, 30 (3)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/30/3.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 Learning &amp; Memory
+                                 </span>
+                              </a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href="/site/subscriptions" title="Subscriptions"><span>Subscriptions</span></a></li>
+                  <li class="last"><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=55553&amp;adclick=true&amp;url=https%3A%2F%2Fwww.sutter.com%2FMICROSCOPES%2Fnan.html"
+                     target="_blank"><img class="adborder0" title="Sutter NAN"
+                          src="//learnmem.cshlp.org/adsystem/graphics/0947703644428024/learnmem/NAN%20Banner.png?ad=55553&amp;adview=true"
+                          alt="Sutter NAN" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;padding-top:15px;padding-bottom:12px;">
+                  <script type="text/javascript" src="http://www.cshlpress.com/rss_get.asp?st=gr"></script>
+                  </p>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.learnmem.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/alerts" title="Alerts"><span>Alerts</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1072-0502</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5485</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-3");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>An approach to high-throughput genotyping. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all organisms" />
+      <meta content="/genome/6/9/781.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="An approach to high-throughput genotyping." name="DC.Title" />
+      <meta content="10.1101/gr.6.9.781" name="DC.Identifier" />
+      <meta content="1996-09-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="J M Hall" name="DC.Contributor" />
+      <meta content="C A LeDuc" name="DC.Contributor" />
+      <meta content="A R Watson" name="DC.Contributor" />
+      <meta content="A H Roter" name="DC.Contributor" />
+      <meta content="Genome Research" name="citation_journal_title" />
+      <meta content="Genome Res." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="1088-9051" name="citation_issn" />
+      <meta content="1549-5469" name="citation_issn" />
+      <meta name="citation_author" content="J M Hall" />
+      <meta name="citation_author" content="C A LeDuc" />
+      <meta name="citation_author" content="A R Watson" />
+      <meta name="citation_author" content="A H Roter" />
+      <meta content="An approach to high-throughput genotyping." name="citation_title" />
+      <meta content="09/01/1996" name="citation_date" />
+      <meta content="6" name="citation_volume" />
+      <meta content="9" name="citation_issue" />
+      <meta content="781" name="citation_firstpage" />
+      <meta content="790" name="citation_lastpage" />
+      <meta content="6/9/781" name="citation_id" />
+      <meta content="6/9/781" name="citation_id_from_sass_path" />
+      <meta content="genome;6/9/781" name="citation_mjid" />
+      <meta content="10.1101/gr.6.9.781" name="citation_doi" />
+      <meta content="https://genome.cshlp.org/content/6/9/781.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/6/9.cover.gif" name="issue_cover_image" />
+      <meta content="https://genome.cshlp.org/content/6/9/781" name="citation_public_url" />
+      <meta content="8889547" name="citation_pmid" />
+      <meta name="citation_section" content="REVIEW" />
+      <meta name="robots" content="noarchive,nofollow" />
+      <meta name="googlebot" content="noarchive" />
+      <link href="/content/6/9/773.short" rel="prev" />
+      <link href="/content/6/9/791.short" rel="next" />
+      <link rel="stylesheet" type="text/css" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" href="/local/css/hw-journal-page-content.css" /><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script></head>
+   <frameset rows="148,*">
+      <frame src="/content/6/9/781.full.pdf+html?frame=header" name="HeaderLinks"
+             title="Header Links Frame"
+             scrolling="auto" />
+      <frameset cols="780,*">
+         <frame src="/content/6/9/781.full.pdf#page=1&amp;view=FitH" name="ContentsPage"
+                title="Contents Frame" />
+         <frame src="/content/6/9/781.full.pdf+html?frame=sidebar" name="SidebarLinks"
+                title="Sidebar Links Frame" />
+      </frameset>
+      <noframes>
+         <body></body>
+      </noframes>
+   </frameset>
+</html>

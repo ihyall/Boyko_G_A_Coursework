@@ -1,0 +1,720 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>ALOX5-mediated ferroptosis acts as a distinct cell death pathway upon oxidative stress in Huntington's disease </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A biweekly scientific journal publishing high-quality research in molecular biology and genetics, cancer biology, biochemistry, and related fields" />
+      <meta content="/genesdev/37/5-6/204.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="ALOX5-mediated ferroptosis acts as a distinct cell death pathway upon oxidative stress in Huntington's disease"
+            name="DC.Title" />
+      <meta content="10.1101/gad.350211.122" name="DC.Identifier" />
+      <meta content="2023-03-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Shujuan Song" name="DC.Contributor" />
+      <meta content="Zhenyi Su" name="DC.Contributor" />
+      <meta content="Ning Kon" name="DC.Contributor" />
+      <meta content="Bo Chu" name="DC.Contributor" />
+      <meta content="Huan Li" name="DC.Contributor" />
+      <meta content="Xuejun Jiang" name="DC.Contributor" />
+      <meta content="Jianyuan Luo" name="DC.Contributor" />
+      <meta content="Brent R. Stockwell" name="DC.Contributor" />
+      <meta content="Wei Gu" name="DC.Contributor" />
+      <meta content="Genes &amp; Development" name="citation_journal_title" />
+      <meta content="Genes Dev." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="0890-9369" name="citation_issn" />
+      <meta content="1549-5477" name="citation_issn" />
+      <meta name="citation_author" content="Shujuan Song" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author_institution"
+            content="2Department of Medical Genetics, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China;" />
+      <meta name="citation_author" content="Zhenyi Su" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author" content="Ning Kon" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author" content="Bo Chu" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author" content="Huan Li" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta name="citation_author" content="Xuejun Jiang" />
+      <meta name="citation_author_institution"
+            content="3Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York 10065, USA;" />
+      <meta name="citation_author" content="Jianyuan Luo" />
+      <meta name="citation_author_institution"
+            content="2Department of Medical Genetics, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191, China;" />
+      <meta name="citation_author" content="Brent R. Stockwell" />
+      <meta name="citation_author_institution"
+            content="4Department of Biological Sciences, Department of Chemistry, Columbia University, New York, New York 10027, USA" />
+      <meta name="citation_author" content="Wei Gu" />
+      <meta name="citation_author_orcid" content="0000-0002-1641-5740" />
+      <meta name="citation_author_institution"
+            content="1Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;" />
+      <meta content="ALOX5-mediated ferroptosis acts as a distinct cell death pathway upon oxidative stress in Huntington's disease"
+            name="citation_title" />
+      <meta content="03/01/2023" name="citation_date" />
+      <meta content="37" name="citation_volume" />
+      <meta content="5-6" name="citation_issue" />
+      <meta content="204" name="citation_firstpage" />
+      <meta content="217" name="citation_lastpage" />
+      <meta content="37/5-6/204" name="citation_id" />
+      <meta content="37/5-6/204" name="citation_id_from_sass_path" />
+      <meta content="genesdev;37/5-6/204" name="citation_mjid" />
+      <meta content="10.1101/gad.350211.122" name="citation_doi" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/204.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/204.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/204.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/37/5-6.cover.gif" name="issue_cover_image" />
+      <meta content="http://genesdev.cshlp.org/content/37/5-6/204"
+            name="citation_public_url" />
+      <meta content="36921996" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPER" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/37/5-6/191.short" rel="prev" />
+      <link href="/content/37/5-6/218.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d258271660e1">var callbackToken='567A322BBF855E6';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/csh-library.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genes &amp; Development" alt="Genes &amp; Development" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.genesdev.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genes &amp; Development" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57288&amp;adclick=true&amp;url=https%3A%2F%2Fwww.invivogen.com%2Fmycostrip-mycoplasma-detection-kit-video%3Futm_source%3Dvign-site-video%26utm_medium%3Dweb%26utm_campaign%3Dmycostrip"
+                        target="_blank"><img class="adborder0" title="Invivogen"
+                             src="//genesdev.cshlp.org/adsystem/graphics/6275687000230071/genesdev/MycoStrip_468x90.gif?ad=57288&amp;adview=true"
+                             alt="Invivogen" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">ALOX5-mediated ferroptosis acts as a distinct cell death pathway upon oxidative stress in Huntington's disease</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Shujuan+Song&amp;sortspec=date&amp;submit=Submit">Shujuan Song</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Zhenyi+Su&amp;sortspec=date&amp;submit=Submit">Zhenyi Su</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-fn-1-2" class="xref-fn" href="#fn-1">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search" href="/search?author1=Ning+Kon&amp;sortspec=date&amp;submit=Submit">Ning Kon</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search" href="/search?author1=Bo+Chu&amp;sortspec=date&amp;submit=Submit">Bo Chu</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search" href="/search?author1=Huan+Li&amp;sortspec=date&amp;submit=Submit">Huan Li</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Xuejun+Jiang&amp;sortspec=date&amp;submit=Submit">Xuejun Jiang</a></span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jianyuan+Luo&amp;sortspec=date&amp;submit=Submit">Jianyuan Luo</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Brent+R.+Stockwell&amp;sortspec=date&amp;submit=Submit">Brent R. Stockwell</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a> and 
+                     </li>
+                     <li class="last" id="contrib-9"><span class="name"><a class="name-search" href="/search?author1=Wei+Gu&amp;sortspec=date&amp;submit=Submit">Wei Gu</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Institute for Cancer Genetics, Department of Pathology and Cell Biology, Herbert Irving Comprehensive Cancer Center, Vagelos
+                           College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Medical Genetics, School of Basic Medical Sciences, Peking University Health Science Center, Beijing 100191,
+                           China;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York 10065, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Department of Biological Sciences, Department of Chemistry, Columbia University, New York, New York 10027, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">wg8{at}cumc.columbia.edu</span></span></li>
+                  </ol>
+                  <ol class="fn-track">
+                     <li class="fn-equal" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">5</span> These authors contributed equally to this work.
+                        </p>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-2">
+                  <h2>Abstract</h2>
+                  <p id="p-4">Although it is well established that Huntington's disease (HD) is mainly caused by polyglutamine-expanded mutant huntingtin
+                     (mHTT), the molecular mechanism of mHTT-mediated actions is not fully understood. Here, we showed that expression of the N-terminal
+                     fragment containing the expanded polyglutamine (HTTQ94) of mHTT is able to promote both the ACSL4-dependent and the ACSL4-independent
+                     ferroptosis. Surprisingly, inactivation of the ACSL4-dependent ferroptosis fails to show any effect on the life span of Huntington's
+                     disease mice. Moreover, by using RNAi-mediated screening, we identified ALOX5 as a major factor required for the ACSL4-independent
+                     ferroptosis induced by HTTQ94. Although ALOX5 is not required for the ferroptotic responses triggered by common ferroptosis
+                     inducers such as erastin, loss of ALOX5 expression abolishes HTTQ94-mediated ferroptosis upon reactive oxygen species (ROS)-induced
+                     stress. Interestingly, ALOX5 is also required for HTTQ94-mediated ferroptosis in neuronal cells upon high levels of glutamate.
+                     Mechanistically, HTTQ94 activates ALOX5-mediated ferroptosis by stabilizing FLAP, an essential cofactor of ALOX5-mediated
+                     lipoxygenase activity. Notably, inactivation of the <em>Alox5</em> gene abrogates the ferroptosis activity in the striatal neurons from the HD mice; more importantly, loss of ALOX5 significantly
+                     ameliorates the pathological phenotypes and extends the life spans of these HD mice. Taken together, these results demonstrate
+                     that ALOX5 is critical for mHTT-mediated ferroptosis and suggest that ALOX5 is a potential new target for Huntington's disease.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=HTT&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">HTT</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=ROS&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">ROS</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=ALOX5&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">ALOX5</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=GPX4&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">GPX4</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=ACSL4&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">ACSL4</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=ferroptosis&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">ferroptosis</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=oxidative%20stress&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">oxidative stress</a></span></li>
+               </ul>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-49">Supplemental material is available for this article.</p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-50">Article published online ahead of print. Article and publication date are online at <a href="http://www.genesdev.org/cgi/doi/10.1101/gad.350211.122">http://www.genesdev.org/cgi/doi/10.1101/gad.350211.122</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-11-02"><span class="received-label">Received </span>November 2, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2023-02-23"><span class="accepted-label">Accepted </span>February 23, 2023.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="/site/misc/terms.xhtml">© 2023 Song et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue
+                     publication date (see <a rel="license" href="/site/misc/terms.xhtml">http://genesdev.cshlp.org/site/misc/terms.xhtml</a>). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/37/5-6/191.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/37/5-6/218.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/37/5-6.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">March 15, 2023</span>,
+                                 doi:
+                                 <span title="10.1101/gad.350211.122" class="slug-doi">10.1101/gad.350211.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Genes &amp; Development" class="slug-jnl-abbrev">
+                                    Genes &amp; Dev.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    37: 
+                                    </span><span class="slug-pages">
+                                    204-217
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Song et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/37/5-6/204.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice"><a href="/content/37/5-6/204.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/37/5-6/204/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2023/03/15/gad.350211.122">gad.350211.122v1</a></li>
+                                 <li class="current-li"><span>37/5-6/204</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPERS&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPER</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genesdev%3B37%2F5-6%2F204&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/37/5-6/204.abstract?abspop=1">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=37/5-6/204&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/37/5-6/204.abstract?abspop=1">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genesdev%3Bgad.350211.122&amp;citation=Song%20et%20al.%2037%20%285-6%29:%20204&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genesdev%3B37%2F5-6%2F204&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=36921996&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genesdev%3B37%2F5-6%2F204">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/37/5-6/204.abstract?abspop=1&amp;cited-by=yes&amp;legid=genesdev;37/5-6/204#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenesdev%2F37%2F5-6%2F204&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ASong%20author%3AS.%22">Articles by  Song, S.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AGu%20author%3AW.%22">Articles by  Gu, W.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36921996&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Song%20S&amp;link_type=AUTHORSEARCH">Articles by  Song, S.</a></li>
+                        <li><a href="/external-ref?access_num=Gu%20W&amp;link_type=AUTHORSEARCH">Articles by  Gu, W.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36921996"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Gu, W.<a class="orcid-link" href="http://orcid.org/0000-0002-1641-5740">http://orcid.org/0000-0002-1641-5740</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genesdev%3B37%2F5-6%2F204&amp;current-view-path=/content/37/5-6/204.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/37/5-6/204&amp;title=ALOX5-mediated%20ferroptosis%20acts%20as%20a%20distinct%20cell%20death%20pathway%20upon%20oxidative%20stress%20in%20Huntington%27s%20disease+--+Song%20et%20al.%2037%20%285-6%29%3A%20204+--+GAD&amp;doi=10.1101/gad.350211.122&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-open" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>G&amp;D Most Read</span>
+                        
+                     </h4>
+                     <script type="text/javascript"
+                             src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gd"></script>
+                     <p style="padding-top:0;margin-top:0;margin-bottom:10px;text-align:right;">
+                        <a href="/site/misc/top_ten.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div style="margin-top:20px;margin-bottom:20px;">
+               <a data-widget-id="364429657619189760" href="https://twitter.com/genesdev"
+                  class="twitter-timeline"
+                  style="font-size:10px;">Tweets by @genesdev</a>
+               <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+               <div id="twitter-feed"></div>
+               <a href="https://twitter.com/genesdev" rel="external-nw"
+                  style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                  <img src="/site/misc/images/twitteruslg.gif" alt="follow us on twitter"
+                       title="Twitter" />
+                  </a>
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 1, 2023, 37 (5-6)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/37/5-6.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In This Issue</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/37/5-6/191">Localization of KIF1C to protrusions in nonneuronal cells and cell migration</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/218">Pioneer factor control of human neural stem cell differentiation</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/171">Mechanisms of adaptation to aneuploidy</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of G&amp;D</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genesdev.org" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/press_releases.xhtml" title="G&amp;D in the News"><span>G&amp;D in the News</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/careertracks.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57165&amp;adclick=true&amp;url=https%3A%2F%2Fwww.usascientific.com%2Fpersonal-minicentrifuge-%2Fp%2F8030-5000%3Futm_source%3DCSHLAD%26utm_medium%3DTow_PMCCI%26utm_campaign%3DPMC_Tow_CSHL%26utm_id%3DPMCCI"
+                     target="_blank"><img class="adborder0" title="USA Scientific"
+                          src="//genesdev.cshlp.org/adsystem/graphics/6275687000230071/genesdev/TOWER%20AD.jpg?ad=57165&amp;adview=true"
+                          alt="USA Scientific" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.life-science-alliance.org/?v=genes_and_development">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_lib.js"></script>
+               <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_gd.js"></script>
+               </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.genesdev.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">0890-9369</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5477</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-1");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

@@ -1,0 +1,604 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Data sharing for clinical utility </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/5/5/a004689" />
+      <meta content="/cshmcs/5/5/a004689.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Data sharing for clinical utility" name="DC.Title" />
+      <meta content="10.1101/mcs.a004689" name="DC.Identifier" />
+      <meta content="2019-10-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Isabel Bjork" name="DC.Contributor" />
+      <meta content="Jennifer Peralez" name="DC.Contributor" />
+      <meta content="David Haussler" name="DC.Contributor" />
+      <meta content="Sheri L. Spunt" name="DC.Contributor" />
+      <meta content="Olena Morozova Vaske" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Isabel Bjork" />
+      <meta name="citation_author_institution"
+            content="1University of California Santa Cruz Genomics Institute, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Jennifer Peralez" />
+      <meta name="citation_author_institution"
+            content="2Stanford University School of Medicine and Stanford Cancer Institute, Stanford, California 94305, USA;" />
+      <meta name="citation_author" content="David Haussler" />
+      <meta name="citation_author_institution"
+            content="1University of California Santa Cruz Genomics Institute, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author_institution"
+            content="3Howard Hughes Medical Institute, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author" content="Sheri L. Spunt" />
+      <meta name="citation_author_institution"
+            content="2Stanford University School of Medicine and Stanford Cancer Institute, Stanford, California 94305, USA;" />
+      <meta name="citation_author" content="Olena Morozova Vaske" />
+      <meta name="citation_author_institution"
+            content="1University of California Santa Cruz Genomics Institute, Santa Cruz, California 95064, USA;" />
+      <meta name="citation_author_institution"
+            content="4Department of Molecular, Cell and Developmental Biology, University of California Santa Cruz, Santa Cruz, California 95064, USA" />
+      <meta content="Data sharing for clinical utility" name="citation_title" />
+      <meta content="10/01/2019" name="citation_date" />
+      <meta content="5" name="citation_volume" />
+      <meta content="5" name="citation_issue" />
+      <meta content="a004689" name="citation_firstpage" />
+      <meta content="5/5/a004689" name="citation_id" />
+      <meta content="5/5/a004689" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;5/5/a004689" name="citation_mjid" />
+      <meta content="10.1101/mcs.a004689" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/5/a004689.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/5/a004689.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/5/5.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/5/a004689"
+            name="citation_public_url" />
+      <meta content="31645349" name="citation_pmid" />
+      <meta name="citation_section" content="PERSPECTIVE" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/5/5/a004606.short" rel="prev" />
+      <link href="/content/5/5/a004739.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d146386239e1">var callbackToken='567956C92C1D71F';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=56645&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                        target="_blank"><img class="adborder0" title="AACR Annual Meeting 2023"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/5793381769214703/genesdev/2202032Q_AACR23AM_468x60_1.jpg?ad=56645&amp;adview=true"
+                             alt="AACR Annual Meeting 2023" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Data sharing for clinical utility</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Isabel+Bjork&amp;sortspec=date&amp;submit=Submit">Isabel Bjork</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Jennifer+Peralez&amp;sortspec=date&amp;submit=Submit">Jennifer Peralez</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=David+Haussler&amp;sortspec=date&amp;submit=Submit">David Haussler</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sheri+L.+Spunt&amp;sortspec=date&amp;submit=Submit">Sheri L. Spunt</a></span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a> and 
+                     </li>
+                     <li class="last" id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=Olena+Morozova+Vaske&amp;sortspec=date&amp;submit=Submit">Olena Morozova Vaske</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>University of California Santa Cruz Genomics Institute, Santa Cruz, California 95064, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Stanford University School of Medicine and Stanford Cancer Institute, Stanford, California 94305, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Howard Hughes Medical Institute, Santa Cruz, California 95064, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Department of Molecular, Cell and Developmental Biology, University of California Santa Cruz, Santa Cruz, California 95064,
+                           USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">ibjork{at}ucsc.edu</span></span>; <span class="em-link"><span class="em-addr">olena{at}ucsc.edu</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">Genomic data offer valuable insights that can be used to help find treatments and cures for disease. Precision medicine, defined
+                     by the NIH as “an emerging approach for disease treatment and prevention that takes into account individual variability in
+                     genes, environment, and lifestyle for each person,” is gaining acceptance among physicians, who are beginning to integrate
+                     patient-centric data analysis into clinical decision-making. Although precision medicine makes use of various types of data,
+                     this piece focuses on molecular characterization data specifically, as the discoveries yielded from these data can advance
+                     thinking around clinical care for cancer patients. Our pediatrics genomics team at the University of California Santa Cruz
+                     Genomics Institute is uniquely situated to discuss the use of shared genomic data for clinical benefit because our collaborations
+                     with hospital partners in the United States and internationally rely on big-data comparative genomic analysis. Using shared
+                     data, Treehouse Childhood Cancer Initiative develops methods for comparative analysis of tumor RNA sequencing profiles from
+                     single patients for the purposes of identifying overexpressed oncogenes that could be targeted by therapies in the clinic.
+                     To enable and improve this analysis, we continuously increase the size of our data compendium by adding public pediatric tumor
+                     RNA sequencing data sets. We developed an approach for assessing the quality of shared RNA sequencing data to ensure the integrity
+                     of the data. In this approach we calculate the number of mapped exonic nonduplicate (MEND) reads, applying a 10 million MEND
+                     read minimum threshold for inclusion in our comparative analysis. In collaboration with Stanford University and Lucile Packard
+                     Children's Hospital Stanford, our team at Treehouse Childhood Cancer Initiative explores the value to researchers everywhere
+                     of shared genomic data for clinical utility and the challenges of data sharing that threaten to impede otherwise rapid advances
+                     in precision medicine. This Perspective offers recommendations for maximizing the use of genomic data to make discoveries
+                     that will benefit patients.
+                  </p>
+               </div>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2019 Bjork et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="relmgr-related"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/5/5/a004606.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/5/5/a004739.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/5/5.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/mcs.a004689" class="slug-doi">10.1101/mcs.a004689
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    5: 
+                                    </span><span class="slug-pages">
+                                    a004689
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2019 Bjork et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/5/5/a004689.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/5/5/a004689.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=PERSPECTIVE&amp;sortspec=date&amp;submit=Submit">PERSPECTIVE</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B5%2F5%2Fa004689&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=5/5/a004689&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=5/5/a004689&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;5/5/a004689" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a004689&amp;citation=Bjork%20et%20al.%205%20%285%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B5%2F5%2Fa004689&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=31645349&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B5%2F5%2Fa004689">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;5/5/a004689"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/5/5/a004689.abstract?cited-by=yes&amp;legid=cshmcs;5/5/a004689#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F5%2F5%2Fa004689&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ABjork%20author%3AI.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Bjork, I.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AVaske%20author%3AO.M.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Vaske, O. M.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/5/a004689.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=31645349&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Bjork%20I&amp;link_type=AUTHORSEARCH">Articles by  Bjork, I.</a></li>
+                        <li><a href="/external-ref?access_num=Vaske%20OM&amp;link_type=AUTHORSEARCH">Articles by  Vaske, O. M.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/31645349"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/5/5/a004689.abstract?related-urls=yes&amp;legid=cshmcs;5/5/a004689#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B5%2F5%2Fa004689&amp;current-view-path=/content/5/5/a004689.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/5/a004689&amp;title=Data%20sharing%20for%20clinical%20utility+--+Bjork%20et%20al.%205%20%285%29+--+cshmcs&amp;doi=10.1101/mcs.a004689&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57343&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fprofessionals%2Fmeetings%2Fmeetings-and-workshops-calendar%2F"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/5793381769214703/genesdev/2303063B_MCS_SciConf_160x800_1.jpg?ad=57343&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

@@ -1,0 +1,535 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Labeling Pinocytotic Vesicles and Cytoplasm with Fluorescent Dextrans or Ficolls for Imaging </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/2009/11/pdb.prot4951" />
+      <meta content="/protocols/2009/11/pdb.prot4951.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Labeling Pinocytotic Vesicles and Cytoplasm with Fluorescent Dextrans or Ficolls for Imaging"
+            name="DC.Title" />
+      <meta content="10.1101/pdb.prot4951" name="DC.Identifier" />
+      <meta content="2009-11-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Brad Chazotte" name="DC.Contributor" />
+      <meta content="119" name="citation_collection_id" />
+      <meta content="122" name="citation_collection_id" />
+      <meta content="130" name="citation_collection_id" />
+      <meta content="132" name="citation_collection_id" />
+      <meta content="140" name="citation_collection_id" />
+      <meta content="144" name="citation_collection_id" />
+      <meta content="145" name="citation_collection_id" />
+      <meta content="152" name="citation_collection_id" />
+      <meta content="80" name="citation_collection_id" />
+      <meta content="95001" name="citation_collection_id" />
+      <meta content="Cold Spring Harbor Protocols" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Protoc" name="citation_journal_abbrev" />
+      <meta content="1940-3402" name="citation_issn" />
+      <meta content="1559-6095" name="citation_issn" />
+      <meta name="citation_author" content="Brad Chazotte" />
+      <meta content="Labeling Pinocytotic Vesicles and Cytoplasm with Fluorescent Dextrans or Ficolls for Imaging"
+            name="citation_title" />
+      <meta content="11/01/2009" name="citation_date" />
+      <meta content="2009" name="citation_volume" />
+      <meta content="11" name="citation_issue" />
+      <meta content="pdb.prot4951" name="citation_firstpage" />
+      <meta content="2009/11/pdb.prot4951" name="citation_id" />
+      <meta content="2009/11/pdb.prot4951" name="citation_id_from_sass_path" />
+      <meta content="protocols;2009/11/pdb.prot4951" name="citation_mjid" />
+      <meta content="10.1101/pdb.prot4951" name="citation_doi" />
+      <meta content="http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/2009/11.cover.gif" name="issue_cover_image" />
+      <meta content="http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951"
+            name="citation_public_url" />
+      <meta content="20150050" name="citation_pmid" />
+      <meta name="citation_section" content="Protocol" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/2009/11/pdb.caut2781.short" rel="prev" />
+      <link href="/content/2009/11/pdb.prot4968.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d5312303e1">var callbackToken='5671110B2F4E447';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/local/js/hw-local-global.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a class="header-logo" href="/"><img title="Cold Spring Harbor Protocols" alt="Cold Spring Harbor Protocols"
+                    class="header-logo"
+                    width="387"
+                    height="83"
+                    src="/local/img/journal_logo.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/site/misc/subject.xhtml" title="SUBJECT CATEGORIES"><span>SUBJECT CATEGORIES</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/cgi/feedback" title="FEEDBACK"><span>FEEDBACK</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               		
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     				<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     				<input value="" title="Search Cold Spring Harbor Protocols" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     			
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div><input type="hidden" name="tocsectionid" class="search-section" value="protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="recipe" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="topic introduction" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="emerging model organisms" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="product protocol" /><input type="hidden" name="tocsectionid" class="search-section" value="kit" /><input type="hidden" name="tocsectionid" class="search-section"
+                         value="information panel" /></form>
+               	
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57143&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cytoskeleton.com%2Factivation-assays%3Futm_source%3Dcshl-pro%26utm_medium%3Dbanner%26utm_campaign%3Daa41123"
+                        target="_blank"><img class="adborder0" title="Cytoskeleton"
+                             src="//cshprotocols.cshlp.org/adsystem/graphics/18886349282163994/genesdev/Protocols%20Banner%20AA.gif?ad=57143&amp;adview=true"
+                             alt="Cytoskeleton" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div xmlns="" class="section-name protocol">Protocol</div>
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Labeling Pinocytotic Vesicles and Cytoplasm with Fluorescent Dextrans or Ficolls for Imaging</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="last" id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=Brad+Chazotte&amp;sortspec=date&amp;submit=Submit">Brad Chazotte</a></span></li>
+                  </ol>
+               </div><span class="SOURCE">Adapted from <a href="http://www.cshlpress.com/link/basmicp.htm"><em>Basic Methods in Microscopy</em></a> (eds. Spector and Goldman). CSHL Press, Cold Spring Harbor, NY, USA, 2006.</span><div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>INTRODUCTION</h2>
+                  <p id="p-1">The eukaryotic cell has evolved to compartmentalize its functions and transport various metabolites among cellular compartments.
+                     Therefore, in cell biology, the study of organization and structure/function relationships is of great importance. Dextran,
+                     a high-molecular-weight poly-D-glucose, and ficoll, a synthetic polymer of epichlorhydrin and sucrose, are electroneutral,
+                     hydrophilic polysaccharides whose size can be varied. This variability in size coupled with their membrane impermeability
+                     can make them useful for studying fluid-phase pinocytosis, the size of membrane pores (e.g., nuclear membrane pores), or the
+                     environmental conditions and size of a cell compartment. This article presents a method for labeling live or fixed cells with
+                     substituted forms of dextran or ficoll attached to a fluorescent conjugate. In the event that the desired probe is not available
+                     commercially, this article also provides a method for covalently attaching a fluorophore to substituted polysaccharide.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/2009/11/pdb.caut2781.short" title="Previous article"
+                  class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/2009/11/pdb.prot4968.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/2009/11.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              <span title="10.1101/pdb.prot4951" class="slug-doi">doi:10.1101/pdb.prot4951</span>
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Protocols" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Protoc</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2009.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    2009: 
+                                    </span><span class="slug-pages">
+                                    pdb.prot4951-
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span><span class="viewspecificaccesscheck protocols;2009/11/pdb.prot4951 abstract"></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/2009/11/pdb.prot4951.full" rel="view-full-text">Full Text</a><span class="viewspecificaccesscheck protocols;2009/11/pdb.prot4951 full"></span></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/2009/11/pdb.prot4951.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="viewspecificaccesscheck protocols;2009/11/pdb.prot4951 reprint"></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <div xmlns="" class="section-name protocol">Protocol</div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=protocols%3B2009%2F11%2Fpdb.prot4951&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=2009/11/pdb.prot4951&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract">Alert me if a correction is posted</a></li>
+                        <li class="similar-link"><a href="/search?qbe=protocols%3B2009%2F11%2Fpdb.prot4951&amp;citation=Chazotte%202009%20%2811%29:%20pdb.prot4951&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=protocols%3B2009%2F11%2Fpdb.prot4951&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=20150050&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=protocols%3B2009%2F11%2Fpdb.prot4951">Download to citation manager</a></li>
+                        <li><a href="http://www.cshlpress.com/permission_form.tpl">
+                              				Permissions
+                              			</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-folder-col">
+                     <h4 class="cb-section-header"><span>Personal Folder</span></h4>
+                     <ol>
+                        <li><a href="/cgi/folders?action=addtofolder&amp;wherefrom=JOURNALS&amp;wrapped_id=protocols%3B2009%2F11%2Fpdb.prot4951">Save to Personal Folders</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Updates/Comments</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/protocols;2009/11/pdb.prot4951"
+                              class="eletter-link eletter-submit-link">Submit Updates/Comments</a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Updates/Comments published</span></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=2009/11/pdb.prot4951&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract">Alert me when Updates/Comments are published</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/2009/11/pdb.prot4951.abstract?cited-by=yes&amp;legid=protocols;2009/11/pdb.prot4951#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fprotocols%2F2009%2F11%2Fpdb.prot4951&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AChazotte%20author%3AB.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Chazotte, B.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://cshprotocols.cshlp.org/content/2009/11/pdb.prot4951.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=20150050&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Chazotte%20B&amp;link_type=AUTHORSEARCH">Articles by  Chazotte, B.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-open" id="cb-art-col">
+                     <h4 class="cb-section-header"><span>Subject Categories</span></h4>
+                     <ol>
+                        <li><a href="/cgi/collection/cell_biology_general">Cell Biology, general</a></li>
+                        <li><a href="/cgi/collection/cell_culture">Cell Culture</a></li>
+                        <li><a href="/cgi/collection/visualization">Visualization</a></li>
+                        <li><a href="/cgi/collection/visualization_of_organelles">Visualization of Organelles</a></li>
+                        <li><a href="/cgi/collection/imaging_microscopy_general">Imaging/Microscopy, general</a></li>
+                        <li><a href="/cgi/collection/fluorescence">Fluorescence</a></li>
+                        <li><a href="/cgi/collection/fluorescence_general">Fluorescence, general</a></li>
+                        <li><a href="/cgi/collection/labeling_for_imaging">Labeling for Imaging</a></li>
+                        <li><a href="/cgi/collection/cell_imaging">Cell Imaging</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/2009/11/pdb.prot4951.abstract?related-urls=yes&amp;legid=protocols;2009/11/pdb.prot4951#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=protocols%3B2009%2F11%2Fpdb.prot4951&amp;current-view-path=/content/2009/11/pdb.prot4951.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/short/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://cshprotocols.cshlp.org/cgi/content/long/2009/11/pdb.prot4951&amp;title=Labeling%20Pinocytotic%20Vesicles%20and%20Cytoplasm%20with%20Fluorescent%20Dextrans%20or%20Ficolls%20for%20Imaging+--+Chazotte%202009%20%2811%29%3A%20pdb.prot4951+--+0-87969-577-3&amp;doi=10.1101/pdb.prot4951&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">April 2023, 2023 (4)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/2023/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/2023/4.cover-expansion">Scanning electron micrograph of a <em>D. melanogaster</em> antenna</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/site/misc/sample.xhtml" title="Featured Articles"><span>Featured Articles</span></a></li>
+                  <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                  <li><a href="/site/recipes/" title="Recipes"><span>Recipes</span></a></li>
+                  <li><a href="/content/by/year" title="Archive by Date"><span>Archive by Date</span></a></li>
+                  <li><a href="/site/misc/alertland.xhtml" title="Alerts and RSS Feeds"><span>Alerts and RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="http://www.cshlpress.com/permission_form.tpl" title="Permissions"><span>Permissions</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57314&amp;adclick=true&amp;url=https%3A%2F%2Fproducts.advansta.com%2Fwestern-blot-blocking-buffer%2F"
+                     target="_blank"><img class="adborder0" title="Advansta"
+                          src="//cshprotocols.cshlp.org/adsystem/graphics/5480342980811327/protocols/CSHL-Tower-AdvanBlock-PF_160x800.gif?ad=57314&amp;adview=true"
+                          alt="Advansta" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:25px;">
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  <tbody>
+                     <tr>
+                        <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;padding-right:12px;vertical-align:top;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/site/misc/subject.xhtml" title="Subject Categories"><span>Subject Categories</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li class="advertise"><a href="/site/misc/Protocols_Media_Kit.pdf" title="ADVERTISE"><span>Advertise</span></a></li>
+                     <li><a href="/cgi/feedback" title="Feedback"><span>Feedback</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.org" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press. </a><a href="/site/misc/terms.xhtml">Terms of Service.</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1940-3402</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1559-6095</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-4");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

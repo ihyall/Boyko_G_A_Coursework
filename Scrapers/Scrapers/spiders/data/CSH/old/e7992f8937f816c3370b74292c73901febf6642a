@@ -1,0 +1,661 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Genetic diagnosis for adult patients at a genetic clinic </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/8/7/a006235" />
+      <meta content="/cshmcs/8/7/a006235.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Genetic diagnosis for adult patients at a genetic clinic"
+            name="DC.Title" />
+      <meta content="10.1101/mcs.a006235" name="DC.Identifier" />
+      <meta content="2022-12-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Kitiwan Rojnueangnit" name="DC.Contributor" />
+      <meta content="Pimjai Anthanont" name="DC.Contributor" />
+      <meta content="Thanitchet Khetkham" name="DC.Contributor" />
+      <meta content="Sukita Puttamanee" name="DC.Contributor" />
+      <meta content="Chupong Ittiwut" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Kitiwan Rojnueangnit" />
+      <meta name="citation_author_orcid" content="0000-0002-9488-4470" />
+      <meta name="citation_author_institution"
+            content="1Department of Pediatrics, Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;" />
+      <meta name="citation_author" content="Pimjai Anthanont" />
+      <meta name="citation_author_orcid" content="0000-0002-0134-6279" />
+      <meta name="citation_author_institution"
+            content="2Department of Medicine, Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;" />
+      <meta name="citation_author" content="Thanitchet Khetkham" />
+      <meta name="citation_author_orcid" content="0000-0001-6657-1306" />
+      <meta name="citation_author_institution"
+            content="3Division of Forensic Medicine, Thammasat University Hospital, 12120 Thailand;" />
+      <meta name="citation_author" content="Sukita Puttamanee" />
+      <meta name="citation_author_institution"
+            content="4Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;" />
+      <meta name="citation_author" content="Chupong Ittiwut" />
+      <meta name="citation_author_orcid" content="0000-0002-7238-589X" />
+      <meta name="citation_author_institution"
+            content="5Center of Excellence for Medical Genomics, Department of Pediatrics, Faculty of Medicine, Chulalongkorn University, Bangkok, 10330 Thailand;" />
+      <meta name="citation_author_institution"
+            content="6Excellence Center for Genomics and Precision Medicine, King Chulalongkorn Memorial Hospital, the Thai Red Cross Society, Bangkok, 10330 Thailand" />
+      <meta content="Genetic diagnosis for adult patients at a genetic clinic"
+            name="citation_title" />
+      <meta content="12/01/2022" name="citation_date" />
+      <meta content="8" name="citation_volume" />
+      <meta content="7" name="citation_issue" />
+      <meta content="a006235" name="citation_firstpage" />
+      <meta content="8/7/a006235" name="citation_id" />
+      <meta content="8/7/a006235" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;8/7/a006235" name="citation_mjid" />
+      <meta content="10.1101/mcs.a006235" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006235.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006235.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006235.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/8/7.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/8/7/a006235"
+            name="citation_public_url" />
+      <meta content="36265913" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH REPORT" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/8/7/a006227.short" rel="prev" />
+      <link href="/content/8/7/a006237.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d137827436e1">var callbackToken='5679204ADC17612';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57292&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cancercareers.org%2Fprofiles%2Fsign_up"
+                        target="_blank"><img class="adborder0" title="AACR"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/2116840406267525/cshmcs/2206012Q_AACR23AM_CarFair-UpWin_468x60_1.jpg?ad=57292&amp;adview=true"
+                             alt="AACR" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Genetic diagnosis for adult patients at a genetic clinic</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Kitiwan+Rojnueangnit&amp;sortspec=date&amp;submit=Submit">Kitiwan Rojnueangnit</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Pimjai+Anthanont&amp;sortspec=date&amp;submit=Submit">Pimjai Anthanont</a></span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Thanitchet+Khetkham&amp;sortspec=date&amp;submit=Submit">Thanitchet Khetkham</a></span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sukita+Puttamanee&amp;sortspec=date&amp;submit=Submit">Sukita Puttamanee</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a> and 
+                     </li>
+                     <li class="last" id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=Chupong+Ittiwut&amp;sortspec=date&amp;submit=Submit">Chupong Ittiwut</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a><span class="xref-sep">,</span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Pediatrics, Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Department of Medicine, Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Division of Forensic Medicine, Thammasat University Hospital, 12120 Thailand;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Faculty of Medicine, Thammasat University, Pathumthani, 12120 Thailand;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Center of Excellence for Medical Genomics, Department of Pediatrics, Faculty of Medicine, Chulalongkorn University, Bangkok,
+                           10330 Thailand;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Excellence Center for Genomics and Precision Medicine, King Chulalongkorn Memorial Hospital, the Thai Red Cross Society, Bangkok,
+                           10330 Thailand
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding author: <span class="em-link"><span class="em-addr">rkitiwan{at}tu.ac.th</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-2">Clinical utility of genetic testing has rapidly increased in the past decade to identify the definitive diagnosis, etiology,
+                     and specific management. The majority of patients receiving testing are children. There are several barriers for genetic tests
+                     in adult patients; barriers may arise from either patients or clinicians. Our study aims to realize the detection rate and
+                     the benefits of genetic tests in adults. We conducted a prospective study of 10 adult patients who were referred to a genetic
+                     clinic. Exome sequencing (ES) was pursued in all cases, and chromosomal microarray (CMA) was performed for six cases. Our
+                     result is impressive; six cases (60%) received likely pathogenic and pathogenic variants. Four definitive diagnosis cases
+                     had known pathogenic variants in <em>KCNJ2</em>, <em>TGFBR1</em>, <em>SCN1A</em>, and <em>FBN1</em>, whereas another two cases revealed novel likely pathogenic and pathogenic variants in <em>GNB1</em> and <em>DNAH9.</em> Our study demonstrates the success in genetic diagnosis in adult patients: four cases with definitive, two cases with possible,
+                     and one case with partial diagnosis. The advantage of diagnosis is beyond obtaining the diagnosis itself, but also relieving
+                     any doubt for the patient regarding any previous questionable diagnosis, guide for management, and recurrence risk in their
+                     children or family members. Therefore, this supports the value of genetic testing in adult patients.
+                  </p>
+               </div>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=aortic+aneurysm&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">aortic aneurysm</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=cleft+palate&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">cleft palate</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=cleft+upper+lip&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">cleft upper lip</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=disproportionate+tall+stature&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">disproportionate tall stature</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=generalized+tonic%E2%80%93clonic+seizures+on+awakening&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">generalized tonic–clonic seizures on awakening</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=intellectual+disability,+moderate&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">intellectual disability, moderate</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=intellectual+disability,+severe&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">intellectual disability, severe</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=primary+congenital+glaucoma&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">primary congenital glaucoma</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=skeletal+myopathy&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">skeletal myopathy</a></span></li>
+               </ul>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2022-07-15"><span class="received-label">Received </span>July 15, 2022.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2022-10-04"><span class="accepted-label">Accepted </span>October 4, 2022.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2022 Rojnueangnit et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-1">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/8/7/a006227.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/8/7/a006237.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/8/7.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">October 20, 2022</span>,
+                                 doi:
+                                 <span title="10.1101/mcs.a006235" class="slug-doi">10.1101/mcs.a006235
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    8: 
+                                    </span><span class="slug-pages">
+                                    a006235
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2022 Rojnueangnit et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/8/7/a006235.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/8/7/a006235.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2022/10/20/mcs.a006235">mcs.a006235v1</a></li>
+                                 <li class="current-li"><span>8/7/a006235</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+REPORT&amp;sortspec=date&amp;submit=Submit">RESEARCH REPORT</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B8%2F7%2Fa006235&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006235.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=8/7/a006235&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006235.abstract">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=8/7/a006235&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/8/7/a006235.abstract">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;8/7/a006235" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a006235&amp;citation=Rojnueangnit%20et%20al.%208%20%287%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B8%2F7%2Fa006235&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=36265913&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B8%2F7%2Fa006235">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;8/7/a006235"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/8/7/a006235.abstract?cited-by=yes&amp;legid=cshmcs;8/7/a006235#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F8%2F7%2Fa006235&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ARojnueangnit%20author%3AK.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Rojnueangnit, K.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AIttiwut%20author%3AC.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Ittiwut, C.</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=36265913&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Rojnueangnit%20K&amp;link_type=AUTHORSEARCH">Articles by  Rojnueangnit, K.</a></li>
+                        <li><a href="/external-ref?access_num=Ittiwut%20C&amp;link_type=AUTHORSEARCH">Articles by  Ittiwut, C.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36265913"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Rojnueangnit, K.<a class="orcid-link" href="http://orcid.org/0000-0002-9488-4470">http://orcid.org/0000-0002-9488-4470</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Anthanont, P.<a class="orcid-link" href="http://orcid.org/0000-0002-0134-6279">http://orcid.org/0000-0002-0134-6279</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Khetkham, T.<a class="orcid-link" href="http://orcid.org/0000-0001-6657-1306">http://orcid.org/0000-0001-6657-1306</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Ittiwut, C.<a class="orcid-link" href="http://orcid.org/0000-0002-7238-589X">http://orcid.org/0000-0002-7238-589X</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/8/7/a006235.abstract?related-urls=yes&amp;legid=cshmcs;8/7/a006235#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B8%2F7%2Fa006235&amp;current-view-path=/content/8/7/a006235.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/8/7/a006235&amp;title=Genetic%20diagnosis%20for%20adult%20patients%20at%20a%20genetic%20clinic+--+Rojnueangnit%20et%20al.%208%20%287%29+--+cshmcs&amp;doi=10.1101/mcs.a006235&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57343&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fprofessionals%2Fmeetings%2Fmeetings-and-workshops-calendar%2F"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/2116840406267525/genesdev/2303063B_MCS_SciConf_160x800_1.jpg?ad=57343&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

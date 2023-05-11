@@ -1,0 +1,920 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Response to olaparib in a PALB2 germline mutated prostate cancer and genetic events associated with resistance </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="An open-access, peer-reviewed, international journal in the field of precision medicine. Articles in the journal present genomic and molecular analyses of individuals or cohorts alongside their clinical presentations and phenotypic information." />
+      <meta name="HW.ad-path" content="/cgi/content/abstract/5/2/a003657" />
+      <meta content="/cshmcs/5/2/a003657.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Response to olaparib in a PALB2 germline mutated prostate cancer and genetic events associated with resistance"
+            name="DC.Title" />
+      <meta content="10.1101/mcs.a003657" name="DC.Identifier" />
+      <meta content="2019-04-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Peter Horak" name="DC.Contributor" />
+      <meta content="Joachim Weischenfeldt" name="DC.Contributor" />
+      <meta content="Gunhild von Amsberg" name="DC.Contributor" />
+      <meta content="Burkhard Beyer" name="DC.Contributor" />
+      <meta content="Andreas Schütte" name="DC.Contributor" />
+      <meta content="Sebastian Uhrig" name="DC.Contributor" />
+      <meta content="Laura Gieldon" name="DC.Contributor" />
+      <meta content="Barbara Klink" name="DC.Contributor" />
+      <meta content="Lars Feuerbach" name="DC.Contributor" />
+      <meta content="Daniel Hübschmann" name="DC.Contributor" />
+      <meta content="Simon Kreutzfeldt" name="DC.Contributor" />
+      <meta content="Christoph Heining" name="DC.Contributor" />
+      <meta content="Sebastian Maier" name="DC.Contributor" />
+      <meta content="Barbara Hutter" name="DC.Contributor" />
+      <meta content="Roland Penzel" name="DC.Contributor" />
+      <meta content="Matthias Schlesner" name="DC.Contributor" />
+      <meta content="Roland Eils" name="DC.Contributor" />
+      <meta content="Guido Sauter" name="DC.Contributor" />
+      <meta content="Albrecht Stenzinger" name="DC.Contributor" />
+      <meta content="Benedikt Brors" name="DC.Contributor" />
+      <meta content="Evelin Schröck" name="DC.Contributor" />
+      <meta content="Hanno Glimm" name="DC.Contributor" />
+      <meta content="Stefan Fröhling" name="DC.Contributor" />
+      <meta content="Thorsten Schlomm" name="DC.Contributor" />
+      <meta content="Molecular Case Studies" name="citation_journal_title" />
+      <meta content="Cold Spring Harb Mol Case Stud" name="citation_journal_abbrev" />
+      <meta content="" name="citation_issn" />
+      <meta content="2373-2873" name="citation_issn" />
+      <meta name="citation_author" content="Peter Horak" />
+      <meta name="citation_author_orcid" content="0000-0003-4536-9306" />
+      <meta name="citation_author_institution"
+            content="1Department of Translational Medical Oncology, National Center for Tumor Diseases (NCT) Heidelberg and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="2DKFZ-Heidelberg Center for Personalized Oncology (HIPO), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Joachim Weischenfeldt" />
+      <meta name="citation_author_institution"
+            content="4Biotech Research &amp; Innovation Centre (BRIC) and Finsen Laboratory, University of Copenhagen and Rigshospitalet, 2200 Copenhagen, Denmark;" />
+      <meta name="citation_author_institution"
+            content="24Department of Urology, Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany" />
+      <meta name="citation_author" content="Gunhild von Amsberg" />
+      <meta name="citation_author_institution"
+            content="5Hubertus Wald Tumorzentrum, University Cancer Center Hamburg (UCCH), 20251 Hamburg, Germany;" />
+      <meta name="citation_author" content="Burkhard Beyer" />
+      <meta name="citation_author_institution"
+            content="6Martini-Clinic, Prostate Cancer Center, University Medical Center Hamburg-Eppendorf, 20246 Hamburg, Germany;" />
+      <meta name="citation_author" content="Andreas Schütte" />
+      <meta name="citation_author_institution"
+            content="7Department of Urology, St. Antonius-Hospital, 48599 Gronau, Germany;" />
+      <meta name="citation_author" content="Sebastian Uhrig" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="8Division of Applied Bioinformatics, DKFZ and NCT Heidelberg, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="9Faculty of Biosciences, Heidelberg University, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Laura Gieldon" />
+      <meta name="citation_author_institution"
+            content="10Institute for Clinical Genetics, Faculty of Medicine Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="11NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="12German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Barbara Klink" />
+      <meta name="citation_author_institution"
+            content="10Institute for Clinical Genetics, Faculty of Medicine Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="11NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="12German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Lars Feuerbach" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="8Division of Applied Bioinformatics, DKFZ and NCT Heidelberg, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Daniel Hübschmann" />
+      <meta name="citation_author_orcid" content="0000-0002-6041-7049" />
+      <meta name="citation_author_institution"
+            content="13Division of Theoretical Bioinformatics, DKFZ, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="14Department of Pediatric Immunology, Hematology and Oncology, Heidelberg University Hospital, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="15Division of Stem Cells and Cancer, DKFZ, Heidelberg, Germany and Heidelberg Institute for Stem Cell Technology and Experimental Medicine (HI-STEM gGmbH), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Simon Kreutzfeldt" />
+      <meta name="citation_author_institution"
+            content="1Department of Translational Medical Oncology, National Center for Tumor Diseases (NCT) Heidelberg and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Christoph Heining" />
+      <meta name="citation_author_institution"
+            content="11NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="12German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="16Department of Translational Medical Oncology, NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="17University Hospital Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author" content="Sebastian Maier" />
+      <meta name="citation_author_institution"
+            content="18Progether Prostate Cancer Network, 0349 Oslo, Norway;" />
+      <meta name="citation_author" content="Barbara Hutter" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="8Division of Applied Bioinformatics, DKFZ and NCT Heidelberg, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Roland Penzel" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="19Institute of Pathology, Heidelberg University Hospital, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Matthias Schlesner" />
+      <meta name="citation_author_orcid" content="0000-0002-5896-4086" />
+      <meta name="citation_author_institution"
+            content="20Bioinformatics and Omics Data Analytics, DKFZ, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Roland Eils" />
+      <meta name="citation_author_institution"
+            content="21Health Data Science Unit, Bioquant, Medical Faculty, University of Heidelberg, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="22Center for Digital Health, Berlin Institute of Health and Charité Universitätsmedizin Berlin, 10178 Berlin, Germany;" />
+      <meta name="citation_author" content="Guido Sauter" />
+      <meta name="citation_author_institution"
+            content="23Institute of Pathology, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany;" />
+      <meta name="citation_author" content="Albrecht Stenzinger" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="19Institute of Pathology, Heidelberg University Hospital, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Benedikt Brors" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="8Division of Applied Bioinformatics, DKFZ and NCT Heidelberg, 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Evelin Schröck" />
+      <meta name="citation_author_institution"
+            content="10Institute for Clinical Genetics, Faculty of Medicine Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="11NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="12German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Hanno Glimm" />
+      <meta name="citation_author_institution"
+            content="11NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="12German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="16Department of Translational Medical Oncology, NCT Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author_institution"
+            content="17University Hospital Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;" />
+      <meta name="citation_author" content="Stefan Fröhling" />
+      <meta name="citation_author_institution"
+            content="1Department of Translational Medical Oncology, National Center for Tumor Diseases (NCT) Heidelberg and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="2DKFZ-Heidelberg Center for Personalized Oncology (HIPO), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author_institution"
+            content="3German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;" />
+      <meta name="citation_author" content="Thorsten Schlomm" />
+      <meta name="citation_author_institution"
+            content="24Department of Urology, Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany" />
+      <meta content="Response to olaparib in a PALB2 germline mutated prostate cancer and genetic events associated with resistance"
+            name="citation_title" />
+      <meta content="04/01/2019" name="citation_date" />
+      <meta content="5" name="citation_volume" />
+      <meta content="2" name="citation_issue" />
+      <meta content="a003657" name="citation_firstpage" />
+      <meta content="5/2/a003657" name="citation_id" />
+      <meta content="5/2/a003657" name="citation_id_from_sass_path" />
+      <meta content="cshmcs;5/2/a003657" name="citation_mjid" />
+      <meta content="10.1101/mcs.a003657" name="citation_doi" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a003657.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a003657.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/5/2.cover.gif" name="issue_cover_image" />
+      <meta content="http://molecularcasestudies.cshlp.org/content/5/2/a003657"
+            name="citation_public_url" />
+      <meta content="30833416" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH REPORT" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/5/2/a003640.short" rel="prev" />
+      <link href="/content/5/2/a003665.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design25/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/jquery.fancybox-1.3.4.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-global-colexpand.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-local-sidebars.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d146418114e1">var callbackToken='567956C92C1D71F';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+              src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" src="/shared/js/util/executeAccessCheck.js"></script><script type="text/javascript" src="/shared/js/util/AccessCheckLib.js"></script><script type="text/javascript" src="/local/js/hw-local-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="/"><img title="Cold Spring Harbor Molecular Case Studies"
+                    alt="Cold Spring Harbor Molecular Case Studies"
+                    width="390"
+                    height="83"
+                    src="/local/img/journal_logo.png" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="http://submit.molecularcasestudies.org" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/alertland.xhtml" title="ALERTS / RSS"><span>ALERTS / RSS</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     <input value="" title="Search Cold Spring Harbor Molecular Case Studies" type="text"
+                            name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" /> 
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=56645&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                        target="_blank"><img class="adborder0" title="AACR Annual Meeting 2023"
+                             src="//molecularcasestudies.cshlp.org/adsystem/graphics/34903010216308406/genesdev/2202032Q_AACR23AM_468x60_1.jpg?ad=56645&amp;adview=true"
+                             alt="AACR Annual Meeting 2023" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Response to olaparib in a <em>PALB2</em> germline mutated prostate cancer and genetic events associated with resistance
+               </h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Peter+Horak&amp;sortspec=date&amp;submit=Submit">Peter Horak</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Joachim+Weischenfeldt&amp;sortspec=date&amp;submit=Submit">Joachim Weischenfeldt</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a><span class="xref-sep">,</span><a id="xref-aff-24-1" class="xref-aff" href="#aff-24">24</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Gunhild+von+Amsberg&amp;sortspec=date&amp;submit=Submit">Gunhild von Amsberg</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Burkhard+Beyer&amp;sortspec=date&amp;submit=Submit">Burkhard Beyer</a></span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Andreas+Sch%C3%BCtte&amp;sortspec=date&amp;submit=Submit">Andreas Schütte</a></span><a id="xref-aff-7-1" class="xref-aff" href="#aff-7">7</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sebastian+Uhrig&amp;sortspec=date&amp;submit=Submit">Sebastian Uhrig</a></span><a id="xref-aff-3-2" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-8-1" class="xref-aff" href="#aff-8">8</a><span class="xref-sep">,</span><a id="xref-aff-9-1" class="xref-aff" href="#aff-9">9</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Laura+Gieldon&amp;sortspec=date&amp;submit=Submit">Laura Gieldon</a></span><a id="xref-aff-10-1" class="xref-aff" href="#aff-10">10</a><span class="xref-sep">,</span><a id="xref-aff-11-1" class="xref-aff" href="#aff-11">11</a><span class="xref-sep">,</span><a id="xref-aff-12-1" class="xref-aff" href="#aff-12">12</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Barbara+Klink&amp;sortspec=date&amp;submit=Submit">Barbara Klink</a></span><a id="xref-aff-10-2" class="xref-aff" href="#aff-10">10</a><span class="xref-sep">,</span><a id="xref-aff-11-2" class="xref-aff" href="#aff-11">11</a><span class="xref-sep">,</span><a id="xref-aff-12-2" class="xref-aff" href="#aff-12">12</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Lars+Feuerbach&amp;sortspec=date&amp;submit=Submit">Lars Feuerbach</a></span><a id="xref-aff-3-3" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-8-2" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Daniel+H%C3%BCbschmann&amp;sortspec=date&amp;submit=Submit">Daniel Hübschmann</a></span><a id="xref-aff-13-1" class="xref-aff" href="#aff-13">13</a><span class="xref-sep">,</span><a id="xref-aff-14-1" class="xref-aff" href="#aff-14">14</a><span class="xref-sep">,</span><a id="xref-aff-15-1" class="xref-aff" href="#aff-15">15</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Simon+Kreutzfeldt&amp;sortspec=date&amp;submit=Submit">Simon Kreutzfeldt</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-4" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Christoph+Heining&amp;sortspec=date&amp;submit=Submit">Christoph Heining</a></span><a id="xref-aff-11-3" class="xref-aff" href="#aff-11">11</a><span class="xref-sep">,</span><a id="xref-aff-12-3" class="xref-aff" href="#aff-12">12</a><span class="xref-sep">,</span><a id="xref-aff-16-1" class="xref-aff" href="#aff-16">16</a><span class="xref-sep">,</span><a id="xref-aff-17-1" class="xref-aff" href="#aff-17">17</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Sebastian+Maier&amp;sortspec=date&amp;submit=Submit">Sebastian Maier</a></span><a id="xref-aff-18-1" class="xref-aff" href="#aff-18">18</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Barbara+Hutter&amp;sortspec=date&amp;submit=Submit">Barbara Hutter</a></span><a id="xref-aff-3-5" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-8-3" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-15" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Roland+Penzel&amp;sortspec=date&amp;submit=Submit">Roland Penzel</a></span><a id="xref-aff-3-6" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-19-1" class="xref-aff" href="#aff-19">19</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-16" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Matthias+Schlesner&amp;sortspec=date&amp;submit=Submit">Matthias Schlesner</a></span><a id="xref-aff-20-1" class="xref-aff" href="#aff-20">20</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-17" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Roland+Eils&amp;sortspec=date&amp;submit=Submit">Roland Eils</a></span><a id="xref-aff-21-1" class="xref-aff" href="#aff-21">21</a><span class="xref-sep">,</span><a id="xref-aff-22-1" class="xref-aff" href="#aff-22">22</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-18" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Guido+Sauter&amp;sortspec=date&amp;submit=Submit">Guido Sauter</a></span><a id="xref-aff-23-1" class="xref-aff" href="#aff-23">23</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-19" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Albrecht+Stenzinger&amp;sortspec=date&amp;submit=Submit">Albrecht Stenzinger</a></span><a id="xref-aff-3-7" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-19-2" class="xref-aff" href="#aff-19">19</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-20" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Benedikt+Brors&amp;sortspec=date&amp;submit=Submit">Benedikt Brors</a></span><a id="xref-aff-3-8" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-aff-8-4" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-21" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Evelin+Schr%C3%B6ck&amp;sortspec=date&amp;submit=Submit">Evelin Schröck</a></span><a id="xref-aff-10-3" class="xref-aff" href="#aff-10">10</a><span class="xref-sep">,</span><a id="xref-aff-11-4" class="xref-aff" href="#aff-11">11</a><span class="xref-sep">,</span><a id="xref-aff-12-4" class="xref-aff" href="#aff-12">12</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-22" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Hanno+Glimm&amp;sortspec=date&amp;submit=Submit">Hanno Glimm</a></span><a id="xref-aff-11-5" class="xref-aff" href="#aff-11">11</a><span class="xref-sep">,</span><a id="xref-aff-12-5" class="xref-aff" href="#aff-12">12</a><span class="xref-sep">,</span><a id="xref-aff-16-2" class="xref-aff" href="#aff-16">16</a><span class="xref-sep">,</span><a id="xref-aff-17-2" class="xref-aff" href="#aff-17">17</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">25</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-23" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Stefan+Fr%C3%B6hling&amp;sortspec=date&amp;submit=Submit">Stefan Fröhling</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-3-9" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-fn-1-2" class="xref-fn" href="#fn-1">25</a> and 
+                     </li>
+                     <li class="last" id="contrib-24"><span class="name"><a class="name-search"
+                              href="/search?author1=Thorsten+Schlomm&amp;sortspec=date&amp;submit=Submit">Thorsten Schlomm</a></span><a id="xref-aff-24-2" class="xref-aff" href="#aff-24">24</a><span class="xref-sep">,</span><a id="xref-fn-1-3" class="xref-fn" href="#fn-1">25</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Department of Translational Medical Oncology, National Center for Tumor Diseases (NCT) Heidelberg and German Cancer Research
+                           Center (DKFZ), 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>DKFZ-Heidelberg Center for Personalized Oncology (HIPO), 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>German Cancer Consortium (DKTK), 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Biotech Research &amp; Innovation Centre (BRIC) and Finsen Laboratory, University of Copenhagen and Rigshospitalet, 2200 Copenhagen,
+                           Denmark;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Hubertus Wald Tumorzentrum, University Cancer Center Hamburg (UCCH), 20251 Hamburg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Martini-Clinic, Prostate Cancer Center, University Medical Center Hamburg-Eppendorf, 20246 Hamburg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address><sup>7</sup>Department of Urology, St. Antonius-Hospital, 48599 Gronau, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address><sup>8</sup>Division of Applied Bioinformatics, DKFZ and NCT Heidelberg, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-9" name="aff-9"></a><address><sup>9</sup>Faculty of Biosciences, Heidelberg University, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-10" name="aff-10"></a><address><sup>10</sup>Institute for Clinical Genetics, Faculty of Medicine Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-11" name="aff-11"></a><address><sup>11</sup>NCT Dresden, 01307 Dresden, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-12" name="aff-12"></a><address><sup>12</sup>German Cancer Consortium (DKTK) Dresden and German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-13" name="aff-13"></a><address><sup>13</sup>Division of Theoretical Bioinformatics, DKFZ, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-14" name="aff-14"></a><address><sup>14</sup>Department of Pediatric Immunology, Hematology and Oncology, Heidelberg University Hospital, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-15" name="aff-15"></a><address><sup>15</sup>Division of Stem Cells and Cancer, DKFZ, Heidelberg, Germany and Heidelberg Institute for Stem Cell Technology and Experimental
+                           Medicine (HI-STEM gGmbH), 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-16" name="aff-16"></a><address><sup>16</sup>Department of Translational Medical Oncology, NCT Dresden, 01307 Dresden, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-17" name="aff-17"></a><address><sup>17</sup>University Hospital Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-18" name="aff-18"></a><address><sup>18</sup>Progether Prostate Cancer Network, 0349 Oslo, Norway;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-19" name="aff-19"></a><address><sup>19</sup>Institute of Pathology, Heidelberg University Hospital, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-20" name="aff-20"></a><address><sup>20</sup>Bioinformatics and Omics Data Analytics, DKFZ, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-21" name="aff-21"></a><address><sup>21</sup>Health Data Science Unit, Bioquant, Medical Faculty, University of Heidelberg, 69120 Heidelberg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-22" name="aff-22"></a><address><sup>22</sup>Center for Digital Health, Berlin Institute of Health and Charité Universitätsmedizin Berlin, 10178 Berlin, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-23" name="aff-23"></a><address><sup>23</sup>Institute of Pathology, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-24" name="aff-24"></a><address><sup>24</sup>Department of Urology, Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">peter.horak{at}nct-heidelberg.de</span></span>; <span class="em-link"><span class="em-addr">thorsten.schlomm{at}charite.de</span></span></li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-3">Prostate cancers harboring DNA repair gene alterations are particularly sensitive to PARP inhibitor treatment. We report a
+                     case of an advanced prostate cancer patient profiled within the NCT-MASTER (Molecularly Aided Stratification for Tumor Eradication
+                     Research) precision oncology program using next-generation sequencing. Comprehensive genomic and transcriptomic analysis identified
+                     a pathogenic germline <em>PALB2</em> variant as well as a mutational signature associated with disturbed homologous recombination together with structural genomic
+                     rearrangements. A molecular tumor board identified a potential benefit of targeted therapy and recommended PARP inhibition
+                     and platinum-based chemotherapy. Single-agent treatment with the PARP inhibitor olaparib as well as subsequent combination
+                     with platinum-based chemotherapy resulted in disease stabilization and substantial improvement of clinical symptoms. Upon
+                     progression, we performed whole-exome and RNA sequencing of a liver metastasis, which demonstrated up-regulation of several
+                     genes characteristic for the neuroendocrine prostate cancer phenotype as well as a novel translocation resulting in an in-frame,
+                     loss-of-function fusion of <em>RB1.</em> We suggest that multidimensional genomic characterization of prostate cancer patients undergoing PARP inhibitor therapy will
+                     be necessary to capture and understand predictive biomarkers of PARP inhibitor sensitivity and resistance.
+                  </p>
+               </div>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=prostate+cancer&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">prostate cancer</a></span></li>
+               </ul>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-other" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">25</span> Shared last authorship
+                        </p>
+                     </li>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-25">[Supplemental material is available for this article.]</p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2018-11-07"><span class="received-label">Received </span>November 7, 2018.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2019-02-08"><span class="accepted-label">Accepted </span>February 8, 2019.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml">© 2019 Horak et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial License</a>, which permits reuse and redistribution, except for commercial purposes, provided that the original author and source are
+                     credited.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                             title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span></div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/5/2/a003640.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/5/2/a003665.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/5/2.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div></div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">March 4, 2019</span>,
+                                 doi:
+                                 <span title="10.1101/mcs.a003657" class="slug-doi">10.1101/mcs.a003657
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Cold Spring Harbor Molecular Case Studies" class="slug-jnl-abbrev">
+                                    Cold Spring Harb Mol Case Stud</abbr>
+                                 	    <span class="slug-vol">
+                                    5: 
+                                    </span><span class="slug-pages">
+                                    a003657
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="http://molecularcasestudies.cshlp.org/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.molecularcasestudies.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2019 Horak et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section cb-views">
+                     <ol>
+                        <li class="abstract-view-link primary"><span class="variant-indicator">» <span>Abstract</span></span></li>
+                        <li class="notice full-text-view-link primary"><a href="/content/5/2/a003657.full" rel="view-full-text">Full Text</a></li>
+                        <li class="notice full-text-pdf-view-link primary"><a href="/content/5/2/a003657.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a></li>
+                        <li><a href="/content/5/2/a003657/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2019/03/01/mcs.a003657">mcs.a003657v1</a></li>
+                                 <li class="current-li"><span>5/2/a003657</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+REPORT&amp;sortspec=date&amp;submit=Submit">RESEARCH REPORT</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=cshmcs%3B5%2F2%2Fa003657&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract">Alert me when this article is cited</a></li>
+                        <li class="alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=5/2/a003657&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract">Alert me if a correction is posted</a></li>
+                        <li class="alert-link eletter-alert-link icon-link"><a href="/cgi/alerts/ctalert?alertType=eletter&amp;addAlert=eletter&amp;eletter_criteria_value=5/2/a003657&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract">Alert me when Updates/Comments are published</a></li>
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=cshmcs;5/2/a003657" rel="nofollow">Article Usage Statistics</a></li>
+                        <li class="similar-link"><a href="/search?qbe=cshmcs%3Bmcs.a003657&amp;citation=Horak%20et%20al.%205%20%282%29&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=cshmcs%3B5%2F2%2Fa003657&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles"
+                              class="similar-link">Similar articles in Web of Science</a></li>
+                        <li class="similar-link"><a href="/external-ref?access_num=30833416&amp;link_type=MED_NBRS"
+                              class="similar-link">Similar articles in PubMed</a></li>
+                        <li class="cit-man-link icon-link cite-link"><a href="/citmgr?gca=cshmcs%3B5%2F2%2Fa003657">Download to citation manager</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-letter-cit">
+                     <h4 class="cb-section-header"><span>Letters &amp; Updates</span></h4>
+                     <ol>
+                        <li class="eletter-link eletter-submit-link"><a href="/letters/submit/cshmcs;5/2/a003657"
+                              class="eletter-link eletter-submit-link">Submit Letter/Update </a></li>
+                        <li class="eletter-link eletter-read-link"><span class="eletters-no-responses-published">No Letter/Update  published</span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li class="hw-citing-link"><a href="/content/5/2/a003657.abstract?cited-by=yes&amp;legid=cshmcs;5/2/a003657#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fcshmcs%2F5%2F2%2Fa003657&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3AHorak%20author%3AP.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Horak, P.</a></li>
+                        <li class="cb-art-gs-auth author-link"><a href="http://scholar.google.com/scholar?q=%22author%3ASchlomm%20author%3AT.%22"
+                              class="cb-art-gs-auth author-link">Articles by  Schlomm, T.</a></li>
+                        <li class="cb-art-gs-rel similar-link"><a href="/external-ref?access_num=http://molecularcasestudies.cshlp.org/content/5/2/a003657.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=30833416&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Horak%20P&amp;link_type=AUTHORSEARCH">Articles by  Horak, P.</a></li>
+                        <li><a href="/external-ref?access_num=Schlomm%20T&amp;link_type=AUTHORSEARCH">Articles by  Schlomm, T.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/30833416"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Horak, P.<a class="orcid-link" href="http://orcid.org/0000-0003-4536-9306">http://orcid.org/0000-0003-4536-9306</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Hübschmann, D.<a class="orcid-link" href="http://orcid.org/0000-0002-6041-7049">http://orcid.org/0000-0002-6041-7049</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Schlesner, M.<a class="orcid-link" href="http://orcid.org/0000-0002-5896-4086">http://orcid.org/0000-0002-5896-4086</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-rel">
+                     <h4 class="cb-section-header"><span>Related Content</span></h4>
+                     <ol>
+                        <li><a href="/content/5/2/a003657.abstract?related-urls=yes&amp;legid=cshmcs;5/2/a003657#related-urls"
+                              id="cb-related-urls">Load related web page information</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=cshmcs%3B5%2F2%2Fa003657&amp;current-view-path=/content/5/2/a003657.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/short/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-googleplus"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=GOOGLEPLUS&amp;log_only=yes"><img src="/shared/img/common/social-bookmarking/googleplus.jpg" alt="Add to Google+"
+                                            title="Google+" /></a><span class="soc-bm-link-text">Google+</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://molecularcasestudies.cshlp.org/cgi/content/long/5/2/a003657&amp;title=Response%20to%20olaparib%20in%20a%20PALB2%20germline%20mutated%20prostate%20cancer%20and%20genetic%20events%20associated%20with%20resistance+--+Horak%20et%20al.%205%20%282%29+--+cshmcs&amp;doi=10.1101/mcs.a003657&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div class="content-box" id="author_chat">
+               
+               <div class="cb-contents">
+                  
+                  <h3 class="cb-contents-header"><span>In the News</span></h3>
+                  
+                  <center><a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;">
+                        <img alt="Video" src="/site/misc/images/video.jpg"
+                             style="margin-top:15px;margin-bottom:4px;" />
+                        </a></center>
+                  
+                  <div style="padding-left:2px;padding-right:2px;">
+                     <a href="/site/misc/video.html"
+                        onclick="newWindow(this.href, 'popup', 650, 500, 1, 1, 0, 0, 0, 1, 0); return false;"
+                        style="font-size:8pt;">Click to see a news video about this article</a>
+                     
+                  </div>
+                  
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_liba.js"></script>
+               </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">February 2023, 9 (1)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/9/1.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  			            
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>Featured Articles</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/9/1/a006243.full">Case report of a rare <em>TRIP11:FLT3</em> gene fusion in a patient with myeloid/lymphoid neoplasm</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006259.full">Congenital cataracts associated with a novel variant of <em>WFS1</em>
+                                 </a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006245.full">Whole-exome sequencing of Brazilian choroid plexus tumors</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/9/1/a006260.full">Novel missense variant in an infant with osteogenesis imperfecta type VIII</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  		         
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Early Release Articles"><span>Early Release Articles</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=56643&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//molecularcasestudies.cshlp.org/adsystem/graphics/34903010216308406/genesdev/2202032Mm_AACR23AM_CSHL_160x800_1.jpg?ad=56643&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               
+               <div class="footer-group footer-col-left">
+                  
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="http://submit.molecularcasestudies.org" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/alertland.xhtml" title="Alerts / RSS"><span>Alerts / RSS</span></a></li>
+                     <li class="last"><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                  </ul>
+                  
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  
+               </div>
+               
+               <div class="footer-group footer-col-right">
+                  
+                  <ul class="issns">
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">2373-2873</span>
+                        
+                     </li>
+                  </ul>
+                  
+               </div>
+               
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            
+            	
+            
+         </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-55865380-1");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>

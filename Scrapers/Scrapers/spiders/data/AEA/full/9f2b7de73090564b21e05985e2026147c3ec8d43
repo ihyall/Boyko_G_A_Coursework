@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js' lang='en'><!--<![endif]-->
+<head>
+	<base target="_top" />
+    <meta charset='utf-8'>
+    <meta content='IE=edge' http-equiv='X-UA-Compatible'>
+    <title>Heat and Learning - American Economic Association</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="route" value="meta">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="GaHM-B5La2pmc5NNqAjvPo1k9cz2DsQcCSUuJSdqHTwq27qqShtZXxIDq3_vOLVMuD2ErZg3km1rQBpweF9sCA==">
+    <meta name="Secure-Key" content="TmVmczZCNnFpNXRiaUtNdW05WlBKdFJ5VS1UdHJRQzR6dENfa2t3ZzlfeGRrT0tHU218Z2VuZXJhbHxURVZtVjFNeU5GQTZFMU52TkdoZUtpOE5KR1VFWjE4Y096OVJHV3RJVUNZa0xROGdHVWg1Smc9PQ==">    <meta name="jerTk" value="">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38835597-1"></script>
+        <meta name="description" content="Heat and Learning by R. Jisung Park, Joshua Goodman, Michael Hurwitz and Jonathan Smith. Published in volume 12, issue 2, pages 306-39 of American Economic Journal: Economic Policy, May 2020, Abstract: We demonstrate that heat inhibits learning and that school air conditioning may mitigate this effe...">
+<meta name="keywords" content="Analysis of Education, Education and Inequality, Economics of Minorities, Races, Indigenous Peoples, and Immigrants; Non-labor Discrimination, Climate; Natural Disasters and Their Management; Global Warming">
+<meta name="citation_title" content="Heat and Learning">
+<meta name="citation_publication_date" content="2020/05">
+<meta name="citation_journal_title" content="American Economic Journal: Economic Policy">
+<meta name="citation_issn" content="1945-7731">
+<meta name="citation_volume" content="12">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="306">
+<meta name="citation_lastpage" content="39">
+<meta name="citation_doi" content="10.1257/pol.20180612">
+<meta name="citation_pdf_url" content="https://www.aeaweb.org/articles/pdf/doi/10.1257/pol.20180612">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aeajournals">
+<meta name="twitter:title" content="Heat and Learning">
+<meta name="twitter:description" content="(May 2020) - We demonstrate that heat inhibits learning and that school air conditioning may mitigate this effect. Student fixed effects models using 10 million students who retook the PSATs show that hotter school days in the years before the test was taken reduce scores, with extreme heat being particularly damaging. Weekend and summer temperatures have little impact, suggesting heat directly disrupts learning time. New nationwide, school-level measures of air conditioning penetration suggest patterns consistent with such infrastructure largely offsetting heat&#039;s effects. Without air conditioning, a 1°F hotter school year reduces that year&#039;s learning by 1 percent. Hot school days disproportionately impact minority students, accounting for roughly 5 percent of the racial achievement gap.">
+<meta name="twitter:image" content="https://www.aeaweb.org/journals/images/pol">
+<meta name="citation_author" content="Park, R. Jisung">
+<meta name="citation_author_institution" content="UCLA">
+<meta name="citation_author" content="Goodman, Joshua">
+<meta name="citation_author_institution" content="Brandeis U">
+<meta name="citation_author" content="Hurwitz, Michael">
+<meta name="citation_author_institution" content="College Board, Washington, DC">
+<meta name="citation_author" content="Smith, Jonathan">
+<meta name="citation_author_institution" content="Georgia State U">
+<link href="/assets/b1f13f1/stylesheets/AeaWebAsset-min.css" rel="stylesheet">
+<link href="/assets/ec52775/themes/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="/assets/b1f13f1/stylesheets/print.css" rel="stylesheet" media="print">
+<script src="/assets/214a2f4f/jquery.min.js"></script>
+<script src="/assets/264520fd/yii.js"></script>
+<script src="/js/ajaxPostProcessor.js"></script>
+<script src="/js/articles.js"></script>
+<script src="/assets/b1f13f1/javascripts/vendor/modernizr.js"></script>
+<script src="//use.typekit.net/egr5vhm.js"></script>
+<script src="/assets/ec52775/jquery-ui.js"></script>
+<script src="/assets/b1f13f1/javascripts/AeaWebPluginAsset-min.js"></script>
+<script src="/assets/4021672f/js/SecureCsrfAsset-min.js"></script>
+<script src="/assets/a9c22480/js/QueClientAsset-min.js"></script>
+<script src="/assets/ff14b9b/js/legal-cookie.js"></script>
+<script>$(document).ready(function() { window.keyAnltcs = keyAnalytics(); });
+$(document).ready(function() { window.qClnt = new queClient({"token":"OHByenM3MWdzVEplNTJqSC00eUx1T2FGWWk0emNBRWNlOG1qOUNPOC1EdVR4QzZCd0d8cXVldWVjbGllbnR8VGpKdkxXSXVTRE0wZlMxYUZsNThYejVuQzI4MWFDWjVBbm9pSEM1SFBBWUVXRjhjS1ZjcmJBPT0="}); });
+(function(e){function t(t, n, r, o){"use strict"; function a(){for (var e, n = 0; u.length > n; n++)u[n].href && u[n].href.indexOf(t) > - 1 && (e = !0); e?i.media = r || "all":setTimeout(a)}var i = e.document.createElement("link"), c = n || e.document.getElementsByTagName("script")[0], u = e.document.styleSheets; return i.rel = "stylesheet", i.href = t, i.media = "only x", i.onload = o || function(){}, c.parentNode.insertBefore(i, c), a(), i}var n = function(r, o){"use strict"; if (r && 3 === r.length){var a = e.navigator, i = e.Image, c = !(!document.createElementNS || !document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect || !document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1") || e.opera && - 1 === a.userAgent.indexOf("Chrome") || - 1 !== a.userAgent.indexOf("Series40")), u = new i; u.onerror = function(){n.method = "png", t(r[2])}, u.onload = function(){var e = 1 === u.width && 1 === u.height, a = r[e && c?0:e?1:2]; n.method = e && c?"svg":e?"datapng":"png", n.href = a, t(a, null, null, o)}, u.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==", document.documentElement.className += " grunticon"}}; n.loadCSS = t, e.grunticon = n})(this);grunticon(["https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.svg.css", "https://www.aeaweb.org/assets/b1f13f1/grunticon/icons.data.png.css", "/assets/grunticon/icons.fallback.css"], grunticon.svgLoadedCallback);
+try{Typekit.load();}catch(e){}</script></head>
+<body class="internal">
+    <div class="cookie-legal-banner">
+        <div class="cookie-content">
+            <div class="cookie-text-wrapper">
+                <h5 style="font-weight: bold !important; text-transform: none !important; font-size: 16px !important;">This website uses cookies.</h5>
+                <p class="cookie-text">By clicking the "Accept" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our <a href="/privacypolicy">Privacy Policy</a>.</p>
+            </div>
+            <div class="cookie-button-wrapper">
+                <button class="button legal-cookie-accept-button">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        try{
+            $(document).ready(function() { try{ var lgCk = new LegalCookie(); }catch (e){}; });
+        }catch (e){};
+    </script>
+
+
+
+<!--suppress ALL -->
+<header class="site-header" role="banner">
+    <div class="container">
+        <h1 class="site-name">
+            <a href="/"><img alt="American Economic Association" src="/assets/b1f13f1/images/logo.svg">
+            </a>
+        </h1>
+
+        <div class="nav-wrapper">
+
+            <div class="mobile-navigation">
+    <button class="menu-trigger">
+  <span class="menu-icon">
+    <div class="top-left wing"></div>
+    <div class="top-right wing"></div>
+    <div class="middle wing"></div>
+    <div class="bottom-left wing"></div>
+    <div class="bottom-right wing"></div>
+  </span>
+  <span class="trigger-text">
+    Menu
+  </span>
+    </button>
+</div>
+            <div class="navigation-container">
+
+                
+    <nav class="navigation-group" role="navigation">
+        <form class="search mobile-search" role="search" action="/search">
+            <div class="search-wrapper">
+                <input checked="checked" placeholder="Search" type="search" name="q">
+                <input checked="checked" class="icon-search-0" type="submit" value="Search">
+            </div>
+        </form>
+
+        <ul class="primary-navigation">
+            <li>
+                <a href="/journals">Journals</a>
+            </li>
+
+            <li>
+                <a href="/conference">Annual Meeting</a>
+            </li>
+            <li>
+
+                <a href="/joe">Careers</a>
+            </li>
+            <li>
+
+                <a href="/resources">Resources</a>
+            </li>
+            <li>
+
+                <a href="/econlit">EconLit</a>
+            </li>
+            <li>
+
+                <a href="/about-aea/committees">Committees</a>
+            </li>
+            <li>
+                <a href="/ethics">Ethics</a>
+            </li>
+
+        </ul>
+        <span class="has-icon search-trigger-wrapper">
+<a class="search-trigger icon-searchclose-sprite" href="#search">
+</a>
+</span>
+
+        <ul class="utility-navigation">
+            <li>
+                <a href="/membership">Membership</a>
+            </li>
+            <li class="utility-about">
+                <a href="/about-aea">About AEA</a>
+            </li>
+
+                            <li>
+                    <a href="/login/">Log In</a>
+                </li>
+                    </ul>
+
+    </nav>
+
+    <script type="text/javascript">
+
+        function initLoggedinMenu(){
+
+            this.target = $(".utility-navigation");
+            this.menuItems   = null;
+            this.menuWrapper = null;
+
+            this.init = function(){
+
+                this.getMenuItems();
+                this.renderMenu();
+                this.setEvents();
+
+            }
+
+            this.hasMenuItems = function(){
+
+                if(this.menuItems !== null){
+                    return true;
+                }
+
+                return false;
+
+            }
+
+            this.destroyMenuWrapper = function(){
+
+                if($("#loggedin-utility-menu-wrapper").length > 0){
+                    $("#loggedin-utility-menu-wrapper").remove();
+                }
+
+            }
+
+            this.createMenuWrapper = function(){
+
+                this.destroyMenuWrapper();
+
+                $(this.target).append('<li id="loggedin-utility-menu-wrapper"></li>');
+                this.menuWrapper = $("#loggedin-utility-menu-wrapper");
+
+                return this.menuWrapper;
+            }
+
+            this.getMenuItems = function(){
+
+                var menuItems = null;
+
+                if($(".utility-loggedin").length <= 0){
+                    return;
+                }
+
+                if(this.menuItems !== null){
+                    return;
+                }
+
+                menuItems = [];
+
+                $(".utility-loggedin").each(function(){
+                    menuItems.push($(this));
+                });
+
+                this.menuItems = menuItems;
+
+            }
+
+            this.setMenuItems = function(){
+
+                $(this.menuWrapper).html('<li id="loggedin-utility-button">Profile</li><div id="loggedin-utility-list"></div>');
+
+                for(var item in this.menuItems){
+                    $(this.menuWrapper).find("#loggedin-utility-list").append('<li>'+this.menuItems[item].html()+'</li>');
+                }
+
+            }
+
+            this.renderMenu = function(){
+
+                if(!this.hasMenuItems()){
+                    return;
+                }
+
+                this.createMenuWrapper();
+                this.setMenuItems();
+
+            }
+
+            this.showHideList = function(){
+
+                var display = null;
+                var target = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                display = $(target).css("display");
+
+                if(display === "none"){
+                    $(target).css("display","block");
+                    this.positionList();
+                }else{
+                    $(target).css("display","none");
+                }
+
+            }
+
+            this.positionList = function(){
+
+                var btnHeight = null;
+                var button = $(this.menuWrapper).find("#loggedin-utility-button");
+                var list = $(this.menuWrapper).find("#loggedin-utility-list");
+
+                btnHeight = $(this.menuWrapper).outerHeight(true);
+
+                $(list).css("top",(btnHeight - 2)+"px");
+
+            }
+
+            this.setEvents = function(){
+
+                var _self = this;
+
+                $(this.menuWrapper).find("#loggedin-utility-button").unbind();
+                $(this.menuWrapper).find("#loggedin-utility-button").bind("click",function(){
+
+                    _self.showHideList();
+
+                });
+
+            }
+
+        }
+
+        logMenu = new initLoggedinMenu();
+        logMenu.init();
+
+        /*var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38835597-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();*/
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-38835597-1');
+
+    </script>
+            </div>
+        </div>
+    </div>
+    <form class="search desktop-search" role="search" method="get" action="/search">
+        <div class="container">
+            <div class="search-wrapper">
+                <input placeholder="Search" type="search" name="q">
+                <input class="icon-search-0" type="submit" value="Search">
+            </div>
+        </div>
+    </form>
+</header>
+	<div class="breadcrumbs-wrapper"><div class="container"><ol class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/journals">Journals</a></li><li><a href="/journals/pol">American Economic Journal: Economic Policy</a></li><li><a href="/issues/589#10.1257/pol.20180612">May 2020</a></li><li class="is-active">Heat and Learning</li></ol></div></div>	<main class="main-content " role="main"><div class="container"><style>
+
+.hoverOverRide:hover{
+
+    text-decoration:none;
+
+}
+
+</style>
+
+<script type='text/javascript' src='/js/articlesTracking.js'></script>
+
+
+
+<section class="primary article-detail journal-article">
+    <h1 class="title">Heat and Learning</h1>
+    <ul class="attribution">
+            <li class='author' style='margin-bottom:0.5em; '>
+         R. Jisung Park    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Joshua Goodman    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Michael Hurwitz    </li>
+    <li class='author' style='margin-bottom:0.5em; '>
+         Jonathan Smith    </li>
+
+        
+		<div style='margin-top:25px;'>
+
+						
+			<a href='/issues/589' class='hoverOverRide'>
+				<li class='journal'>American Economic Journal: Economic Policy </li>
+			</a>
+
+			
+				<a href='/issues/589' class='hoverOverRide'>
+					<li class='journal'>vol. 12,
+					no. 2, 					May 2020</li>
+				</a>
+
+		</div>
+                <li class="pages">(pp. 306-39)</li>
+		
+    </ul>
+
+	
+    <section class='download'>
+        <a class="button" href="/articles/pdf/doi/10.1257/pol.20180612">
+            Download Full Text PDF <br/>
+                    </a>
+    </section>
+
+	
+	
+    <div class="toggle-content-group">
+
+		   <ul class="toggle">
+				<li>
+					<a class="is-active" href="#article-information" style='text-decoration:none; cursor:default;'>Article Information</a>
+				</li>
+													<li>
+						<a href="#article-comments">Comments (<span id='commentCount'>1</span>)</a>
+					</li>
+							</ul>
+		
+		
+        <section class="article-information-group toggle-content is-visible" id="article-information">
+
+			
+							<section class="article-information abstract">
+					<h2>Abstract</h2>
+					We demonstrate that heat inhibits learning and that school air conditioning may mitigate this effect. Student fixed effects models using 10 million students who retook the PSATs show that hotter school days in the years before the test was taken reduce scores, with extreme heat being particularly damaging. Weekend and summer temperatures have little impact, suggesting heat directly disrupts learning time. New nationwide, school-level measures of air conditioning penetration suggest patterns consistent with such infrastructure largely offsetting heat's effects. Without air conditioning, a 1°F hotter school year reduces that year's learning by 1 percent. Hot school days disproportionately impact minority students, accounting for roughly 5 percent of the racial achievement gap.				</section>
+			
+							<section class="article-information citation">
+					<h2>Citation</h2>
+					<cite>
+
+                        Park, R. Jisung, Joshua Goodman, Michael Hurwitz, and Jonathan Smith.
+						<span class="year">2020.</span>
+
+						
+						
+							<span class="title">"Heat and Learning."</span>
+						
+						<span class="journal">American Economic Journal: Economic Policy</span>,
+
+							  <span class="vol">
+					12 (2):
+					 306-39<span
+									  class="pages">.</span>
+				  </span>
+						<span class="doi">DOI: 10.1257/pol.20180612</span>
+					</cite>
+
+					<form class="citation-export">
+												<div class="select input ">
+							<label>
+								<label>
+									<select id="export-dropdown" name="args[format]">
+										<option value="0">Choose Format:</option>
+										<option value="bib">BibTeX</option>
+										<option value="enw">EndNote</option>
+										<option value="txt">Refer/BibIX</option>
+										<option value="ris">RIS</option>
+										<option value="tab">Tab-Delimited</option>
+									</select>
+								</label>
+							</label>
+							<input type='hidden' name='args[doi]' value='10.1257/pol.20180612'/>
+						</div>
+
+						<div id='previewCitationExport'></div>
+
+					</form>
+				</section>
+								
+					<section class='article-information additional-materials'>
+						
+							<h2>Additional Materials</h2>
+
+						
+						<ul id='additionalMaterials'>
+							<li>                    <a class=''  href="/journals/dataset?id=10.1257/pol.20180612" doi="10.1257/pol.20180612" accessType="Article View">
+                Replication Package                                                    (30.24 MB)
+                            </a>
+        </li><li>                    <a class=''  href="/doi/10.1257/pol.20180612.appx" doi="10.1257/pol.20180612" accessType="Article View">
+                Online Appendix                                                    (641.91 KB)
+                            </a>
+        </li><li>                    <a class=''  href="/doi/10.1257/pol.20180612.ds" doi="10.1257/pol.20180612" accessType="Article View">
+                Author Disclosure Statement(s)                                                    (669.76 KB)
+                            </a>
+        </li>
+						</ul>
+					</section>
+
+
+				
+									<section class='article-information jel-classification'>
+						<h2>JEL Classification</h2>
+						<ul class='jel-codes'>
+														<li>
+								<strong class='code'>I21</strong>
+								Analysis of Education
+															<li>
+								<strong class='code'>I24</strong>
+								Education and Inequality
+															<li>
+								<strong class='code'>J15</strong>
+								Economics of Minorities, Races, Indigenous Peoples, and Immigrants; Non-labor Discrimination
+															<li>
+								<strong class='code'>Q54</strong>
+								Climate; Natural Disasters and Their Management; Global Warming
+															</li>
+						</ul>
+					</section>
+				
+			</section>
+
+		
+		
+			<section class="comments toggle-content" id="article-comments">
+								
+		<section class='article-information'>
+
+			
+				
+				
+					<p class='journal' style='text-overflow: clip; overflow: hidden;'>Much Ado About Nothing?</p>
+
+				
+			
+			<ul style='font-size:.85em; list-style:none; margin-left:0px;'>
+
+				
+					<li>
+						Posted by Robert Kaestner											</li>
+
+							
+				<li>Posted on 4/30/2020 3:58:39 PM</li>
+
+				
+			</ul>
+
+			
+				<div style='margin-top:10px; text-overflow: clip; overflow: hidden;'>This article presents an empirical analysis of the effect of heat on PSAT test scores. It is a well executed article that aptly applies the best practices toolkit.<br />
+<br />
+However, is it interesting? Economically meaningful? <br />
+<br />
+The main result of the article is that a 1 degree increase in average annual (school year) temperature, which is a large change representing a 1 standard deviation change in temperature, is associated with a 0.002 change in the standard deviation of PSAT test scores. Similarly, an additional day above 90 degrees (one-third of a standard deviation change) is associated with a 0.0005 change in the standard deviation of PSAT test scores.<br />
+<br />
+My reading of this evidence is that temperature (really deviations from average temperature) has virtually no effect on PSAT test scores despite the statistical significance of the estimate. Estimates are tiny. for example, a 6 standard deviation change (-3 to 3) in temperature would change PSAT test scores by 0.012 standard deviations. Even an extremely rare (never observed?) temperature change would barely budge PSAT test scores.<br />
+<br />
+Of course, and I truly believe this, a null finding, which is how I interpret this estimate, is interesting if the alternative hypothesis is plausible. The article motivates the scientific plausibility of the research question as follows:<br />
+<br />
+&quot;Even moderately elevated temperatures can impair decision-making and cause substantial discomfort, and short-term impacts of heat on cognition have been extensively documented in laboratory settings (Mackworth 1946; Seppänen, Fisk, and Lei 2006). Hot classrooms may thus reduce the effectiveness of instructional time through physiological impacts on both students and teachers, making it harder for both to focus and accomplish a given set of learning tasks. In cases of extreme heat, schools may close or dismiss students early, directly reducing the amount of instructional time.&quot;<br />
+<br />
+So two citations are sufficient? Here is part of an abstract from one of the studies in Seppänen, Fisk, and Lei 2006 (a review article that includes 4 classroom setting studies, although nothing like the current setting and analysis):<br />
+<br />
+(From Allen et al. 1978) 65 male college students learned and later recalled a paired associate list (word-number pairs) in 1 of 5 air (dry bulb) temperatures (52, 62, 72, 82, or 92°F), with wet bulb temperature held constant. They learned and recalled best at 72°F, with performance declining at successively lower and higher air temperatures. In a 2nd experiment with 85 Ss, dry and wet bulb temperatures were varied from 52 to 82°F, in 5° increments, with relative humidity held constant. Other male students learned equally well in these effective temperatures.&quot;<br />
+<br />
+This study points to a optimal temperature and declines moving away in either direction; this is not consistent with the results reported here (or with hypothesis). <br />
+<br />
+<br />
+A summary of a related article not cited (Wyon et al. 1981 Studies in environmental Science) is as follows:<br />
+<br />
+&quot;This chapter discusses the effects of moderate heat stress on mental performance. Asystematic relationship between heat stress and mental performance has been demonstrated at intervals of only 1 °C, despite the low numbers of subjects exposed to each temperature. Moderate heat stress, only a few degrees centigrade above the optimum, has a marked effect on mental performance when temperatures rise slowly. Tasks demanding concentration and clear thinking are adversely affected, but memory and reutilization can be improved by temperatures up to 26 °C, declining rapidly thereafter. In hot weather, concentrated work should, therefore, be carried out early in the day. Memory and tasks requiring an increased breadth of attention can with advantage be postponed until the temperature has risen, provided that it does not rise above 27 °C. The positive and negative effects of these moderate levels of heat stress are likely to be greater for men than for women.&quot;<br />
+<br />
+Again, results not consistent with hypothesis.<br />
+<br />
+And from a meta-analysis not cited (Wargocki et al. 2019 Building and environment):<br />
+<br />
+&quot;The relationship derived in the analysis shows that the performance of psychological tests and school tasks can be expected to increase on average by 20% if classroom temperatures are lowered from 30 °C to 20 °C and that the temperature for optimal performance is lower than 22 °C. The relationship is valid only for temperate climates.&quot;<br />
+<br />
+It is interesting to note that relationship reported in this study is similar to estimate in the Park et al. article: a 1 degree Fahrenheit change is associated with a 1% change in cognitive test.<br />
+<br />
+The other citation is:<br />
+<br />
+Mackworth, N.H. 1946. “Effects of Heat on Wireless Operators.” British Journal of Industrial Medicine 3 (3): 143–58<br />
+<br />
+The relevance of this 1946 study is not obvious. <br />
+<br />
+The upshot is that the authors of this article did not assess thoroughly the scientific plausibility of the research question. They justified the plausibility of the alternative hypothesis (heat matters) in a cursory fashion and relied on the econometric toolkit to deliver a &quot;credible&quot; answer. If they had done due diligence on the scientific plausibility, they may have expected the null result they find, or at least had a more informed road map for analysis.</div>
+
+				
+			
+
+			
+			
+			
+		</section>
+
+	 
+	<a style='margin-top:10px;' class='button' href='/login?return_path=/articles?id=10.1257%2Fpol.20180612'>Login to Comment</a>
+
+			</section>
+
+		
+        <section class="full-text toggle-content" id="article-full-text">
+
+        </section>
+		 </div> 
+</section>
+
+<aside class='secondary' role='complementary'>
+    </aside>
+
+<aside class="secondary" role="complementary">
+    <nav class="secondary-navigation" role="navigation">
+        <h2><a href="/journals">Journals</a></h2><ul><li><div class="nav-divider"></div></li><li><a href="/journals/aer"><em>American Economic Review</em></a></li><li><a href="/journals/aeri"><em>AER: Insights</em></a></li><li><a href="/journals/app"><em>AEJ: Applied Economics</em></a></li><li><a href="/journals/pol"><em>AEJ: Economic Policy</em></a><ul><li><a href="/journals/pol/about-pol">About <em>AEJ: Economic Policy</em></a></li><li><a href="/journals/pol/forthcoming">Forthcoming Articles</a></li><li class="is-active"><a href="/journals/pol/issues">Issues</a><ul></ul></li><li><a href="/journals/pol/submissions">Submissions</a></li><li><a href="/journals/aej/styleguide">Guidelines for Accepted Articles</a></li><li><a href="/journals/pol/reviewers">Reviewers</a></li><li><a href="/journals/pol/contact-pol">Contact <em>AEJ: Economic Policy</em></a></li></ul></li><li><a href="/journals/mac"><em>AEJ: Macroeconomics</em></a></li><li><a href="/journals/mic"><em>AEJ: Microeconomics</em></a></li><li><a href="/journals/jel"><em>Journal of Economic Literature</em></a></li><li><a href="/journals/jep"><em>Journal of Economic Perspectives</em></a></li><li><a href="/journals/pandp"><em>AEA Papers & Proceedings</em></a></li><li><div class="nav-divider"></div></li><li><a href="/journals/subscriptions">Subscriptions</a></li><li><a href="/about-aea/advertise/advertise-in-journals">Advertise in AEA Journals</a></li><li><a href="http://pubs.aeaweb.org/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens">Athens Subscriber Login</a></li><li><a href="/journals/subscriptions/backissues">Back Issues & SGML Metadata</a></li><li><a href="/journals/data">Data and Code</a></li><li><a href="/journals/get-journal-alerts">Journal Alerts</a></li><li><a href="/journals/jstor">JSTOR Access for AEA Members</a></li><li><a href="/journals/policies">Policies</a></li></ul>    </nav>
+    <section class="action-group">
+            </section>
+</aside>
+</div></main><footer class='site-footer'>
+<div class='container'>
+
+  <nav class='navigation-group'>
+    <ul>
+      <li>
+        <a href="/journals">Journals</a>
+      </li>
+
+      <li>
+        <a href="/conference">Annual Meeting</a>
+      </li>
+
+      <li>
+        <a href="/joe">Careers</a>
+      </li>
+
+      <li>
+        <a href="/resources">Resources</a>
+      </li>
+
+      <li>
+        <a href="/econlit">EconLit</a>
+      </li>
+
+        <li>
+
+            <a href="/about-aea/committees">Committees</a>
+        </li>
+
+      <li>
+        <a href="/membership">Membership</a>
+      </li>
+
+      <li>
+        <a href="/about-aea">About AEA</a>
+      </li>
+
+      
+        <li>
+          <a href="/login/">Log In</a>
+        </li>
+
+      
+      <li>
+        <a class="contact-link" href="/contact">Contact the AEA</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class='social-media'>
+    <h3 class='section-title'>Find us on Facebook and Twitter:</h3>
+
+    <ul>
+
+        <li>
+            <a href='https://www.facebook.com/AEAjournals/' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/fb_icon.svg">@AEAJournals</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/AEAJournals' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAJournals</a>
+        </li>
+
+
+        <li>
+            <a href='https://twitter.com/AEAInformation' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@AEAInformation</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/ASSAMeeting' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@ASSAMeeting</a>
+        </li>
+
+        <li>
+            <a href='https://twitter.com/JOE_listings' rel='me'><img class="social-icon" src="/assets/b1f13f1/images/twitter_icon.svg">@JOE_listings</a>
+        </li>
+
+    </ul>
+
+  </section>
+
+  <section class='legal'>
+
+    <p class='copyright'>Copyright 2023 American Economic Association. All
+    rights reserved.</p>
+
+    <p class='footer-terms'><a href="/terms-of-service/site">Terms of Use</a> & <a href="/privacypolicy">Privacy Policy</a></p>
+
+  </section>
+</div>
+</footer></body></html>

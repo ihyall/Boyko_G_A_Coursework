@@ -1,0 +1,274 @@
+
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2014 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="https://www.int-res.com/" />
+
+
+<meta name="generator" content="TYPO3 6.2 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_cc05bb6c12.css?1464095062" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/bootstrap/css/bootstrap.min.css?1475660316" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/css/style.css?1475660316" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/css/headers/header-default.css?1559135214" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_journal_ame.css?1553033530" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/dist/vendor/unify/plugins/font-awesome-5p/css/all.css?1559125610" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_abstracts.css?1629726118" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/playground/css/intres_advanced_abstract.css?1576655836" media="all" />
+
+
+
+<script src="fileadmin/templates/dist/vendor/jquery/jquery.min.js?1475660316" type="text/javascript"></script>
+<script src="fileadmin/templates/dist/vendor/bootstrap/js/bootstrap.min.js?1475660316" type="text/javascript"></script>
+<script src="fileadmin/templates/playground/scripts/intres.js?1589791313" type="text/javascript"></script>
+
+<script src="typo3temp/javascript_dd82474708.js?1464095062" type="text/javascript"></script>
+
+
+
+<link rel="stylesheet" type="text/css" media="all"  href="https://www.int-res.com/typo3conf/ext/mindshape_cookie_hint/Resources/Public/Css/dark-bottom.css" />
+<title>Inter Research&nbsp;&raquo;&nbsp;AME&nbsp;&raquo;&nbsp;v72&nbsp;&raquo;&nbsp;n3&nbsp;&raquo;&nbsp;p241-253</title>
+
+<meta name="citation_title" content="Feeding of Fragilidium cf. duplocampanaeforme and F. subglobosum on four Dinophysis species: prey specificity, local adaptation and fate of toxins" />
+<meta name="citation_publication_date" content="2014/06/12" />
+<meta name="citation_journal_title" content="Aquatic Microbial Ecology" />
+<meta name="citation_journal_abbreviation" content="Aquat Microb Ecol" />
+<meta name="citation_journal_abbreviation" content="AME" />
+<meta name="citation_issn" content="0948-3055" />
+<meta name="citation_issn" content="1616-1564" />
+<meta name="citation_journal_publisher" content="Inter-Research" />
+<meta name="citation_volume" content="72" />
+<meta name="citation_issue" content="3" />
+<meta name="citation_firstpage" content="241" />
+<meta name="citation_lastpage" content="253" />
+<meta name="citation_doi" content="10.3354/ame01700" />
+<meta name="citation_pdf_url" content="https://www.int-res.com/articles/ame2013/72/a072p241.pdf" />
+<meta name="citation_abstract_html_url" content="https://www.int-res.com/abstracts/ame/v72/n3/p241-253/" />
+<meta name="citation_author" content="F. Rodríguez" />
+<meta name="citation_author_email" content="francisco.rodriguez@vi.ieo.es" />
+<meta name="citation_author" content="P. Riobó" />
+<meta name="citation_author" content="P. Rial" />
+<meta name="citation_author" content="B. Reguera" />
+<meta name="citation_author" content="J. M. Franco" />
+<meta name="citation_keywords" content="Dinophysis; Fragilidium; Prey specificity; Okadaic acid; DSP toxins transfer; Mixotrophy" />
+<meta name="citation_fulltext_world_readable" content="" />
+<meta property="og:title" content="Feeding of Fragilidium cf. duplocampanaeforme and F. subglobosum on four Dinophysis species: prey specificity, local adaptation and fate of toxins" />
+<meta name="dc.identifier" content="10.3354/ame01700" />
+
+<script src="fileadmin/templates/popuponce.js" language="javascript" type="text/javascript"></script><script src="fileadmin/templates/popupns4ie4.js" language="javascript1.2" type="text/javascript"></script><script src="fileadmin/templates/loadcitedby.js" language="javascript1.2" type="text/javascript"></script><script src="https://code.jquery.com/jquery-1.8.3.min.js" language="javascript1.2" type="text/javascript"></script>
+
+
+</head>
+<body>
+
+
+    
+    <script language="JavaScript" type="text/javascript">
+      // <!--
+      this.window.name = "page";
+      // -->
+    </script>
+    
+    <!-- Website Start -->
+    
+    <div class="wrapper">
+      <div class="header">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 col-md-9 col-sm-8 col-sx-12">
+              <div id="ir_logo">
+                <a href="/">
+                  <img src="/fileadmin/templates/playground/images/logo/intres_logo_icon.png" alt="IR" title="Home">              
+                  <span class="ir_logo_txt">Inter-Research Science Publisher</span>
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-3 col-sm-4 col-sx-12">
+              <div  class="ir_headersearch">
+                <form id="cse-search-box" action="/site-service/search/">
+                  <input name="cx" value="006176756919987965215:-3csxe1gxfm" type="hidden">
+                  <input name="ie" value="UTF-8" type="hidden">
+                  <input name="q" class="feld_search ir_input_text" type="text"  placeholder="Search e.g. title, author..." style="width: 250px;">         
+                  <button name="sa" class="ir_input_btn" type="submit"><i class="fa fa-search" style="font-size:14px;"></i></button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <button type="button" data-toggle="collapse" data-target=".navbar-responsive-collapse" class="navbar-toggle"><span class="fa fa-bars"></span></button>
+        </div>
+        <div class="ir_navbar">
+          <div class="container">
+            <ul class="nav navbar-nav navbar-collapse navbar-responsive-collapse collapse"><li class="dropdown"><a href="home/" >Journals</a><ul class="dropdown-menu"><li class="first"><a href="journals/meps/meps-home/" >MEPS</a></li><li class="first"><a href="journals/ame/ame-home/" >AME</a></li><li class="first"><a href="journals/dao/dao-home/" >DAO</a></li><li class="first"><a href="journals/esr/esr-home/" >ESR</a></li><li class="first"><a href="journals/aei/aei-home/" >AEI</a></li><li class="first"><a href="journals/cr/cr-home/" >CR</a></li><li class="first"><a href="journals/ab/ab-home/" >AB</a></li><li class="first"><a href="journals/esep/esep-home/" >ESEP</a></li><li class="first"><a href="journals/editorials/" >Editorials</a></li><li class="first"><a href="journals/subscription-information/" >Subscription Information</a></li><li class="first"><a href="journals/terms-of-use/" >Terms of Use</a></li></ul></li><li class="dropdown"><a href="book-series/" >Book Series</a><ul class="dropdown-menu"><li class="first"><a href="book-series/excellence-in-ecology-books/" >Excellence in Ecology Books</a></li><li class="first"><a href="book-series/top-books/home-english/" >Top Books</a></li><li class="first"><a href="book-series/esep-books/" >ESEP Books</a></li><li class="first"><a href="book-series/marine-ecology-books/" >Marine Ecology Books</a></li><li class="first"><a href="book-series/diseases-of-marine-animals-books/" >Diseases of Marine Animals Books</a></li></ul></li><li class="dropdown"><a href="for-authors/" >For Authors</a><ul class="dropdown-menu"><li class="first"><a href="journals/guidelines-for-authors/guidelines-authors/" >Author Guidelines</a></li><li class="first"><a href="journals/authorshippolicy/" >Authorship Policy</a></li><li class="first"><a href="for-authors/coi-policy/" >Conflict of Interest Policy</a></li><li class="first"><a href="journals/open-access/" >Open Access</a></li><li class="first"><a href="journals/permissions/" >Rights & Permissions</a></li><li class="first"><a href="journals/policies/" >Policies</a></li><li class="first"><a href="for-authors/transformative-journals/" >Transformative Journals</a></li></ul></li><li class="first"><a href="for-librarians/" >For Librarians</a></li><li class="dropdown"><a href="about-ir/" >About IR</a><ul class="dropdown-menu"><li class="first"><a href="about-ir/who-we-are/" >Who we are</a></li><li class="first"><a href="about-ir/irs-founder-otto-kinne/" >Founder</a></li><li class="first"><a href="ecology-institute/eci-home/" >Ecology Institute</a></li><li class="first"><a href="ecology-institute/okf/" >Otto Kinne Foundation</a></li><li class="first"><a href="about-ir/jobs/" >Job Openings</a></li></ul></li></li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="ir_breadcrumb">
+        <div class="container">&nbsp;<a href="home/" >Inter-Research</a>&nbsp;&gt;&nbsp;<a href="journals/ame/ame-home/" >AME</a>&nbsp;&gt;&nbsp;<a href="abstracts/ame/v72/" >v72</a>&nbsp;&gt;&nbsp;<a href="abstracts/ame/v72/n3/" >n3</a>&nbsp;&gt;&nbsp;p241-253&nbsp;&nbsp;</div>
+      </div>
+      <div id="ir_abstract"><div class="ir-content">
+  <div class="container">
+    <div class="row">
+      <div id="ir_sidenav_col" class="col-md-3 col-sm-3 col-xs-12">
+        <div id="ir_sidenav_banner">
+  <div id="ir_inner_banner" class="ir_j">
+    <div id="ir_banner_short">AME</div>
+    <div id="ir_banner_long">Aquatic Microbial Ecology <br><br></div>
+    <div id="ir_banner_follow">
+      <ul class="fa-ul">
+        <!-- ###CT### --><li style="margin-bottom: 30px;"><i class="fal fa-li fa-mailbox"></i><a href="javascript:linkTo_UnCryptMailto('nbjmup+bnf.feAjou.sft/dpn');" title="Send message">Contact the journal</a></li><!-- ###CT### -->
+        <!-- ###FB### --><li><i class="fab fa-li fa-facebook"></i><a href="http://www.facebook.com/AquatMicrobEcol/" title="Follow AME on facebook">Facebook</a></li><!-- ###FB### -->
+        <!-- ###TW### --><li><i class="fab fa-li fa-twitter"></i><a href="https://twitter.com/ame_intres" title="Follow AME on Twitter">Twitter</a></li><!-- ###TW### -->
+        <!-- ###RS### --><li><i class="fas fa-li fa-rss"></i><a href="https://www.int-res.com/rss/ame_rss.xml" title="Get the AME RSS feed">RSS</a></li><!-- ###RS### -->
+        <!-- ###MA### --><li><i class="fas fa-li fa-envelope"></i><a id="ir_mail_toggler" href="" title="Subscribe to the AME mailing list">Mailing List </a></li><!-- ###MA### -->
+      </ul>
+      
+      <div id="ir_mail_sub" class="ir_shadow ir_banner_mailsub">
+        <i id="ir_xclose" class="fas fa-window-close"></i>
+        <!-- Begin MailChimp Signup Form -->
+        
+        <div id="mc_embed_signup">
+          <form action="//int-res.us4.list-manage.com/subscribe/post?u=696e6a35f40f4d034134fcb96&id=23d7bc9f98" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <label class="ir_txt" for="mce-EMAIL" style="margin-bottom:0px;">Subscribe to our mailing list</label>
+              <hr>
+              <input type="email" value="" name="EMAIL" class="email ir_input_text" id="mce-EMAIL" placeholder="email address" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_696e6a35f40f4d034134fcb96_23d7bc9f98" tabindex="-1" value=""></div>
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button ir_tab_btn ir_txt">
+            </div>
+          </form>
+          <div class="ir_infoline">via Mailchimp</div>
+        </div>
+      </div>
+      
+      <!-- End  MailChimp Signup Form -->
+    </div>
+  </div>
+  <div id="ir_journal_banner">
+  </div>
+</div>
+<div id="ir_j_sidenav"><ul id="ir_sidebarnav" class="ir_sidebarnav_box"><li class="ir_sidebarnav_item"><a href="journals/ame/ame-home/" >Home</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="abstracts/ame/v89/" >Latest Volume</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/ame/about-the-journal/" >About the Journal</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/ame/editors/" >Editors</a><i class="fa fa-angle-right"></i></li><li class="ir_sidebarnav_item"><a href="journals/ame/ame-specials/" >Specials</a><i class="fa fa-angle-right"></i></li></ul></div>
+
+
+      </div>
+      <div id="ir_content_col" class="col-md-9 col-sm-9 col-xs-12 ir_equal panel-ir panel-default">
+        
+	<!--  CONTENT ELEMENT, uid:33940/intres_abstracts_pi1 [begin] -->
+		<div id="c33940" class="panel panel-default"><h1 class="csc-secondHeader">AME 72:241-253 (2014)<span style="font-size:12px;font-weight:normal">&nbsp;&nbsp;-&nbsp;&nbsp;DOI:  https://doi.org/10.3354/ame01700
+</span>
+</h1>
+<div class="bb"><h2>Feeding of <i>Fragilidium</i> cf. <i>duplocampanaeforme</i> and <i>F. subglobosum</i> on four <i>Dinophysis</i> species: prey specificity, local adaptation and fate of toxins
+</h2></div>
+<div class="bb"><h3>F. Rodríguez<sup>1,</sup>*, P. Riobó<sup>2</sup>, P. Rial<sup>1</sup>, B. Reguera<sup>1</sup>, J. M. Franco<sup>2</sup>
+</h3></div>
+<div class="author_address"><sup>1</sup>Instituto Español de Oceanografia (IEO), Centro Oceanográfico de Vigo (UA Fitoplancton Tóxico CSIC-IEO), Subida a Radio Faro 50-52, Cabo Estay, Canido, 36390 Vigo, Spain <br /><sup>2</sup>Instituto de Investigaciones Marinas, CSIC (UA Fitoplancton Tóxico CSIC-IEO), Eduardo Cabello, 6, 36208 Vigo, Spain
+</div>
+<div class="footnote">*Corresponding author: <a class="email" href="mailto:francisco.rodriguez&#064;vi.ieo.es">francisco.rodriguez&#064;vi.ieo.es</a>
+</div>
+<p class="abstract_block">ABSTRACT: We studied the feeding behaviour of 2 <i>Fragilidium</i> species—<i>F.</i> cf. <i>duplocampanaeforme</i> (strains VGO1120 and VGO692 from NW Iberia and the Mediterranean Sea, respectively), and <i>F. subglobosum</i> (IO97-01, W Iberia)—on <i>Dinophysis acuminata, D. acuta, D. caudata</i> and <i>D. tripos</i> from NW Iberia. Only the Atlantic strain of <i>F.</i> cf. <i>duplocampanaeforme</i> fed upon <i>D. acuminata</i> (2.52 ± 0.48 cells <i>Fragilidium</i><sup>-1</sup> d<sup>-1</sup>) and <i>D. caudata</i> (0.58 ± 0.32 cells <i>Fragilidium</i><sup>-1</sup> d<sup>-1</sup>); furthermore, this strain fed weakly on <i>D. tripos</i> (&lt;0.10 cells <i>Fragilidium</i><sup>-1</sup> d<sup>-1</sup>) and not at all on <i>D. acuta</i>. Neither the Mediterranean <i>F. duplocampanaeforme</i> nor <i>F. subglobosum</i> were observed to ingest Atlantic strains of <i>Dinophysis</i> species. Deleterious effects caused by <i>Fragilidium</i>, namely cell immobilization or even death, were observed in some cases (the <i>D. acuminata</i> and <i>D. caudata</i> cultures). The Atlantic <i>F.</i> cf. <i>duplocampanaeforme</i> that had previously fed on <i>D. acuminata</i> and <i>D. caudata </i>showed low intracellular toxin levels at the end of the exponential growth phase (based on LC-MS). However, extracellular toxin levels were higher in the <i>Dinophysis</i> cultures exposed to the Atlantic <i>F.</i> cf. <i>duplocampanaeforme</i> than in those without <i>Fragilidium</i> (the contrary being true for the toxin amount per cell). Our results indicate that (1) <i>Fragilidium</i> cf. <i>duplocampanaeforme</i> feeds differentially on certain <i>Dinophysis</i> species (in particular <i>D. acuminata</i> and <i>D. caudata</i>), (2) inter-specific and intraspecific differences exist in <i>Fragilidium</i>-<i>Dinophysis</i> predator-prey interactions, (3) the amount of extracellular <i>Dinophysis</i> toxins is enhanced by the presence of <i>Fragilidium</i>, and (4) decreased final yields and higher frequencies of small cells of <i>Fragilidium</i> in mixotrophic cultures.	
+
+</p>
+<br /><p>KEY WORDS: <i>Dinophysis</i> &middot; <i>Fragilidium</i> &middot; Prey specificity &middot; Okadaic acid &middot; DSP toxins transfer &middot; Mixotrophy
+</p>
+<br />
+<table><tr valign="top" width="30%" align="left"><td>
+<a href="/articles/ame2013/72/a072p241.pdf" class="article-link"> Full text in pdf format</a><br />
+<b><b><a href="https://www.int-res.com/articles/suppl/a072p241_supp/">Supplementary material</a></b></b>&nbsp;<div class="page-nav"><div class="page-prev"><a href="abstracts/ame/v72/n3/p227-240/">Previous</a></div><div class="page-next"><a href="abstracts/ame/v72/n3/p255-267/">Next</a></div></div></td><td width="60%"><div class="blue-bg-abstract"><span style="font-size:10px;line-height:110%"><b>Cite this article as:</b> Rodríguez F, Riobó P, Rial P, Reguera B, Franco JM
+ (2014) Feeding of <i>Fragilidium</i> cf. <i>duplocampanaeforme</i> and <i>F. subglobosum</i> on four <i>Dinophysis</i> species: prey specificity, local adaptation and fate of toxins. Aquat Microb Ecol 72:241-253. <a href="https://doi.org/10.3354/ame01700
+">https://doi.org/10.3354/ame01700
+</a><br /><br /></span><b><a href="/fileadmin/citeExport.php?pid=29311&mode=refmanager" class="citeexport" rel="nofollow">Export citation</a></b><br />
+<a href="rss/ame_rss.xml"><b>RSS</b></a> - <i class="fab fa-facebook"></i><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fdoi.org%2F10.3354%2Fame01700%0D%0A"> Facebook</a> - <i class="fab fa-twitter"></i><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdoi.org%2F10.3354%2Fame01700%0D%0A&text=Feeding+of+%3Ci%3EFragilidium%3C%2Fi%3E+cf.+%3Ci%3Eduplocampanaeforme%3C%2Fi%3E+and+%3Ci%3EF.+subglobosum%3C%2Fi%3E+on+four+%3Ci%3EDinophysis%3C%2Fi%3E+species%3A+prey+specificity%2C+local+adaptation+and+fate+of+toxins%0D%0A" class="twitter-share-button"> Tweet</a> - <i class="fab fa-linkedin"></i><a style="display:inline !important;" href="https://www.linkedin.com/shareArticle?mini=true&url=http://doi.org/10.3354/ame01700
+&title=Feeding+of+%3Ci%3EFragilidium%3C%2Fi%3E+cf.+%3Ci%3Eduplocampanaeforme%3C%2Fi%3E+and+%3Ci%3EF.+subglobosum%3C%2Fi%3E+on+four+%3Ci%3EDinophysis%3C%2Fi%3E+species%3A+prey+specificity%2C+local+adaptation+and+fate+of+toxins%0D%0A"> linkedIn</a></div><br />
+</td></tr></table>
+<div class="blue-bg-cited"><span style="font-size:11px;line-height:110%"><b><a type="button" onclick="loadXMLDoc('10.3354/ame01700')" href="javascript:;">Cited by</a></b><div id="CitedByDiv" style="display: none"></div></span> </div> <br> <div class="abs-footer">Published in <a href="abstracts/ame/v72/n3/">AME Vol. 72, No. 3</a>. Online publication date: June 12, 2014<br/>
+Print ISSN: 0948-3055; Online ISSN: 1616-1564<br/>
+Copyright &copy; 2014 Inter-Research.</div>
+</div>
+	<!--  CONTENT ELEMENT, uid:33940/intres_abstracts_pi1 [end] -->
+		
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+    <footer><div id="intres_footer" class="container">&nbsp;<a href="site-service/copyright-and-disclaimer/" >Copyright and Disclaimer</a>&nbsp;&nbsp;<a href="privacypolicy/" >Privacy Policy</a>&nbsp;&nbsp;<a href="site-service/contact/" >Contact</a>&nbsp;</div></footer>
+    
+    <!-- Website End -->
+    
+    <script>
+      // Set to the same value as the web property used on the site
+      var gaProperty = 'UA-6376520-1';
+      // Disable tracking if the opt-out cookie exists.
+      var disableStr = 'ga-disable-' + gaProperty;
+      if (document.cookie.indexOf(disableStr + '=true') > -1) {
+        window[disableStr] = true;
+      }
+      // Opt-out function
+      function gaOptout() {
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+        window[disableStr] = true;
+        alert('Das Tracking durch Google Analytics wurde in Ihrem Browser für diese Website deaktiviert.');
+      }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=XX-00000000-0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-6376520-1', { 'anonymize_ip': true });
+    </script>
+    
+    <script>
+      (function() {
+        var cx = '006176756919987965215:-3csxe1gxfm';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    
+    <html data-namespace-typo3-fluid="true" lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers">
+
+  <script>
+    window.cookieconsent_options = {
+      
+        learnMore: 'More info.',
+      
+      dismiss: 'OK',
+      message: 'This website uses cookies.<br><br>We save information relating to your visit using cookies. By using our website you consent to our cookies in accordance with our <a href="https://www.int-res.com/privacypolicy/">Privacy Policy</a>.',
+      
+        link: '',
+      
+      
+    };
+  </script>
+
+</html>
+
+<script src="typo3conf/ext/mindshape_cookie_hint/Resources/Public/Js/cookieconsent.js?1527167096" type="text/javascript"></script>
+
+
+
+</body>
+</html>

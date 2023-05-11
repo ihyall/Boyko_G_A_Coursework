@@ -1,0 +1,582 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>P-element-mediated enhancer detection: a versatile method to study development in Drosophila. </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A biweekly scientific journal publishing high-quality research in molecular biology and genetics, cancer biology, biochemistry, and related fields" />
+      <meta content="/genesdev/3/9/1288.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="P-element-mediated enhancer detection: a versatile method to study development in Drosophila."
+            name="DC.Title" />
+      <meta content="10.1101/gad.3.9.1288" name="DC.Identifier" />
+      <meta content="1989-09-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="H J Bellen" name="DC.Contributor" />
+      <meta content="C J O'Kane" name="DC.Contributor" />
+      <meta content="C Wilson" name="DC.Contributor" />
+      <meta content="U Grossniklaus" name="DC.Contributor" />
+      <meta content="R K Pearson" name="DC.Contributor" />
+      <meta content="W J Gehring" name="DC.Contributor" />
+      <meta content="Genes &amp; Development" name="citation_journal_title" />
+      <meta content="Genes Dev." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="0890-9369" name="citation_issn" />
+      <meta content="1549-5477" name="citation_issn" />
+      <meta name="citation_author" content="H J Bellen" />
+      <meta name="citation_author" content="C J O'Kane" />
+      <meta name="citation_author" content="C Wilson" />
+      <meta name="citation_author" content="U Grossniklaus" />
+      <meta name="citation_author" content="R K Pearson" />
+      <meta name="citation_author" content="W J Gehring" />
+      <meta content="P-element-mediated enhancer detection: a versatile method to study development in Drosophila."
+            name="citation_title" />
+      <meta content="09/01/1989" name="citation_date" />
+      <meta content="3" name="citation_volume" />
+      <meta content="9" name="citation_issue" />
+      <meta content="1288" name="citation_firstpage" />
+      <meta content="1300" name="citation_lastpage" />
+      <meta content="3/9/1288" name="citation_id" />
+      <meta content="3/9/1288" name="citation_id_from_sass_path" />
+      <meta content="genesdev;3/9/1288" name="citation_mjid" />
+      <meta content="10.1101/gad.3.9.1288" name="citation_doi" />
+      <meta content="http://genesdev.cshlp.org/content/3/9/1288.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/3/9/1288.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/3/9.cover.gif" name="issue_cover_image" />
+      <meta content="http://genesdev.cshlp.org/content/3/9/1288" name="citation_public_url" />
+      <meta content="2558050" name="citation_pmid" />
+      <meta name="citation_section" content="Research Papers" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/3/9/1273.short" rel="prev" />
+      <link href="/content/3/9/1301.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d154534247e1">var callbackToken='5679172597D8C55';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/csh-library.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            <a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genes &amp; Development" alt="Genes &amp; Development" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.genesdev.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genes &amp; Development" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=55733&amp;adclick=true&amp;url=https%3A%2F%2Fwww.cytoskeleton.com%2Factivation-assays%2Fglisa-assays"
+                        target="_blank"><img class="adborder0" title="Cytoskeleton"
+                             src="//genesdev.cshlp.org/adsystem/graphics/5841955374495129/genesdev/Cytoskeleton-Leaderboard-banner-G%26D-Jan-v7.5.gif?ad=55733&amp;adview=true"
+                             alt="Cytoskeleton" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view" itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">P-element-mediated enhancer detection: a versatile method to study development in Drosophila.</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li id="contrib-1"><span class="name"><a class="name-search"
+                              href="/search?author1=H+J+Bellen&amp;sortspec=date&amp;submit=Submit">H J Bellen</a></span>, 
+                     </li>
+                     <li id="contrib-2"><span class="name"><a class="name-search"
+                              href="/search?author1=C+J+O'Kane&amp;sortspec=date&amp;submit=Submit">C J O'Kane</a></span>, 
+                     </li>
+                     <li id="contrib-3"><span class="name"><a class="name-search" href="/search?author1=C+Wilson&amp;sortspec=date&amp;submit=Submit">C Wilson</a></span>, 
+                     </li>
+                     <li id="contrib-4"><span class="name"><a class="name-search"
+                              href="/search?author1=U+Grossniklaus&amp;sortspec=date&amp;submit=Submit">U Grossniklaus</a></span>, 
+                     </li>
+                     <li id="contrib-5"><span class="name"><a class="name-search"
+                              href="/search?author1=R+K+Pearson&amp;sortspec=date&amp;submit=Submit">R K Pearson</a></span>,  and 
+                     </li>
+                     <li id="contrib-6"><span class="name"><a class="name-search"
+                              href="/search?author1=W+J+Gehring&amp;sortspec=date&amp;submit=Submit">W J Gehring</a></span></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address>Department of Cell Biology, Biozentrum, University of Basel, Switzerland.</address>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-1" itemprop="description">
+                  <h2>Abstract</h2>
+                  <p id="p-1">We generated and characterized greater than 500 Drosophila strains that carry single copies of a novel P-element enhancer
+                     detector. In the majority of the strains, the beta-galactosidase reporter gene in the P-transposon responds to nearby transcriptional
+                     regulatory sequences in the genome. A remarkable diversity of spatially and temporally regulated staining patterns is observed
+                     in embryos carrying different insertions. We selected numerous strains as markers for different embryonic organs, tissues,
+                     and cells. Many of these strains should allow the study of complex developmental processes, such as nervous system development,
+                     which have not been convenient to analyze previously. Also, we present genetic evidence that some of the detected regulatory
+                     elements control nearby Drosophila genes. In light of our results, we discuss the diversity and complexity of cis-acting regulatory
+                     elements in the genome and the general applications of the enhancer detector method for the study of Drosophila development.
+                  </p>
+               </div>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="copyright-statement" id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</li>
+                  </ul>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/3/9/1273.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/3/9/1301.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/3/9.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    
+                              
+                              doi:
+                              <span title="10.1101/gad.3.9.1288" class="slug-doi">10.1101/gad.3.9.1288
+                                 </span>
+                              <cite>
+                                 	    <abbr title="Genes &amp; Development" class="slug-jnl-abbrev">
+                                    Genes &amp; Dev.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    1989.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    3: 
+                                    </span><span class="slug-pages">
+                                    1288-1300
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">Copyright © Cold Spring Harbor Laboratory Press</nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/3/9/1288.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/3/9/1288.refs" rel="view-references-only">References</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=Research+Papers&amp;sortspec=date&amp;submit=Submit">Research Papers</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genesdev%3B3%2F9%2F1288&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/3/9/1288.abstract">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=3/9/1288&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/3/9/1288.abstract">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genesdev%3B3%2F9%2F1288&amp;citation=Bellen%20et%20al.%203%20%289%29:%201288&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genesdev%3B3%2F9%2F1288&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=2558050&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genesdev%3B3%2F9%2F1288">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/3/9/1288.abstract?cited-by=yes&amp;legid=genesdev;3/9/1288#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenesdev%2F3%2F9%2F1288&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://genesdev.cshlp.org/content/3/9/1288.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ABellen%20author%3AH.J.%22">Articles by  Bellen, H. J.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AGehring%20author%3AW.J.%22">Articles by  Gehring, W. J.</a></li>
+                        <li><a href="/external-ref?access_num=http://genesdev.cshlp.org/content/3/9/1288.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=2558050&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Bellen%20HJ&amp;link_type=AUTHORSEARCH">Articles by  Bellen, H. J.</a></li>
+                        <li><a href="/external-ref?access_num=Gehring%20WJ&amp;link_type=AUTHORSEARCH">Articles by  Gehring, W. J.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/2558050"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genesdev%3B3%2F9%2F1288&amp;current-view-path=/content/3/9/1288.abstract"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/3/9/1288&amp;title=P-element-mediated%20enhancer%20detection%3A%20a%20versatile%20method%20to%20study%20development%20in%20Drosophila.+--+Bellen%20et%20al.%203%20%289%29%3A%201288+--+&amp;doi=10.1101/gad.3.9.1288&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-open" id="cb-art-gs">
+                     
+                     <h4 class="cb-section-header">
+                        <span>G&amp;D Most Read</span>
+                        
+                     </h4>
+                     <script type="text/javascript"
+                             src="https://www.cshsymposium.org/rssreader/getmon2.php?prm=gd"></script>
+                     <p style="padding-top:0;margin-top:0;margin-bottom:10px;text-align:right;">
+                        <a href="/site/misc/top_ten.xhtml">
+                           <strong>View all ...</strong>
+                           </a>
+                        
+                     </p>
+                     
+                  </div>
+                  
+               </div>
+               
+            </div>
+            
+            <div style="margin-top:20px;margin-bottom:20px;">
+               <a data-widget-id="364429657619189760" href="https://twitter.com/genesdev"
+                  class="twitter-timeline"
+                  style="font-size:10px;">Tweets by @genesdev</a>
+               <script type="text/JavaScript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+               <div id="twitter-feed"></div>
+               <a href="https://twitter.com/genesdev" rel="external-nw"
+                  style="display:block;text-align:center;border-bottom:1px dotted #ffffff;">
+                  <img src="/site/misc/images/twitteruslg.gif" alt="follow us on twitter"
+                       title="Twitter" />
+                  </a>
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">March 1, 2023, 37 (5-6)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/37/5-6.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In This Issue</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/37/5-6/191">Localization of KIF1C to protrusions in nonneuronal cells and cell migration</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/218">Pioneer factor control of human neural stem cell differentiation</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/37/5-6/171">Mechanisms of adaptation to aneuploidy</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of G&amp;D</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genesdev.org" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/press_releases.xhtml" title="G&amp;D in the News"><span>G&amp;D in the News</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/careertracks.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=56643&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2023%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_content%3Dmainpage"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//genesdev.cshlp.org/adsystem/graphics/2172703866372908/genesdev/2202032Mm_AACR23AM_CSHL_160x800_1.jpg?ad=56643&amp;adview=true"
+                          alt="AACR" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.life-science-alliance.org/?v=genes_and_development">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_lib.js"></script>
+               <script type="text/javascript" src="https://www.cshsymposium.org/vxz2_gd.js"></script>
+               </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.genesdev.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2023 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">0890-9369</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5477</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+
+        var pageTracker = _gat._getTracker("UA-743586-1");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();  
+
+        } catch(err) {}
+        </script>
+            </div><script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-189672-38");
+        pageTracker._setDomainName(".cshlp.org");
+        _gat._anonymizeIp();
+        pageTracker._trackPageview();
+
+
+        } catch(err) {}
+        </script></div>
+   </body>
+</html>
